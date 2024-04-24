@@ -1,0 +1,2081 @@
+Thu, 22 Feb 2024 19:32:03.713.0 - INFO - root - ['slam-jam-x-dunk-high-white-clear-slamjam-dunk-clr']
+Thu, 22 Feb 2024 19:32:03.917.0 - INFO - root - ['slam-jam-x-dunk-high-white-clear-slamjam-dunk-clr']
+Thu, 22 Feb 2024 19:32:04.580.0 - INFO - root - SKU: DA1639-101 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:32:04.811.0 - INFO - root - ['slam-jam-x-dunk-high-white-clear-slamjam-dunk-clr']
+Thu, 22 Feb 2024 19:32:04.833.0 - INFO - root - SKU: DA1639-101 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:32:05.1.0 - INFO - root - ['slam-jam-x-dunk-high-white-clear-slamjam-dunk-clr']
+Thu, 22 Feb 2024 19:32:05.616.0 - INFO - root - SKU: DA1639-101 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:32:05.754.0 - INFO - root - ['slam-jam-x-dunk-high-white-clear-slamjam-dunk-clr']
+Thu, 22 Feb 2024 19:32:05.830.0 - INFO - root - ['slam-jam-x-dunk-high-white-clear-slamjam-dunk-clr']
+Thu, 22 Feb 2024 19:32:05.892.0 - INFO - root - 价钱不符合条件 22300 差价：-895.6299999999999
+Thu, 22 Feb 2024 19:32:07.141.0 - INFO - root - SKU: 本地型号：FV4829 alias未查到相应的型号
+Thu, 22 Feb 2024 19:32:07.337.0 - INFO - root - SKU: DA1639-101 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:32:08.83.0 - INFO - root - SKU: DA1639-101 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:32:08.494.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:32:09.241.0 - INFO - root - SKU: 本地型号：FV4829 alias未查到相应的型号
+Thu, 22 Feb 2024 19:32:10.617.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:32:10.701.0 - INFO - root - ['slam-jam-x-dunk-high-white-clear-slamjam-dunk-clr']
+Thu, 22 Feb 2024 19:32:11.483.0 - INFO - root - SKU: DA1639-101 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:32:12.532.0 - INFO - root - ['slam-jam-x-dunk-high-white-clear-slamjam-dunk-clr']
+Thu, 22 Feb 2024 19:32:12.587.0 - INFO - root - ['slam-jam-x-dunk-high-white-clear-slamjam-dunk-clr']
+Thu, 22 Feb 2024 19:32:13.351.0 - INFO - root - SKU: DA1639-101 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:32:13.480.0 - INFO - root - SKU: DA1639-101 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:32:14.781.0 - ERROR - root - coverSize 1 44.5 44.5
+Thu, 22 Feb 2024 19:32:14.781.0 - INFO - root - ['slam-jam-x-dunk-high-white-clear-slamjam-dunk-clr']
+Thu, 22 Feb 2024 19:32:14.781.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:32:14.896.0 - ERROR - root - coverSize 1 44.5 44.5
+Thu, 22 Feb 2024 19:32:14.896.0 - INFO - root - ['lebron-7-mvp-cz8915-100']
+Thu, 22 Feb 2024 19:32:14.896.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:32:15.138.0 - INFO - root - ['slam-jam-x-dunk-high-white-clear-slamjam-dunk-clr']
+Thu, 22 Feb 2024 19:32:15.975.0 - INFO - root - SKU: DA1639-101 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:32:16.530.0 - INFO - root - ['lebron-7-mvp-cz8915-100']
+Thu, 22 Feb 2024 19:32:16.772.0 - INFO - root - ['lebron-7-mvp-cz8915-100']
+Thu, 22 Feb 2024 19:32:17.329.0 - INFO - root - ['lebron-7-mvp-cz8915-100']
+Thu, 22 Feb 2024 19:32:17.467.0 - INFO - root - 符合条件 鞋号CZ8915-100 价位：2000.0USD => 14380.0RMB - 得物价位：1459RMB  SIZE: 44.0=>11.5
+Thu, 22 Feb 2024 19:32:17.702.0 - INFO - root - 符合条件 鞋号CZ8915-100 价位：2000.0USD => 14380.0RMB - 得物价位：1019RMB  SIZE: 42.5=>10.5
+Thu, 22 Feb 2024 19:32:18.240.0 - INFO - root - SKU: CZ8915-100 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:32:18.395.0 - INFO - root - ['lebron-7-mvp-cz8915-100']
+Thu, 22 Feb 2024 19:32:19.314.0 - INFO - root - 符合条件 鞋号CZ8915-100 价位：2000.0USD => 14380.0RMB - 得物价位：1599RMB  SIZE: 45.0=>12
+Thu, 22 Feb 2024 19:32:21.96.0 - INFO - root - ['lebron-7-mvp-cz8915-100']
+Thu, 22 Feb 2024 19:32:21.907.0 - INFO - root - 价钱不符合条件 16000 差价：-128.5999999999999
+Thu, 22 Feb 2024 19:32:21.974.0 - INFO - root - ['lebron-7-mvp-cz8915-100']
+Thu, 22 Feb 2024 19:32:22.315.0 - INFO - root - ['lebron-7-mvp-cz8915-100']
+Thu, 22 Feb 2024 19:32:22.797.0 - INFO - root - 符合条件 鞋号CZ8915-100 价位：2000.0USD => 14380.0RMB - 得物价位：1349RMB  SIZE: 43.0=>11
+Thu, 22 Feb 2024 19:32:22.888.0 - INFO - root - ['lebron-7-mvp-cz8915-100']
+Thu, 22 Feb 2024 19:32:23.191.0 - INFO - root - SKU: CZ8915-100 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:32:23.245.0 - INFO - root - ['lebron-7-mvp-cz8915-100']
+Thu, 22 Feb 2024 19:32:23.731.0 - INFO - root - SKU: CZ8915-100 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:32:24.91.0 - INFO - root - 符合条件 鞋号CZ8915-100 价位：2000.0USD => 14380.0RMB - 得物价位：1099RMB  SIZE: 42.0=>10
+Thu, 22 Feb 2024 19:32:24.310.0 - INFO - root - ['jerry-lorenzo-x-air-fear-of-god-1-ar4237-002']
+Thu, 22 Feb 2024 19:32:25.217.0 - INFO - root - 符合条件 鞋号AR4237-002 价位：5000.0USD => 35950.0RMB - 得物价位：4839RMB  SIZE: 45.5=>12.5
+Thu, 22 Feb 2024 19:32:27.580.0 - INFO - root - ['jerry-lorenzo-x-air-fear-of-god-1-ar4237-002']
+Thu, 22 Feb 2024 19:32:28.63.0 - INFO - root - ['jerry-lorenzo-x-air-fear-of-god-1-ar4237-002']
+Thu, 22 Feb 2024 19:32:28.370.0 - INFO - root - 符合条件 鞋号AR4237-002 价位：845.0USD => 6075.55RMB - 得物价位：5309RMB  SIZE: 41.0=>9.5
+Thu, 22 Feb 2024 19:32:28.974.0 - INFO - root - 符合条件 鞋号AR4237-002 价位：5000.0USD => 35950.0RMB - 得物价位：4979RMB  SIZE: 40.5=>9
+Thu, 22 Feb 2024 19:32:29.222.0 - INFO - root - ['little-posite-one-gs-home-cz2548-100']
+Thu, 22 Feb 2024 19:32:29.248.0 - INFO - root - ['jerry-lorenzo-x-air-fear-of-god-1-ar4237-002']
+Thu, 22 Feb 2024 19:32:30.83.0 - INFO - root - SKU: CZ2548-100 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:32:30.96.0 - INFO - root - SKU: AR4237-002 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:32:31.10.0 - INFO - root - ['blazer-mid-sb-edge-hack-pack-ci3833-100']
+Thu, 22 Feb 2024 19:32:31.946.0 - INFO - root - SKU: CI3833-100 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:32:32.474.0 - INFO - root - ['blazer-mid-sb-edge-hack-pack-ci3833-100']
+Thu, 22 Feb 2024 19:32:33.411.0 - INFO - root - 符合条件 鞋号CI3833-100 价位：225.0USD => 1617.75RMB - 得物价位：1489RMB  SIZE: 42.5=>10.5
+Thu, 22 Feb 2024 19:32:33.475.0 - INFO - root - ['little-posite-one-gs-home-cz2548-100']
+Thu, 22 Feb 2024 19:32:34.247.0 - INFO - root - SKU: CZ2548-100 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:32:34.470.0 - INFO - root - ['turin-3-white-black-383037-06']
+Thu, 22 Feb 2024 19:32:35.273.0 - INFO - root - 符合条件 鞋号383037-06 价位：2000.0USD => 14380.0RMB - 得物价位：277RMB  SIZE: 37.5=>6.5
+Thu, 22 Feb 2024 19:32:35.840.0 - INFO - root - ['wmns-air-foamposite-one-usa-aa3963-102']
+Thu, 22 Feb 2024 19:32:36.62.0 - INFO - root - ['little-posite-one-gs-home-cz2548-100']
+Thu, 22 Feb 2024 19:32:36.640.0 - INFO - root - SKU: AA3963-102 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:32:36.862.0 - INFO - root - SKU: CZ2548-100 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:32:37.239.0 - INFO - root - ['wmns-air-foamposite-one-usa-aa3963-102']
+Thu, 22 Feb 2024 19:32:38.47.0 - INFO - root - 符合条件 鞋号AA3963-102 价位：2000.0USD => 14380.0RMB - 得物价位：1899RMB  SIZE: 40.0=>7
+Thu, 22 Feb 2024 19:32:38.818.0 - INFO - root - ['wmns-air-foamposite-one-usa-aa3963-102']
+Thu, 22 Feb 2024 19:32:39.327.0 - INFO - root - ['air-flightposite-china-hoop-dreams-flp-chd']
+Thu, 22 Feb 2024 19:32:39.701.0 - INFO - root - 价钱不符合条件 18800 差价：-267.28
+Thu, 22 Feb 2024 19:32:40.150.0 - INFO - root - 符合条件 鞋号CJ8010-990 价位：579.0USD => 4163.01RMB - 得物价位：1619RMB  SIZE: 43.0=>11
+Thu, 22 Feb 2024 19:32:40.919.0 - INFO - root - ['turin-3-white-black-383037-06']
+Thu, 22 Feb 2024 19:32:41.275.0 - INFO - root - ['air-flightposite-china-hoop-dreams-flp-chd']
+Thu, 22 Feb 2024 19:32:41.995.0 - INFO - root - ['yeezy-boost-700-mnvn-blue-tint-yzy-700-mnvn-blue-tint']
+Thu, 22 Feb 2024 19:32:42.80.0 - INFO - root - 符合条件 鞋号383037-06 价位：2000.0USD => 14380.0RMB - 得物价位：329RMB  SIZE: 45.0=>12
+Thu, 22 Feb 2024 19:32:42.230.0 - INFO - root - 符合条件 鞋号CJ8010-990 价位：484.0USD => 3479.96RMB - 得物价位：1369RMB  SIZE: 42.0=>10
+Thu, 22 Feb 2024 19:32:42.907.0 - INFO - root - 符合条件 鞋号GZ0711 价位：2000.0USD => 14380.0RMB - 得物价位：1609RMB  SIZE: 44.0=>11.5
+Thu, 22 Feb 2024 19:32:43.70.0 - INFO - root - ['yeezy-boost-700-mnvn-blue-tint-yzy-700-mnvn-blue-tint']
+Thu, 22 Feb 2024 19:32:43.898.0 - INFO - root - 符合条件 鞋号GZ0711 价位：2000.0USD => 14380.0RMB - 得物价位：1699RMB  SIZE: 42.5=>10.5
+Thu, 22 Feb 2024 19:32:44.653.0 - INFO - root - ['yeezy-boost-700-mnvn-blue-tint-yzy-700-mnvn-blue-tint']
+Thu, 22 Feb 2024 19:32:45.792.0 - INFO - root - ['yeezy-boost-700-mnvn-blue-tint-yzy-700-mnvn-blue-tint']
+Thu, 22 Feb 2024 19:32:46.291.0 - INFO - root - 符合条件 鞋号GZ0711 价位：2000.0USD => 14380.0RMB - 得物价位：1959RMB  SIZE: 40.0=>8.5
+Thu, 22 Feb 2024 19:32:47.641.0 - INFO - root - 符合条件 鞋号GZ0711 价位：265.0USD => 1905.3500000000001RMB - 得物价位：1428RMB  SIZE: 43.0=>11
+Thu, 22 Feb 2024 19:32:48.619.0 - INFO - root - ['air-jordan-5-retro-orange-peel-136027-148']
+Thu, 22 Feb 2024 19:32:48.671.0 - ERROR - root - coverSize 1 44.5 44.5
+Thu, 22 Feb 2024 19:32:48.671.0 - INFO - root - ['air-jordan-5-retro-orange-peel-136027-148']
+Thu, 22 Feb 2024 19:32:48.671.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:32:48.836.0 - INFO - root - ['yeezy-boost-700-mnvn-blue-tint-yzy-700-mnvn-blue-tint']
+Thu, 22 Feb 2024 19:32:49.552.0 - INFO - root - ['blazer-mid-77-vintage-white-pine-green-bq6806-115']
+Thu, 22 Feb 2024 19:32:49.906.0 - INFO - root - SKU: 136027-148 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:32:50.135.0 - INFO - root - 价钱不符合条件 27700 差价：-7.369999999999891
+Thu, 22 Feb 2024 19:32:50.696.0 - INFO - root - ['air-jordan-5-retro-orange-peel-136027-148']
+Thu, 22 Feb 2024 19:32:50.716.0 - INFO - root - 符合条件 鞋号BQ6806-115 价位：2000.0USD => 14380.0RMB - 得物价位：429RMB  SIZE: 42.0=>10
+Thu, 22 Feb 2024 19:32:52.15.0 - INFO - root - 符合条件 鞋号136027-148 价位：519.0USD => 3731.61RMB - 得物价位：2549RMB  SIZE: 41.0=>9.5
+Thu, 22 Feb 2024 19:32:52.294.0 - INFO - root - ['air-jordan-5-retro-orange-peel-136027-148']
+Thu, 22 Feb 2024 19:32:52.460.0 - INFO - root - ['air-jordan-5-retro-orange-peel-136027-148']
+Thu, 22 Feb 2024 19:32:53.83.0 - INFO - root - ['blazer-mid-77-vintage-white-pine-green-bq6806-115']
+Thu, 22 Feb 2024 19:32:53.294.0 - INFO - root - SKU: 136027-148 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:32:53.891.0 - INFO - root - SKU: 136027-148 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:32:53.990.0 - INFO - root - 符合条件 鞋号BQ6806-115 价位：2000.0USD => 14380.0RMB - 得物价位：769RMB  SIZE: 40.0=>8.5
+Thu, 22 Feb 2024 19:32:55.210.0 - INFO - root - ['adizero-adios-6-black-white-h67509']
+Thu, 22 Feb 2024 19:32:55.549.0 - INFO - root - ['blazer-mid-77-vintage-white-pine-green-bq6806-115']
+Thu, 22 Feb 2024 19:32:56.463.0 - INFO - root - 符合条件 鞋号BQ6806-115 价位：2000.0USD => 14380.0RMB - 得物价位：499RMB  SIZE: 40.5=>9
+Thu, 22 Feb 2024 19:32:56.716.0 - INFO - root - 符合条件 鞋号H67509 价位：2000.0USD => 14380.0RMB - 得物价位：588RMB  SIZE: 42.0=>10
+Thu, 22 Feb 2024 19:32:57.746.0 - INFO - root - ['adizero-adios-6-black-white-h67509']
+Thu, 22 Feb 2024 19:32:58.690.0 - INFO - root - 符合条件 鞋号H67509 价位：2000.0USD => 14380.0RMB - 得物价位：555RMB  SIZE: 44.0=>11.5
+Thu, 22 Feb 2024 19:32:59.279.0 - ERROR - root - coverSize 1 44.5 44.5
+Thu, 22 Feb 2024 19:32:59.279.0 - INFO - root - ['adizero-adios-6-black-white-h67509']
+Thu, 22 Feb 2024 19:32:59.279.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:32:59.639.0 - INFO - root - ['blazer-mid-77-vintage-white-pine-green-bq6806-115']
+Thu, 22 Feb 2024 19:32:59.814.0 - INFO - root - ['blazer-mid-77-vintage-white-pine-green-bq6806-115']
+Thu, 22 Feb 2024 19:33:00.548.0 - INFO - root - 符合条件 鞋号BQ6806-115 价位：104.0USD => 747.76RMB - 得物价位：499RMB  SIZE: 41.0=>9.5
+Thu, 22 Feb 2024 19:33:00.646.0 - INFO - root - SKU: BQ6806-115 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:33:00.884.0 - INFO - root - ['adizero-adios-6-black-white-h67509']
+Thu, 22 Feb 2024 19:33:01.702.0 - INFO - root - 符合条件 鞋号H67509 价位：98.0USD => 704.62RMB - 得物价位：598RMB  SIZE: 43.0=>11
+Thu, 22 Feb 2024 19:33:02.289.0 - INFO - root - ['adizero-adios-6-black-white-h67509']
+Thu, 22 Feb 2024 19:33:02.836.0 - INFO - root - ['adizero-adios-6-black-white-h67509']
+Thu, 22 Feb 2024 19:33:03.217.0 - INFO - root - SKU: H67509 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:33:03.708.0 - INFO - root - SKU: H67509 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:33:04.744.0 - INFO - root - ['adizero-adios-6-black-white-h67509']
+Thu, 22 Feb 2024 19:33:05.2.0 - INFO - root - ['nba-x-air-force-1-lv8-1-ho20-gs-white-ct3842-100']
+Thu, 22 Feb 2024 19:33:05.456.0 - INFO - root - 符合条件 鞋号H67509 价位：119.0USD => 855.61RMB - 得物价位：522RMB  SIZE: 41.0=>9.5
+Thu, 22 Feb 2024 19:33:05.869.0 - INFO - root - 符合条件 鞋号CT3842-100 价位：179.0USD => 1287.01RMB - 得物价位：689RMB  SIZE: 35.5=>5
+Thu, 22 Feb 2024 19:33:06.242.0 - INFO - root - ['nba-x-air-force-1-lv8-1-ho20-gs-white-ct3842-100']
+Thu, 22 Feb 2024 19:33:06.944.0 - INFO - root - ['nba-x-air-force-1-lv8-1-ho20-gs-white-ct3842-100']
+Thu, 22 Feb 2024 19:33:07.156.0 - INFO - root - SKU: CT3842-100 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:33:07.734.0 - INFO - root - 符合条件 鞋号CT3842-100 价位：115.0USD => 826.85RMB - 得物价位：749RMB  SIZE: 36.5=>6
+Thu, 22 Feb 2024 19:33:08.579.0 - INFO - root - ['nba-x-air-force-1-lv8-1-ho20-gs-white-ct3842-100']
+Thu, 22 Feb 2024 19:33:09.485.0 - INFO - root - 符合条件 鞋号CT3842-100 价位：2000.0USD => 14380.0RMB - 得物价位：639RMB  SIZE: 37.5=>6.5
+Thu, 22 Feb 2024 19:33:10.31.0 - INFO - root - ['nba-x-air-force-1-lv8-1-ho20-gs-white-ct3842-100']
+Thu, 22 Feb 2024 19:33:10.486.0 - INFO - root - ['yeezy-quantum-frozen-blue-yzy-qtm-frozen-blue']
+Thu, 22 Feb 2024 19:33:10.822.0 - INFO - root - SKU: CT3842-100 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:33:11.331.0 - INFO - root - 符合条件 鞋号GZ8872 价位：2000.0USD => 14380.0RMB - 得物价位：1399RMB  SIZE: 44.0=>11.5
+Thu, 22 Feb 2024 19:33:11.521.0 - ERROR - root - coverSize 1 37.0 37.0
+Thu, 22 Feb 2024 19:33:11.521.0 - INFO - root - ['yeezy-quantum-frozen-blue-yzy-qtm-frozen-blue']
+Thu, 22 Feb 2024 19:33:11.521.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:33:12.67.0 - INFO - root - ['yeezy-quantum-frozen-blue-yzy-qtm-frozen-blue']
+Thu, 22 Feb 2024 19:33:12.912.0 - INFO - root - 符合条件 鞋号GZ8872 价位：2000.0USD => 14380.0RMB - 得物价位：1359RMB  SIZE: 43.0=>11
+Thu, 22 Feb 2024 19:33:14.262.0 - INFO - root - ['yeezy-quantum-frozen-blue-yzy-qtm-frozen-blue']
+Thu, 22 Feb 2024 19:33:14.475.0 - ERROR - root - coverSize 1 44.5 44.5
+Thu, 22 Feb 2024 19:33:14.476.0 - INFO - root - ['renew-elevate-2-summit-white-gum-cw3406-100']
+Thu, 22 Feb 2024 19:33:14.476.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:33:15.110.0 - INFO - root - 符合条件 鞋号GZ8872 价位：2000.0USD => 14380.0RMB - 得物价位：839RMB  SIZE: 38.0=>7
+Thu, 22 Feb 2024 19:33:15.379.0 - INFO - root - ['renew-elevate-2-summit-white-gum-cw3406-100']
+Thu, 22 Feb 2024 19:33:15.890.0 - INFO - root - ['renew-elevate-2-summit-white-gum-cw3406-100']
+Thu, 22 Feb 2024 19:33:16.195.0 - INFO - root - SKU: CW3406-100 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:33:16.441.0 - INFO - root - ['renew-elevate-2-summit-white-gum-cw3406-100']
+Thu, 22 Feb 2024 19:33:16.663.0 - INFO - root - SKU: CW3406-100 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:33:17.287.0 - INFO - root - 符合条件 鞋号CW3406-100 价位：1999.0USD => 14372.810000000001RMB - 得物价位：469RMB  SIZE: 40.5=>9
+Thu, 22 Feb 2024 19:33:17.641.0 - INFO - root - ['kyrie-s2-hybrid-desert-camo-ct1971-200']
+Thu, 22 Feb 2024 19:33:18.479.0 - INFO - root - 符合条件 鞋号CT1971-200 价位：750.0USD => 5392.5RMB - 得物价位：1999RMB  SIZE: 36.0=>5.5
+Thu, 22 Feb 2024 19:33:19.847.0 - INFO - root - ['renew-elevate-2-summit-white-gum-cw3406-100']
+Thu, 22 Feb 2024 19:33:20.662.0 - INFO - root - ['renew-elevate-2-summit-white-gum-cw3406-100']
+Thu, 22 Feb 2024 19:33:20.690.0 - INFO - root - 符合条件 鞋号CW3406-100 价位：1999.0USD => 14372.810000000001RMB - 得物价位：539RMB  SIZE: 40.0=>8.5
+Thu, 22 Feb 2024 19:33:21.204.0 - INFO - root - ['renew-elevate-2-summit-white-gum-cw3406-100']
+Thu, 22 Feb 2024 19:33:21.458.0 - INFO - root - SKU: CW3406-100 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:33:22.26.0 - INFO - root - SKU: CW3406-100 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:33:22.828.0 - INFO - root - ['kyrie-s2-hybrid-desert-camo-ct1971-200']
+Thu, 22 Feb 2024 19:33:23.290.0 - ERROR - root - coverSize 1 44.5 44.5
+Thu, 22 Feb 2024 19:33:23.290.0 - INFO - root - ['kyrie-s2-hybrid-desert-camo-ct1971-200']
+Thu, 22 Feb 2024 19:33:23.290.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:33:23.654.0 - INFO - root - 符合条件 鞋号CT1971-200 价位：750.0USD => 5392.5RMB - 得物价位：2009RMB  SIZE: 40.5=>9
+Thu, 22 Feb 2024 19:33:23.884.0 - INFO - root - ['kyrie-s2-hybrid-desert-camo-ct1971-200']
+Thu, 22 Feb 2024 19:33:24.663.0 - INFO - root - SKU: CT1971-200 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:33:25.829.0 - INFO - root - ['kyrie-s2-hybrid-desert-camo-ct1971-200']
+Thu, 22 Feb 2024 19:33:26.326.0 - INFO - root - ['kyrie-s2-hybrid-desert-camo-ct1971-200']
+Thu, 22 Feb 2024 19:33:26.943.0 - INFO - root - 符合条件 鞋号CT1971-200 价位：383.0USD => 2753.77RMB - 得物价位：2499RMB  SIZE: 38.0=>7
+Thu, 22 Feb 2024 19:33:27.13.0 - INFO - root - ['pro-model-2g-cloud-white-ef9824']
+Thu, 22 Feb 2024 19:33:27.89.0 - INFO - root - 符合条件 鞋号CT1971-200 价位：750.0USD => 5392.5RMB - 得物价位：2299RMB  SIZE: 43.0=>11
+Thu, 22 Feb 2024 19:33:27.558.0 - INFO - root - ['pro-model-2g-cloud-white-ef9824']
+Thu, 22 Feb 2024 19:33:27.798.0 - INFO - root - 符合条件 鞋号EF9824 价位：2000.0USD => 14380.0RMB - 得物价位：899RMB  SIZE: 44.0=>11.5
+Thu, 22 Feb 2024 19:33:28.368.0 - INFO - root - 符合条件 鞋号EF9824 价位：2000.0USD => 14380.0RMB - 得物价位：419RMB  SIZE: 40.5=>9
+Thu, 22 Feb 2024 19:33:28.405.0 - INFO - root - ['pro-model-2g-cloud-white-ef9824']
+Thu, 22 Feb 2024 19:33:29.213.0 - INFO - root - 符合条件 鞋号EF9824 价位：2000.0USD => 14380.0RMB - 得物价位：389RMB  SIZE: 40.0=>8.5
+Thu, 22 Feb 2024 19:33:29.684.0 - INFO - root - ['pro-model-2g-cloud-white-ef9824']
+Thu, 22 Feb 2024 19:33:30.763.0 - INFO - root - 符合条件 鞋号EF9824 价位：2000.0USD => 14380.0RMB - 得物价位：599RMB  SIZE: 43.0=>11
+Thu, 22 Feb 2024 19:33:31.750.0 - INFO - root - ['kyrie-flytrap-2-ep-metallic-gold-ao4438-170']
+Thu, 22 Feb 2024 19:33:32.552.0 - INFO - root - 符合条件 鞋号AO4438-170 价位：750.0USD => 5392.5RMB - 得物价位：849RMB  SIZE: 43.0=>11
+Thu, 22 Feb 2024 19:33:33.903.0 - ERROR - root - coverSize 1 44.5 44.5
+Thu, 22 Feb 2024 19:33:33.903.0 - INFO - root - ['blazer-mid-sb-edge-hack-pack-ci3833-100']
+Thu, 22 Feb 2024 19:33:33.903.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:33:34.444.0 - INFO - root - ['little-posite-one-gs-home-cz2548-100']
+Thu, 22 Feb 2024 19:33:34.889.0 - INFO - root - ['blazer-mid-sb-edge-hack-pack-ci3833-100']
+Thu, 22 Feb 2024 19:33:35.242.0 - INFO - root - SKU: CZ2548-100 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:33:35.757.0 - INFO - root - 符合条件 鞋号CI3833-100 价位：280.0USD => 2013.2RMB - 得物价位：1389RMB  SIZE: 44.0=>11.5
+Thu, 22 Feb 2024 19:33:36.21.0 - INFO - root - ['kyrie-6-there-is-no-coming-back-bq4631-005']
+Thu, 22 Feb 2024 19:33:36.85.0 - INFO - root - ['blazer-mid-sb-edge-hack-pack-ci3833-100']
+Thu, 22 Feb 2024 19:33:36.498.0 - INFO - root - ['blazer-mid-sb-edge-hack-pack-ci3833-100']
+Thu, 22 Feb 2024 19:33:37.30.0 - INFO - root - 符合条件 鞋号BQ4631-005 价位：293.0USD => 2106.67RMB - 得物价位：1504RMB  SIZE: 42.0=>10
+Thu, 22 Feb 2024 19:33:37.410.0 - INFO - root - 价钱不符合条件 22400 差价：-100.43999999999983
+Thu, 22 Feb 2024 19:33:37.610.0 - INFO - root - ['kyrie-6-there-is-no-coming-back-bq4631-005']
+Thu, 22 Feb 2024 19:33:37.749.0 - INFO - root - SKU: CI3833-100 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:33:38.525.0 - INFO - root - ['kyrie-6-there-is-no-coming-back-bq4631-005']
+Thu, 22 Feb 2024 19:33:38.544.0 - INFO - root - 符合条件 鞋号BQ4631-005 价位：392.0USD => 2818.48RMB - 得物价位：1849RMB  SIZE: 40.5=>9
+Thu, 22 Feb 2024 19:33:39.348.0 - INFO - root - SKU: BQ4631-005 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:33:41.584.0 - INFO - root - ['jordan-why-not-zer0-3-se-pf-melon-tint-ck6612-800']
+Thu, 22 Feb 2024 19:33:42.428.0 - INFO - root - 符合条件 鞋号CK6612-800 价位：750.0USD => 5392.5RMB - 得物价位：799RMB  SIZE: 37.5=>6.5
+Thu, 22 Feb 2024 19:33:42.555.0 - INFO - root - ['air-jordan-5-retro-wings-av2405-900']
+Thu, 22 Feb 2024 19:33:42.631.0 - INFO - root - ['air-jordan-5-retro-wings-av2405-900']
+Thu, 22 Feb 2024 19:33:43.427.0 - INFO - root - SKU: AV2405-900 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:33:43.509.0 - INFO - root - 符合条件 鞋号AV2405-900 价位：2000.0USD => 14380.0RMB - 得物价位：3269RMB  SIZE: 40.5=>9
+Thu, 22 Feb 2024 19:33:43.520.0 - INFO - root - ['air-jordan-5-retro-wings-av2405-900']
+Thu, 22 Feb 2024 19:33:44.55.0 - INFO - root - ['air-jordan-5-retro-wings-av2405-900']
+Thu, 22 Feb 2024 19:33:44.524.0 - INFO - root - SKU: AV2405-900 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:33:45.105.0 - INFO - root - ['air-jordan-5-retro-wings-av2405-900']
+Thu, 22 Feb 2024 19:33:45.694.0 - INFO - root - SKU: AV2405-900 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:33:46.533.0 - INFO - root - SKU: AV2405-900 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:33:47.364.0 - INFO - root - ['jordan-why-not-zer0-3-se-pf-melon-tint-ck6612-800']
+Thu, 22 Feb 2024 19:33:47.748.0 - INFO - root - ['air-force-1-low-easter-cw0367-100']
+Thu, 22 Feb 2024 19:33:48.145.0 - INFO - root - 符合条件 鞋号CK6612-800 价位：750.0USD => 5392.5RMB - 得物价位：1299RMB  SIZE: 42.5=>10.5
+Thu, 22 Feb 2024 19:33:48.544.0 - INFO - root - 符合条件 鞋号CW0367-100 价位：999.0USD => 7182.81RMB - 得物价位：539RMB  SIZE: 35.5=>5
+Thu, 22 Feb 2024 19:33:48.988.0 - INFO - root - ['air-force-1-low-easter-cw0367-100']
+Thu, 22 Feb 2024 19:33:49.746.0 - INFO - root - SKU: CW0367-100 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:33:50.73.0 - INFO - root - SKU: 本地型号：FW6282 alias未查到相应的型号
+Thu, 22 Feb 2024 19:33:51.403.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:33:52.229.0 - INFO - root - SKU: 本地型号：FW6282 alias未查到相应的型号
+Thu, 22 Feb 2024 19:33:52.743.0 - INFO - root - ['air-force-1-low-easter-cw0367-100']
+Thu, 22 Feb 2024 19:33:52.999.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:33:53.504.0 - INFO - root - SKU: CW0367-100 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:33:53.875.0 - INFO - root - ['air-force-1-low-easter-cw0367-100']
+Thu, 22 Feb 2024 19:33:54.352.0 - INFO - root - SKU: 本地型号：FW6282 alias未查到相应的型号
+Thu, 22 Feb 2024 19:33:54.650.0 - INFO - root - SKU: CW0367-100 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:33:55.113.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:33:55.663.0 - INFO - root - SKU: 本地型号：FW6282 alias未查到相应的型号
+Thu, 22 Feb 2024 19:33:57.206.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:33:57.750.0 - INFO - root - ['air-force-1-low-easter-cw0367-100']
+Thu, 22 Feb 2024 19:33:58.548.0 - INFO - root - SKU: CW0367-100 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:33:58.573.0 - INFO - root - ['air-force-1-low-easter-cw0367-100']
+Thu, 22 Feb 2024 19:33:59.77.0 - INFO - root - SKU: 本地型号：FW6282 alias未查到相应的型号
+Thu, 22 Feb 2024 19:33:59.93.0 - INFO - root - SKU: 本地型号：FW6282 alias未查到相应的型号
+Thu, 22 Feb 2024 19:33:59.453.0 - INFO - root - SKU: CW0367-100 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:33:59.701.0 - INFO - root - ['nigel-sylvester-x-air-jordan-1-retro-high-og-bv1803-106', 'nigel-sylvester-x-air-jordan-1-retro-high-og-nigel-sylvester-sample-855729-bv1803-10600-mnjdls-084']
+Thu, 22 Feb 2024 19:34:00.471.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:34:00.562.0 - INFO - root - 符合条件 鞋号BV1803-106 价位：2000.0USD => 14380.0RMB - 得物价位：2489RMB  SIZE: 42.5=>10.5
+Thu, 22 Feb 2024 19:34:00.756.0 - INFO - root - ['nigel-sylvester-x-air-jordan-1-retro-high-og-bv1803-106', 'nigel-sylvester-x-air-jordan-1-retro-high-og-nigel-sylvester-sample-855729-bv1803-10600-mnjdls-084']
+Thu, 22 Feb 2024 19:34:01.9.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:34:01.860.0 - INFO - root - 符合条件 鞋号BV1803-106 价位：2000.0USD => 14380.0RMB - 得物价位：2599RMB  SIZE: 40.5=>9
+Thu, 22 Feb 2024 19:34:03.262.0 - INFO - root - ['nigel-sylvester-x-air-jordan-1-retro-high-og-bv1803-106', 'nigel-sylvester-x-air-jordan-1-retro-high-og-nigel-sylvester-sample-855729-bv1803-10600-mnjdls-084']
+Thu, 22 Feb 2024 19:34:04.49.0 - INFO - root - SKU: BV1803-106 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:34:04.802.0 - INFO - root - SKU: 本地型号：ABCS024-1 alias未查到相应的型号
+Thu, 22 Feb 2024 19:34:05.280.0 - INFO - root - SKU: 本地型号：ABCS024-1 alias未查到相应的型号
+Thu, 22 Feb 2024 19:34:05.755.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:34:06.232.0 - ERROR - root - coverSize 1 44.5 44.5
+Thu, 22 Feb 2024 19:34:06.233.0 - INFO - root - ['nigel-sylvester-x-air-jordan-1-retro-high-og-bv1803-106', 'nigel-sylvester-x-air-jordan-1-retro-high-og-nigel-sylvester-sample-855729-bv1803-10600-mnjdls-084']
+Thu, 22 Feb 2024 19:34:06.233.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:34:06.816.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:34:07.91.0 - INFO - root - ['air-zoom-bb-nxt-ep-dangerous-ck5708-001']
+Thu, 22 Feb 2024 19:34:07.998.0 - INFO - root - 价钱不符合条件 14100 差价：-85.20999999999992
+Thu, 22 Feb 2024 19:34:08.153.0 - INFO - root - ['nigel-sylvester-x-air-jordan-1-retro-high-og-bv1803-106', 'nigel-sylvester-x-air-jordan-1-retro-high-og-nigel-sylvester-sample-855729-bv1803-10600-mnjdls-084']
+Thu, 22 Feb 2024 19:34:09.4.0 - INFO - root - 符合条件 鞋号BV1803-106 价位：2000.0USD => 14380.0RMB - 得物价位：3544RMB  SIZE: 45.0=>12
+Thu, 22 Feb 2024 19:34:09.329.0 - INFO - root - SKU: 本地型号：ABCS066-3 alias未查到相应的型号
+Thu, 22 Feb 2024 19:34:09.829.0 - INFO - root - SKU: 本地型号：ABCS024-1 alias未查到相应的型号
+Thu, 22 Feb 2024 19:34:10.545.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:34:11.596.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:34:11.982.0 - INFO - root - ['nigel-sylvester-x-air-jordan-1-retro-high-og-bv1803-106', 'nigel-sylvester-x-air-jordan-1-retro-high-og-nigel-sylvester-sample-855729-bv1803-10600-mnjdls-084']
+Thu, 22 Feb 2024 19:34:12.66.0 - INFO - root - SKU: 本地型号：ABCS024-1 alias未查到相应的型号
+Thu, 22 Feb 2024 19:34:12.644.0 - INFO - root - 符合条件 鞋号BV1803-106 价位：2000.0USD => 14380.0RMB - 得物价位：2299RMB  SIZE: 41.0=>9.5
+Thu, 22 Feb 2024 19:34:12.650.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:34:12.952.0 - INFO - root - ['air-zoom-bb-nxt-ep-dangerous-ck5708-001']
+Thu, 22 Feb 2024 19:34:13.827.0 - INFO - root - SKU: CK5708-001 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:34:14.191.0 - INFO - root - ['air-zoom-rival-fly-3-lime-blast-ct2405-300']
+Thu, 22 Feb 2024 19:34:14.978.0 - INFO - root - SKU: CT2405-300 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:34:15.275.0 - INFO - root - ['air-zoom-rival-fly-3-lime-blast-ct2405-300']
+Thu, 22 Feb 2024 19:34:16.40.0 - INFO - root - SKU: CT2405-300 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:34:16.159.0 - ERROR - root - coverSize 1 44.5 44.5
+Thu, 22 Feb 2024 19:34:16.160.0 - INFO - root - ['air-zoom-bb-nxt-ep-dangerous-ck5708-001']
+Thu, 22 Feb 2024 19:34:16.160.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:34:17.541.0 - INFO - root - ['air-zoom-bb-nxt-ep-dangerous-ck5708-001']
+Thu, 22 Feb 2024 19:34:18.235.0 - INFO - root - ['air-zoom-bb-nxt-ep-dangerous-ck5708-001']
+Thu, 22 Feb 2024 19:34:18.392.0 - INFO - root - 符合条件 鞋号CK5708-001 价位：2000.0USD => 14380.0RMB - 得物价位：999RMB  SIZE: 42.0=>10
+Thu, 22 Feb 2024 19:34:19.65.0 - INFO - root - 符合条件 鞋号CK5708-001 价位：205.0USD => 1473.95RMB - 得物价位：809RMB  SIZE: 40.5=>9
+Thu, 22 Feb 2024 19:34:19.367.0 - INFO - root - SKU: 本地型号：DC1709-060 alias未查到相应的型号
+Thu, 22 Feb 2024 19:34:20.297.0 - INFO - root - ['air-zoom-bb-nxt-ep-dangerous-ck5708-001']
+Thu, 22 Feb 2024 19:34:20.356.0 - INFO - root - ['air-jordan-6-retro-gs-green-abyss-543390-153']
+Thu, 22 Feb 2024 19:34:20.593.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:34:21.65.0 - INFO - root - 符合条件 鞋号CK5708-001 价位：162.0USD => 1164.78RMB - 得物价位：789RMB  SIZE: 42.5=>10.5
+Thu, 22 Feb 2024 19:34:21.260.0 - INFO - root - 符合条件 鞋号543390-153 价位：190.0USD => 1366.1000000000001RMB - 得物价位：969RMB  SIZE: 36.0=>5.5
+Thu, 22 Feb 2024 19:34:22.459.0 - ERROR - root - coverSize 1 44.5 44.5
+Thu, 22 Feb 2024 19:34:22.459.0 - INFO - root - ['air-jordan-5-retro-paris-av9175-001']
+Thu, 22 Feb 2024 19:34:22.459.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:34:23.94.0 - INFO - root - ['air-jordan-5-retro-paris-av9175-001']
+Thu, 22 Feb 2024 19:34:23.925.0 - INFO - root - 价钱不符合条件 37400 差价：-519.94
+Thu, 22 Feb 2024 19:34:24.169.0 - INFO - root - SKU: 本地型号：DC1709-060 alias未查到相应的型号
+Thu, 22 Feb 2024 19:34:24.962.0 - INFO - root - ['air-jordan-6-retro-gs-green-abyss-543390-153']
+Thu, 22 Feb 2024 19:34:25.387.0 - INFO - root - ['air-jordan-5-retro-paris-av9175-001']
+Thu, 22 Feb 2024 19:34:25.436.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:34:25.830.0 - INFO - root - SKU: 543390-153 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:34:26.229.0 - INFO - root - 符合条件 鞋号AV9175-001 价位：2000.0USD => 14380.0RMB - 得物价位：3229RMB  SIZE: 42.5=>10.5
+Thu, 22 Feb 2024 19:34:26.782.0 - INFO - root - SKU: 本地型号：DC1709-060 alias未查到相应的型号
+Thu, 22 Feb 2024 19:34:27.828.0 - INFO - root - ['air-jordan-5-retro-paris-av9175-001']
+Thu, 22 Feb 2024 19:34:28.58.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:34:28.624.0 - INFO - root - SKU: AV9175-001 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:34:29.576.0 - INFO - root - ['wmns-blazer-mid-77-inifinite-watermelon-dc1746-102']
+Thu, 22 Feb 2024 19:34:29.970.0 - INFO - root - ['dunk-high-sb-prm-space-jam-bq6826-002', 'dunk-high-sb-premium-space-jam-sample-bq6826-002-s']
+Thu, 22 Feb 2024 19:34:30.460.0 - INFO - root - 符合条件 鞋号DC1746-102 价位：60.0USD => 431.40000000000003RMB - 得物价位：319RMB  SIZE: 38.0=>5.5
+Thu, 22 Feb 2024 19:34:30.919.0 - INFO - root - 价钱不符合条件 22800 差价：-19.679999999999836
+Thu, 22 Feb 2024 19:34:33.88.0 - INFO - root - ['dunk-high-sb-prm-space-jam-bq6826-002', 'dunk-high-sb-premium-space-jam-sample-bq6826-002-s']
+Thu, 22 Feb 2024 19:34:33.252.0 - INFO - root - ['dunk-high-sb-prm-space-jam-bq6826-002', 'dunk-high-sb-premium-space-jam-sample-bq6826-002-s']
+Thu, 22 Feb 2024 19:34:33.803.0 - INFO - root - ['dunk-high-sb-prm-space-jam-bq6826-002', 'dunk-high-sb-premium-space-jam-sample-bq6826-002-s']
+Thu, 22 Feb 2024 19:34:33.986.0 - INFO - root - 符合条件 鞋号BQ6826-002 价位：496.0USD => 3566.2400000000002RMB - 得物价位：699RMB  SIZE: 38.5=>7.5
+Thu, 22 Feb 2024 19:34:34.93.0 - INFO - root - 符合条件 鞋号BQ6826-002 价位：2000.0USD => 14380.0RMB - 得物价位：1259RMB  SIZE: 40.0=>8.5
+Thu, 22 Feb 2024 19:34:34.119.0 - INFO - root - ['dunk-high-sb-prm-space-jam-bq6826-002', 'dunk-high-sb-premium-space-jam-sample-bq6826-002-s']
+Thu, 22 Feb 2024 19:34:34.664.0 - INFO - root - 符合条件 鞋号BQ6826-002 价位：244.0USD => 1754.3600000000001RMB - 得物价位：699RMB  SIZE: 36.0=>5.5
+Thu, 22 Feb 2024 19:34:34.705.0 - INFO - root - SKU: 本地型号：112211601-4 alias未查到相应的型号
+Thu, 22 Feb 2024 19:34:34.723.0 - INFO - root - SKU: 本地型号：112211601-4 alias未查到相应的型号
+Thu, 22 Feb 2024 19:34:34.941.0 - INFO - root - 符合条件 鞋号BQ6826-002 价位：198.0USD => 1423.6200000000001RMB - 得物价位：619RMB  SIZE: 38.0=>7
+Thu, 22 Feb 2024 19:34:35.416.0 - INFO - root - ['dunk-high-sb-prm-space-jam-bq6826-002', 'dunk-high-sb-premium-space-jam-sample-bq6826-002-s']
+Thu, 22 Feb 2024 19:34:36.227.0 - INFO - root - 符合条件 鞋号BQ6826-002 价位：2000.0USD => 14380.0RMB - 得物价位：1449RMB  SIZE: 42.5=>10.5
+Thu, 22 Feb 2024 19:34:37.26.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:34:37.545.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:34:37.862.0 - INFO - root - SKU: 本地型号：112211601-4 alias未查到相应的型号
+Thu, 22 Feb 2024 19:34:39.412.0 - INFO - root - SKU: 本地型号：112211601-4 alias未查到相应的型号
+Thu, 22 Feb 2024 19:34:39.659.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:34:40.732.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:34:41.43.0 - INFO - root - SKU: 本地型号：112211601-4 alias未查到相应的型号
+Thu, 22 Feb 2024 19:34:41.811.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:34:42.103.0 - INFO - root - ['air-jordan-13-retro-lucky-green-db6537-113']
+Thu, 22 Feb 2024 19:34:43.153.0 - INFO - root - SKU: 本地型号：385234-01 alias未查到相应的型号
+Thu, 22 Feb 2024 19:34:43.451.0 - INFO - root - 符合条件 鞋号DB6537-113 价位：2000.0USD => 14380.0RMB - 得物价位：1189RMB  SIZE: 42.5=>10.5
+Thu, 22 Feb 2024 19:34:43.902.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:34:44.541.0 - INFO - root - SKU: 本地型号：385234-01 alias未查到相应的型号
+Thu, 22 Feb 2024 19:34:44.682.0 - INFO - root - SKU: 本地型号：385234-01 alias未查到相应的型号
+Thu, 22 Feb 2024 19:34:45.458.0 - INFO - root - SKU: 本地型号：385234-01 alias未查到相应的型号
+Thu, 22 Feb 2024 19:34:46.105.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:34:46.644.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:34:47.165.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:34:48.497.0 - INFO - root - SKU: 本地型号：385234-01 alias未查到相应的型号
+Thu, 22 Feb 2024 19:34:49.264.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:34:49.487.0 - INFO - root - SKU: 本地型号：385234-01 alias未查到相应的型号
+Thu, 22 Feb 2024 19:34:50.304.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:34:50.410.0 - INFO - root - ['air-jordan-13-retro-lucky-green-db6537-113']
+Thu, 22 Feb 2024 19:34:50.597.0 - INFO - root - ['air-jordan-13-retro-lucky-green-db6537-113']
+Thu, 22 Feb 2024 19:34:50.601.0 - INFO - root - SKU: 本地型号：385234-01 alias未查到相应的型号
+Thu, 22 Feb 2024 19:34:51.357.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:34:51.573.0 - INFO - root - 符合条件 鞋号DB6537-113 价位：2000.0USD => 14380.0RMB - 得物价位：1169RMB  SIZE: 43.0=>11
+Thu, 22 Feb 2024 19:34:51.636.0 - INFO - root - SKU: 本地型号：385234-01 alias未查到相应的型号
+Thu, 22 Feb 2024 19:34:51.674.0 - INFO - root - 价钱不符合条件 17200 差价：-62.319999999999936
+Thu, 22 Feb 2024 19:34:52.959.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:34:54.150.0 - INFO - root - ['bandulu-x-kyrie-5-ep-embroidered-splatters-ck5837-100']
+Thu, 22 Feb 2024 19:34:55.100.0 - INFO - root - ['bandulu-x-kyrie-5-ep-embroidered-splatters-ck5837-100']
+Thu, 22 Feb 2024 19:34:55.190.0 - INFO - root - 符合条件 鞋号CK5837-100 价位：388.0USD => 2789.7200000000003RMB - 得物价位：1929RMB  SIZE: 41.0=>9.5
+Thu, 22 Feb 2024 19:34:55.891.0 - INFO - root - 符合条件 鞋号CK5837-100 价位：531.0USD => 3817.8900000000003RMB - 得物价位：1879RMB  SIZE: 42.5=>10.5
+Thu, 22 Feb 2024 19:34:56.585.0 - ERROR - root - coverSize 1 44.5 44.5
+Thu, 22 Feb 2024 19:34:56.585.0 - INFO - root - ['bandulu-x-kyrie-5-ep-embroidered-splatters-ck5837-100']
+Thu, 22 Feb 2024 19:34:56.585.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:34:57.640.0 - INFO - root - ['bandulu-x-kyrie-5-ep-embroidered-splatters-ck5837-100']
+Thu, 22 Feb 2024 19:34:57.651.0 - INFO - root - ['air-jordan-13-retro-lucky-green-db6537-113']
+Thu, 22 Feb 2024 19:34:58.384.0 - INFO - root - ['air-jordan-13-retro-lucky-green-db6537-113']
+Thu, 22 Feb 2024 19:34:58.644.0 - INFO - root - 符合条件 鞋号CK5837-100 价位：2000.0USD => 14380.0RMB - 得物价位：2109RMB  SIZE: 43.0=>11
+Thu, 22 Feb 2024 19:34:58.651.0 - INFO - root - 价钱不符合条件 17500 差价：19.25
+Thu, 22 Feb 2024 19:34:58.831.0 - INFO - root - ['bandulu-x-kyrie-5-ep-embroidered-splatters-ck5837-100']
+Thu, 22 Feb 2024 19:34:59.70.0 - INFO - root - SKU: 本地型号：112211603Q-1 alias未查到相应的型号
+Thu, 22 Feb 2024 19:34:59.252.0 - INFO - root - 价钱不符合条件 16000 差价：-38.59999999999991
+Thu, 22 Feb 2024 19:34:59.692.0 - INFO - root - 符合条件 鞋号CK5837-100 价位：533.0USD => 3832.27RMB - 得物价位：2039RMB  SIZE: 42.0=>10
+Thu, 22 Feb 2024 19:34:59.936.0 - INFO - root - ['drop-type-hbr-multi-print-cw2620-101']
+Thu, 22 Feb 2024 19:35:00.808.0 - INFO - root - 符合条件 鞋号CW2620-101 价位：142.0USD => 1020.98RMB - 得物价位：419RMB  SIZE: 43.0=>11
+Thu, 22 Feb 2024 19:35:00.908.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:35:01.197.0 - INFO - root - SKU: 本地型号：112211603Q-1 alias未查到相应的型号
+Thu, 22 Feb 2024 19:35:03.510.0 - INFO - root - SKU: 本地型号：112211603Q-1 alias未查到相应的型号
+Thu, 22 Feb 2024 19:35:03.542.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:35:04.586.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:35:04.913.0 - INFO - root - SKU: 本地型号：112211603Q-1 alias未查到相应的型号
+Thu, 22 Feb 2024 19:35:05.628.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:35:06.542.0 - INFO - root - ['drop-type-hbr-multi-print-cw2620-101']
+Thu, 22 Feb 2024 19:35:07.290.0 - INFO - root - ['drop-type-hbr-multi-print-cw2620-101']
+Thu, 22 Feb 2024 19:35:07.451.0 - INFO - root - 符合条件 鞋号CW2620-101 价位：2000.0USD => 14380.0RMB - 得物价位：409RMB  SIZE: 41.0=>9.5
+Thu, 22 Feb 2024 19:35:08.29.0 - INFO - root - ['rokit-x-kyrie-5-ep-all-star-cj7853-900']
+Thu, 22 Feb 2024 19:35:08.90.0 - INFO - root - SKU: CW2620-101 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:35:08.343.0 - ERROR - root - coverSize 1 44.5 44.5
+Thu, 22 Feb 2024 19:35:08.343.0 - INFO - root - ['rokit-x-kyrie-5-ep-all-star-cj7853-900']
+Thu, 22 Feb 2024 19:35:08.343.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:35:08.608.0 - INFO - root - ['rokit-x-kyrie-5-ep-all-star-cj7853-900']
+Thu, 22 Feb 2024 19:35:08.997.0 - INFO - root - 符合条件 鞋号CJ7853-900 价位：401.0USD => 2883.19RMB - 得物价位：1749RMB  SIZE: 43.0=>11
+Thu, 22 Feb 2024 19:35:09.435.0 - INFO - root - 符合条件 鞋号CJ7853-900 价位：246.0USD => 1768.74RMB - 得物价位：1439RMB  SIZE: 42.0=>10
+Thu, 22 Feb 2024 19:35:10.732.0 - INFO - root - ['rokit-x-kyrie-5-ep-all-star-cj7853-900']
+Thu, 22 Feb 2024 19:35:11.386.0 - INFO - root - ['rokit-x-kyrie-5-ep-all-star-cj7853-900']
+Thu, 22 Feb 2024 19:35:11.589.0 - INFO - root - SKU: CJ7853-900 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:35:12.151.0 - INFO - root - 符合条件 鞋号CJ7853-900 价位：395.0USD => 2840.05RMB - 得物价位：1429RMB  SIZE: 45.0=>12
+Thu, 22 Feb 2024 19:35:12.369.0 - INFO - root - ['drop-type-hbr-multi-print-cw2620-101']
+Thu, 22 Feb 2024 19:35:13.141.0 - INFO - root - 符合条件 鞋号CW2620-101 价位：114.0USD => 819.6600000000001RMB - 得物价位：419RMB  SIZE: 42.0=>10
+Thu, 22 Feb 2024 19:35:14.329.0 - INFO - root - ['drop-type-hbr-multi-print-cw2620-101']
+Thu, 22 Feb 2024 19:35:14.467.0 - INFO - root - SKU: 本地型号：112211605-6 alias未查到相应的型号
+Thu, 22 Feb 2024 19:35:15.195.0 - INFO - root - 符合条件 鞋号CW2620-101 价位：84.0USD => 603.96RMB - 得物价位：459RMB  SIZE: 42.5=>10.5
+Thu, 22 Feb 2024 19:35:15.283.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:35:16.166.0 - INFO - root - SKU: 本地型号：112218072-3 alias未查到相应的型号
+Thu, 22 Feb 2024 19:35:17.384.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:35:18.267.0 - INFO - root - SKU: 本地型号：112211605-6 alias未查到相应的型号
+Thu, 22 Feb 2024 19:35:18.738.0 - INFO - root - ['rokit-x-kyrie-5-ep-all-star-cj7853-900']
+Thu, 22 Feb 2024 19:35:18.951.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:35:19.242.0 - INFO - root - ['rokit-x-kyrie-5-ep-all-star-cj7853-900']
+Thu, 22 Feb 2024 19:35:19.556.0 - INFO - root - 符合条件 鞋号CJ7853-900 价位：246.0USD => 1768.74RMB - 得物价位：1459RMB  SIZE: 42.5=>10.5
+Thu, 22 Feb 2024 19:35:19.954.0 - INFO - root - SKU: 本地型号：112211605-6 alias未查到相应的型号
+Thu, 22 Feb 2024 19:35:20.47.0 - INFO - root - 符合条件 鞋号CJ7853-900 价位：419.0USD => 3012.61RMB - 得物价位：1199RMB  SIZE: 41.0=>9.5
+Thu, 22 Feb 2024 19:35:20.293.0 - INFO - root - SKU: 本地型号：112211605-6 alias未查到相应的型号
+Thu, 22 Feb 2024 19:35:20.869.0 - ERROR - root - coverSize 1 37.0 37.0
+Thu, 22 Feb 2024 19:35:20.869.0 - INFO - root - ['ca-pro-white-grey-386083-17']
+Thu, 22 Feb 2024 19:35:20.869.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:35:21.89.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:35:22.589.0 - INFO - root - SKU: 本地型号：112218072-3 alias未查到相应的型号
+Thu, 22 Feb 2024 19:35:22.677.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:35:23.725.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:35:24.62.0 - INFO - root - ['wmns-air-more-uptempo-light-citron-dm3035-100']
+Thu, 22 Feb 2024 19:35:24.816.0 - INFO - root - 符合条件 鞋号DM3035-100 价位：486.0USD => 3494.34RMB - 得物价位：1529RMB  SIZE: 38.5=>6
+Thu, 22 Feb 2024 19:35:25.340.0 - INFO - root - ['ca-pro-white-grey-386083-17']
+Thu, 22 Feb 2024 19:35:26.151.0 - INFO - root - SKU: 本地型号：112218072-3 alias未查到相应的型号
+Thu, 22 Feb 2024 19:35:26.350.0 - INFO - root - 符合条件 鞋号386083-17 价位：2000.0USD => 14380.0RMB - 得物价位：489RMB  SIZE: 42.0=>10
+Thu, 22 Feb 2024 19:35:26.890.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:35:27.216.0 - INFO - root - ['wmns-air-more-uptempo-light-citron-dm3035-100']
+Thu, 22 Feb 2024 19:35:27.791.0 - INFO - root - SKU: 本地型号：112218072-3 alias未查到相应的型号
+Thu, 22 Feb 2024 19:35:28.110.0 - INFO - root - 符合条件 鞋号DM3035-100 价位：2000.0USD => 14380.0RMB - 得物价位：1299RMB  SIZE: 39.0=>6.5
+Thu, 22 Feb 2024 19:35:28.468.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:35:29.670.0 - INFO - root - SKU: 本地型号：112218072-3 alias未查到相应的型号
+Thu, 22 Feb 2024 19:35:30.17.0 - INFO - root - ['ca-pro-white-grey-386083-17']
+Thu, 22 Feb 2024 19:35:30.625.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:35:30.823.0 - INFO - root - 符合条件 鞋号386083-17 价位：2000.0USD => 14380.0RMB - 得物价位：509RMB  SIZE: 41.0=>9.5
+Thu, 22 Feb 2024 19:35:31.49.0 - INFO - root - ['ca-pro-white-grey-386083-17']
+Thu, 22 Feb 2024 19:35:31.979.0 - INFO - root - 符合条件 鞋号386083-17 价位：2000.0USD => 14380.0RMB - 得物价位：439RMB  SIZE: 40.0=>8.5
+Thu, 22 Feb 2024 19:35:34.223.0 - INFO - root - ['blazer-mid-77-infinite-white-kumquat-da7233-100']
+Thu, 22 Feb 2024 19:35:34.372.0 - INFO - root - ['wmns-air-more-uptempo-light-citron-dm3035-100']
+Thu, 22 Feb 2024 19:35:34.408.0 - INFO - root - SKU: 本地型号：112218072-3 alias未查到相应的型号
+Thu, 22 Feb 2024 19:35:34.849.0 - INFO - root - SKU: 本地型号：112218072-3 alias未查到相应的型号
+Thu, 22 Feb 2024 19:35:35.50.0 - INFO - root - 符合条件 鞋号DA7233-100 价位：110.0USD => 790.9000000000001RMB - 得物价位：589RMB  SIZE: 42.0=>10
+Thu, 22 Feb 2024 19:35:35.222.0 - INFO - root - ['ca-pro-white-grey-386083-17']
+Thu, 22 Feb 2024 19:35:35.241.0 - INFO - root - 符合条件 鞋号DM3035-100 价位：2000.0USD => 14380.0RMB - 得物价位：2389RMB  SIZE: 41.0=>8
+Thu, 22 Feb 2024 19:35:35.418.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:35:35.722.0 - INFO - root - ['air-jordan-6-retro-gs-green-abyss-543390-153']
+Thu, 22 Feb 2024 19:35:35.951.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:35:36.42.0 - INFO - root - 符合条件 鞋号386083-17 价位：2000.0USD => 14380.0RMB - 得物价位：339RMB  SIZE: 44.0=>11.5
+Thu, 22 Feb 2024 19:35:36.565.0 - INFO - root - SKU: 543390-153 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:35:38.242.0 - INFO - root - SKU: 本地型号：DC1709-060 alias未查到相应的型号
+Thu, 22 Feb 2024 19:35:39.629.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:35:39.974.0 - INFO - root - ['air-jordan-5-retro-paris-av9175-001']
+Thu, 22 Feb 2024 19:35:40.899.0 - INFO - root - 符合条件 鞋号AV9175-001 价位：2000.0USD => 14380.0RMB - 得物价位：6999RMB  SIZE: 40.0=>8.5
+Thu, 22 Feb 2024 19:35:42.540.0 - INFO - root - ['air-jordan-6-retro-gs-green-abyss-543390-153']
+Thu, 22 Feb 2024 19:35:42.554.0 - INFO - root - ['air-jordan-6-retro-gs-green-abyss-543390-153']
+Thu, 22 Feb 2024 19:35:43.64.0 - INFO - root - ['court-borough-mid-2-gs-pink-foam-cd7782-104']
+Thu, 22 Feb 2024 19:35:43.163.0 - INFO - root - ['court-borough-mid-2-gs-pink-foam-cd7782-104']
+Thu, 22 Feb 2024 19:35:43.372.0 - INFO - root - 符合条件 鞋号543390-153 价位：277.0USD => 1991.63RMB - 得物价位：1179RMB  SIZE: 37.5=>6.5
+Thu, 22 Feb 2024 19:35:43.396.0 - INFO - root - 价钱不符合条件 12000 差价：-266.19999999999993
+Thu, 22 Feb 2024 19:35:43.613.0 - INFO - root - ['court-borough-mid-2-gs-pink-foam-cd7782-104']
+Thu, 22 Feb 2024 19:35:43.866.0 - INFO - root - SKU: CD7782-104 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:35:44.273.0 - INFO - root - 价钱不符合条件 13100 差价：-17.1099999999999
+Thu, 22 Feb 2024 19:35:44.583.0 - INFO - root - 价钱不符合条件 10800 差价：-272.4799999999999
+Thu, 22 Feb 2024 19:35:45.246.0 - INFO - root - ['off-white-x-wmns-vapor-street-cd8178-001']
+Thu, 22 Feb 2024 19:35:46.165.0 - INFO - root - SKU: CD8178-001 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:35:46.825.0 - INFO - root - ['court-borough-mid-2-gs-pink-foam-cd7782-104']
+Thu, 22 Feb 2024 19:35:47.64.0 - INFO - root - ['off-white-x-wmns-vapor-street-cd8178-001']
+Thu, 22 Feb 2024 19:35:47.573.0 - INFO - root - 符合条件 鞋号CD7782-104 价位：142.0USD => 1020.98RMB - 得物价位：979RMB  SIZE: 36.0=>5.5
+Thu, 22 Feb 2024 19:35:48.612.0 - INFO - root - 价钱不符合条件 11800 差价：-50.57999999999993
+Thu, 22 Feb 2024 19:35:48.963.0 - INFO - root - ['off-white-x-wmns-vapor-street-cd8178-001']
+Thu, 22 Feb 2024 19:35:49.788.0 - INFO - root - SKU: CD8178-001 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:35:50.472.0 - INFO - root - ['court-borough-mid-2-gs-pink-foam-cd7782-104']
+Thu, 22 Feb 2024 19:35:51.305.0 - INFO - root - SKU: CD7782-104 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:35:51.620.0 - INFO - root - ['court-borough-mid-2-gs-pink-foam-cd7782-104']
+Thu, 22 Feb 2024 19:35:51.694.0 - INFO - root - SKU: 本地型号：112148080-7 alias未查到相应的型号
+Thu, 22 Feb 2024 19:35:52.585.0 - INFO - root - ['off-white-x-wmns-vapor-street-cd8178-001']
+Thu, 22 Feb 2024 19:35:52.806.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:35:53.88.0 - INFO - root - SKU: CD7782-104 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:35:53.433.0 - INFO - root - 价钱不符合条件 16000 差价：-648.5999999999999
+Thu, 22 Feb 2024 19:35:55.554.0 - INFO - root - ['off-white-x-wmns-vapor-street-cd8178-001']
+Thu, 22 Feb 2024 19:35:55.859.0 - INFO - root - ['off-white-x-wmns-vapor-street-cd8178-001']
+Thu, 22 Feb 2024 19:35:56.377.0 - INFO - root - 价钱不符合条件 11300 差价：3.4700000000000273
+Thu, 22 Feb 2024 19:35:56.718.0 - INFO - root - ['off-white-x-wmns-vapor-street-cd8178-001']
+Thu, 22 Feb 2024 19:35:56.733.0 - INFO - root - 价钱不符合条件 10300 差价：-128.42999999999995
+Thu, 22 Feb 2024 19:35:56.935.0 - INFO - root - SKU: 本地型号：112148080-7 alias未查到相应的型号
+Thu, 22 Feb 2024 19:35:57.567.0 - INFO - root - SKU: CD8178-001 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:35:58.721.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:35:59.128.0 - INFO - root - ['off-white-x-wmns-vapor-street-cd8178-001']
+Thu, 22 Feb 2024 19:35:59.741.0 - INFO - root - ['off-white-x-wmns-vapor-street-cd8178-001']
+Thu, 22 Feb 2024 19:35:59.920.0 - INFO - root - SKU: CD8178-001 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:36:00.698.0 - INFO - root - SKU: CD8178-001 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:36:00.787.0 - INFO - root - SKU: 本地型号：112148080-7 alias未查到相应的型号
+Thu, 22 Feb 2024 19:36:01.111.0 - INFO - root - SKU: 本地型号：112148080-7 alias未查到相应的型号
+Thu, 22 Feb 2024 19:36:02.165.0 - INFO - root - SKU: 本地型号：112148080-7 alias未查到相应的型号
+Thu, 22 Feb 2024 19:36:02.368.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:36:02.888.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:36:03.940.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:36:04.251.0 - INFO - root - SKU: 本地型号：112148080-7 alias未查到相应的型号
+Thu, 22 Feb 2024 19:36:04.976.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:36:05.260.0 - INFO - root - SKU: 本地型号：112148080-7 alias未查到相应的型号
+Thu, 22 Feb 2024 19:36:06.11.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:36:07.520.0 - INFO - root - ['playstation-x-pg-2-5-multi-color-ps-pg25']
+Thu, 22 Feb 2024 19:36:08.345.0 - INFO - root - ['playstation-x-pg-2-5-multi-color-ps-pg25']
+Thu, 22 Feb 2024 19:36:08.433.0 - INFO - root - SKU: BQ8388-001 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:36:08.591.0 - INFO - root - ['react-infinity-run-black-cd4371-002']
+Thu, 22 Feb 2024 19:36:08.928.0 - INFO - root - ['playstation-x-pg-2-5-multi-color-ps-pg25']
+Thu, 22 Feb 2024 19:36:08.933.0 - ERROR - root - coverSize 1 47.5 47.5
+Thu, 22 Feb 2024 19:36:08.934.0 - INFO - root - ['react-infinity-run-black-cd4371-002']
+Thu, 22 Feb 2024 19:36:08.934.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:36:09.157.0 - INFO - root - SKU: BQ8388-001 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:36:09.428.0 - INFO - root - 符合条件 鞋号CD4371-002 价位：2000.0USD => 14380.0RMB - 得物价位：979RMB  SIZE: 42.0=>10
+Thu, 22 Feb 2024 19:36:09.638.0 - INFO - root - SKU: 本地型号：112148851-2 alias未查到相应的型号
+Thu, 22 Feb 2024 19:36:09.856.0 - INFO - root - SKU: BQ8388-001 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:36:10.793.0 - INFO - root - ['react-infinity-run-black-cd4371-002']
+Thu, 22 Feb 2024 19:36:11.248.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:36:11.651.0 - INFO - root - SKU: CD4371-002 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:36:12.605.0 - INFO - root - ['react-infinity-run-black-cd4371-002']
+Thu, 22 Feb 2024 19:36:13.481.0 - INFO - root - 符合条件 鞋号CD4371-002 价位：386.0USD => 2775.34RMB - 得物价位：899RMB  SIZE: 41.0=>9.5
+Thu, 22 Feb 2024 19:36:15.736.0 - INFO - root - ['react-infinity-run-black-cd4371-002']
+Thu, 22 Feb 2024 19:36:15.744.0 - ERROR - root - coverSize 1 44.5 44.5
+Thu, 22 Feb 2024 19:36:15.744.0 - INFO - root - ['playstation-x-pg-2-5-multi-color-ps-pg25']
+Thu, 22 Feb 2024 19:36:15.744.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:36:16.233.0 - INFO - root - ['diamond-x-dunk-low-sb-black-dmnd-dunk-blk']
+Thu, 22 Feb 2024 19:36:16.299.0 - INFO - root - ['playstation-x-pg-2-5-multi-color-ps-pg25']
+Thu, 22 Feb 2024 19:36:16.523.0 - INFO - root - 符合条件 鞋号CD4371-002 价位：362.0USD => 2602.78RMB - 得物价位：779RMB  SIZE: 43.0=>11
+Thu, 22 Feb 2024 19:36:17.33.0 - INFO - root - ['diamond-x-dunk-low-sb-black-dmnd-dunk-blk']
+Thu, 22 Feb 2024 19:36:17.107.0 - INFO - root - SKU: BQ8388-001 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:36:17.165.0 - INFO - root - 符合条件 鞋号BV1310-001 价位：263.0USD => 1890.97RMB - 得物价位：1359RMB  SIZE: 36.0=>5.5
+Thu, 22 Feb 2024 19:36:17.897.0 - INFO - root - ['diamond-x-dunk-low-sb-black-dmnd-dunk-blk']
+Thu, 22 Feb 2024 19:36:17.972.0 - INFO - root - 符合条件 鞋号BV1310-001 价位：2000.0USD => 14380.0RMB - 得物价位：1449RMB  SIZE: 37.5=>6.5
+Thu, 22 Feb 2024 19:36:18.794.0 - INFO - root - 符合条件 鞋号BV1310-001 价位：2000.0USD => 14380.0RMB - 得物价位：2889RMB  SIZE: 43.0=>11
+Thu, 22 Feb 2024 19:36:20.59.0 - INFO - root - SKU: 本地型号：112148851-2 alias未查到相应的型号
+Thu, 22 Feb 2024 19:36:21.295.0 - INFO - root - SKU: 本地型号：112148851-2 alias未查到相应的型号
+Thu, 22 Feb 2024 19:36:21.357.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:36:21.674.0 - INFO - root - ['diamond-x-dunk-low-sb-black-dmnd-dunk-blk']
+Thu, 22 Feb 2024 19:36:22.406.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:36:22.613.0 - INFO - root - 符合条件 鞋号BV1310-001 价位：468.0USD => 3364.92RMB - 得物价位：2899RMB  SIZE: 41.0=>9.5
+Thu, 22 Feb 2024 19:36:23.739.0 - INFO - root - ['diamond-x-dunk-low-sb-black-dmnd-dunk-blk']
+Thu, 22 Feb 2024 19:36:23.770.0 - INFO - root - SKU: 本地型号：112148851-2 alias未查到相应的型号
+Thu, 22 Feb 2024 19:36:24.521.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:36:24.571.0 - INFO - root - 符合条件 鞋号BV1310-001 价位：2000.0USD => 14380.0RMB - 得物价位：1489RMB  SIZE: 38.5=>7.5
+Thu, 22 Feb 2024 19:36:25.830.0 - INFO - root - SKU: 本地型号：112148851-2 alias未查到相应的型号
+Thu, 22 Feb 2024 19:36:26.634.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:36:26.929.0 - INFO - root - ['air-zoom-pegasus-37-shield-black-pure-platinum-cq7935-002']
+Thu, 22 Feb 2024 19:36:27.101.0 - INFO - root - ['air-zoom-pegasus-37-shield-black-pure-platinum-cq7935-002']
+Thu, 22 Feb 2024 19:36:27.792.0 - INFO - root - 符合条件 鞋号CQ7935-002 价位：2000.0USD => 14380.0RMB - 得物价位：759RMB  SIZE: 41.0=>9.5
+Thu, 22 Feb 2024 19:36:27.901.0 - INFO - root - SKU: CQ7935-002 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:36:28.163.0 - INFO - root - ['wmns-air-force-1-high-light-wood-brown-db5080-100']
+Thu, 22 Feb 2024 19:36:28.529.0 - INFO - root - ['air-zoom-pegasus-37-shield-black-pure-platinum-cq7935-002']
+Thu, 22 Feb 2024 19:36:28.950.0 - INFO - root - 价钱不符合条件 15600 差价：-57.3599999999999
+Thu, 22 Feb 2024 19:36:29.326.0 - INFO - root - SKU: CQ7935-002 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:36:29.387.0 - INFO - root - ['wmns-air-force-1-high-light-wood-brown-db5080-100']
+Thu, 22 Feb 2024 19:36:30.236.0 - INFO - root - SKU: DB5080-100 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:36:30.635.0 - INFO - root - ['wmns-air-force-1-high-light-wood-brown-db5080-100']
+Thu, 22 Feb 2024 19:36:31.432.0 - INFO - root - 价钱不符合条件 12800 差价：-88.67999999999995
+Thu, 22 Feb 2024 19:36:33.748.0 - INFO - root - ['air-zoom-pegasus-37-shield-black-pure-platinum-cq7935-002']
+Thu, 22 Feb 2024 19:36:34.338.0 - INFO - root - ['air-zoom-pegasus-37-shield-black-pure-platinum-cq7935-002']
+Thu, 22 Feb 2024 19:36:34.763.0 - INFO - root - SKU: CQ7935-002 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:36:34.818.0 - ERROR - root - coverSize 1 44.5 44.5
+Thu, 22 Feb 2024 19:36:34.818.0 - INFO - root - ['air-zoom-pegasus-37-shield-black-pure-platinum-cq7935-002']
+Thu, 22 Feb 2024 19:36:34.818.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:36:34.910.0 - INFO - root - ['wmns-air-force-1-high-light-wood-brown-db5080-100']
+Thu, 22 Feb 2024 19:36:35.170.0 - INFO - root - 符合条件 鞋号CQ7935-002 价位：2000.0USD => 14380.0RMB - 得物价位：849RMB  SIZE: 42.5=>10.5
+Thu, 22 Feb 2024 19:36:35.381.0 - INFO - root - ['wmns-air-force-1-high-light-wood-brown-db5080-100']
+Thu, 22 Feb 2024 19:36:35.900.0 - INFO - root - ['wmns-air-force-1-high-light-wood-brown-db5080-100']
+Thu, 22 Feb 2024 19:36:36.20.0 - INFO - root - 价钱不符合条件 11300 差价：-156.52999999999997
+Thu, 22 Feb 2024 19:36:36.220.0 - INFO - root - SKU: DB5080-100 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:36:36.752.0 - INFO - root - SKU: DB5080-100 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:36:36.979.0 - INFO - root - ['wmns-blazer-mid-77-inifinite-watermelon-dc1746-102']
+Thu, 22 Feb 2024 19:36:37.857.0 - INFO - root - 符合条件 鞋号DC1746-102 价位：62.0USD => 445.78000000000003RMB - 得物价位：309RMB  SIZE: 37.5=>5
+Thu, 22 Feb 2024 19:36:38.540.0 - INFO - root - ['wmns-blazer-mid-77-inifinite-watermelon-dc1746-102']
+Thu, 22 Feb 2024 19:36:39.392.0 - INFO - root - SKU: DC1746-102 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:36:40.174.0 - INFO - root - ['wmns-blazer-mid-77-inifinite-watermelon-dc1746-102']
+Thu, 22 Feb 2024 19:36:41.175.0 - INFO - root - SKU: DC1746-102 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:36:41.324.0 - INFO - root - ['ca-pro-white-grey-386083-17']
+Thu, 22 Feb 2024 19:36:42.210.0 - INFO - root - 符合条件 鞋号386083-17 价位：2000.0USD => 14380.0RMB - 得物价位：459RMB  SIZE: 40.5=>9
+Thu, 22 Feb 2024 19:36:43.500.0 - INFO - root - ['blazer-mid-77-infinite-white-kumquat-da7233-100']
+Thu, 22 Feb 2024 19:36:44.297.0 - INFO - root - ['blazer-mid-77-infinite-white-kumquat-da7233-100']
+Thu, 22 Feb 2024 19:36:44.602.0 - INFO - root - 符合条件 鞋号DA7233-100 价位：89.0USD => 639.9100000000001RMB - 得物价位：579RMB  SIZE: 41.0=>9.5
+Thu, 22 Feb 2024 19:36:45.87.0 - INFO - root - ['wmns-air-more-uptempo-light-citron-dm3035-100']
+Thu, 22 Feb 2024 19:36:45.157.0 - INFO - root - SKU: DA7233-100 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:36:45.560.0 - INFO - root - ['ca-pro-white-grey-386083-17']
+Thu, 22 Feb 2024 19:36:45.591.0 - INFO - root - ['wmns-air-more-uptempo-light-citron-dm3035-100']
+Thu, 22 Feb 2024 19:36:46.36.0 - INFO - root - SKU: DM3035-100 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:36:46.473.0 - INFO - root - 价钱不符合条件 23600 差价：-302.15999999999985
+Thu, 22 Feb 2024 19:36:46.509.0 - INFO - root - 符合条件 鞋号386083-17 价位：2000.0USD => 14380.0RMB - 得物价位：479RMB  SIZE: 42.5=>10.5
+Thu, 22 Feb 2024 19:36:46.634.0 - INFO - root - ['wmns-air-more-uptempo-light-citron-dm3035-100']
+Thu, 22 Feb 2024 19:36:47.724.0 - INFO - root - ['ca-pro-white-grey-386083-17']
+Thu, 22 Feb 2024 19:36:47.748.0 - INFO - root - 符合条件 鞋号DM3035-100 价位：431.0USD => 3098.8900000000003RMB - 得物价位：1459RMB  SIZE: 40.5=>7.5
+Thu, 22 Feb 2024 19:36:48.548.0 - INFO - root - 符合条件 鞋号386083-17 价位：2000.0USD => 14380.0RMB - 得物价位：439RMB  SIZE: 43.0=>11
+Thu, 22 Feb 2024 19:36:49.865.0 - INFO - root - ['ca-pro-white-grey-386083-17']
+Thu, 22 Feb 2024 19:36:50.725.0 - INFO - root - 符合条件 鞋号386083-17 价位：2000.0USD => 14380.0RMB - 得物价位：459RMB  SIZE: 35.5=>5
+Thu, 22 Feb 2024 19:36:51.461.0 - INFO - root - ['air-jordan-6-retro-gatorade-384664-145', 'air-jordan-6-retro-gatorade-sample-384664-145-s']
+Thu, 22 Feb 2024 19:36:52.307.0 - INFO - root - SKU: 384664-145 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:36:53.410.0 - INFO - root - SKU: 本地型号：112215586-5 alias未查到相应的型号
+Thu, 22 Feb 2024 19:36:53.658.0 - INFO - root - SKU: 本地型号：112215586-5 alias未查到相应的型号
+Thu, 22 Feb 2024 19:36:53.772.0 - INFO - root - SKU: 本地型号：DN4242-141 alias未查到相应的型号
+Thu, 22 Feb 2024 19:36:54.333.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:36:54.820.0 - INFO - root - SKU: 本地型号：DN4242-141 alias未查到相应的型号
+Thu, 22 Feb 2024 19:36:54.862.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:36:55.375.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:36:56.444.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:36:58.140.0 - ERROR - root - coverSize 1 44.5 44.5
+Thu, 22 Feb 2024 19:36:58.141.0 - INFO - root - ['air-jordan-6-retro-gatorade-384664-145', 'air-jordan-6-retro-gatorade-sample-384664-145-s']
+Thu, 22 Feb 2024 19:36:58.141.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:36:58.563.0 - INFO - root - SKU: 本地型号：FX3819 alias未查到相应的型号
+Thu, 22 Feb 2024 19:36:58.596.0 - INFO - root - ['air-jordan-6-retro-gatorade-384664-145', 'air-jordan-6-retro-gatorade-sample-384664-145-s']
+Thu, 22 Feb 2024 19:36:59.145.0 - INFO - root - ['d-o-n-issue-3-gca-gold-medal-gv7259']
+Thu, 22 Feb 2024 19:36:59.381.0 - INFO - root - ['air-jordan-6-retro-gatorade-384664-145', 'air-jordan-6-retro-gatorade-sample-384664-145-s']
+Thu, 22 Feb 2024 19:36:59.523.0 - INFO - root - SKU: 384664-145 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:36:59.628.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:36:59.928.0 - INFO - root - ['d-o-n-issue-3-gca-gold-medal-gv7259']
+Thu, 22 Feb 2024 19:37:00.24.0 - INFO - root - 符合条件 鞋号GV7259 价位：109.0USD => 783.71RMB - 得物价位：649RMB  SIZE: 40.0=>8.5
+Thu, 22 Feb 2024 19:37:00.341.0 - INFO - root - 价钱不符合条件 23800 差价：-87.77999999999997
+Thu, 22 Feb 2024 19:37:00.935.0 - INFO - root - SKU: GV7259 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:37:01.480.0 - INFO - root - SKU: 本地型号：112218840-1 alias未查到相应的型号
+Thu, 22 Feb 2024 19:37:03.412.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:37:03.653.0 - INFO - root - SKU: 本地型号：112218840-1 alias未查到相应的型号
+Thu, 22 Feb 2024 19:37:04.438.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:37:05.791.0 - ERROR - root - coverSize 1 44.5 44.5
+Thu, 22 Feb 2024 19:37:05.791.0 - INFO - root - ['d-o-n-issue-3-gca-gold-medal-gv7259']
+Thu, 22 Feb 2024 19:37:05.791.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:37:06.314.0 - INFO - root - SKU: 本地型号：112218840-1 alias未查到相应的型号
+Thu, 22 Feb 2024 19:37:06.826.0 - INFO - root - SKU: 本地型号：112218840-1 alias未查到相应的型号
+Thu, 22 Feb 2024 19:37:07.80.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:37:07.406.0 - INFO - root - ['zoom-flight-gs-ombre-swoosh-ck0787-101']
+Thu, 22 Feb 2024 19:37:08.125.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:37:08.206.0 - INFO - root - SKU: CK0787-101 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:37:08.208.0 - INFO - root - SKU: 本地型号：112218840-1 alias未查到相应的型号
+Thu, 22 Feb 2024 19:37:08.412.0 - INFO - root - ['zoom-flight-gs-ombre-swoosh-ck0787-101']
+Thu, 22 Feb 2024 19:37:09.187.0 - INFO - root - 符合条件 鞋号CK0787-101 价位：133.0USD => 956.2700000000001RMB - 得物价位：459RMB  SIZE: 36.0=>5.5
+Thu, 22 Feb 2024 19:37:09.497.0 - INFO - root - SKU: 本地型号：112218011S-1 alias未查到相应的型号
+Thu, 22 Feb 2024 19:37:09.738.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:37:11.93.0 - INFO - root - ['zoom-flight-gs-ombre-swoosh-ck0787-101']
+Thu, 22 Feb 2024 19:37:11.313.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:37:11.980.0 - INFO - root - 符合条件 鞋号CK0787-101 价位：198.0USD => 1423.6200000000001RMB - 得物价位：529RMB  SIZE: 37.5=>6.5
+Thu, 22 Feb 2024 19:37:12.656.0 - INFO - root - ['wmns-court-vision-low-leopard-swoosh-white-dd9665-100']
+Thu, 22 Feb 2024 19:37:13.368.0 - INFO - root - ['wmns-court-vision-low-leopard-swoosh-white-dd9665-100']
+Thu, 22 Feb 2024 19:37:13.479.0 - INFO - root - 符合条件 鞋号DD9665-100 价位：108.0USD => 776.5200000000001RMB - 得物价位：489RMB  SIZE: 38.5=>6
+Thu, 22 Feb 2024 19:37:14.152.0 - INFO - root - 符合条件 鞋号DD9665-100 价位：750.0USD => 5392.5RMB - 得物价位：449RMB  SIZE: 38.0=>5.5
+Thu, 22 Feb 2024 19:37:14.407.0 - INFO - root - ['all-day-active-white-black-386269-04']
+Thu, 22 Feb 2024 19:37:15.253.0 - INFO - root - 符合条件 鞋号386269-04 价位：2000.0USD => 14380.0RMB - 得物价位：299RMB  SIZE: 42.5=>10.5
+Thu, 22 Feb 2024 19:37:15.972.0 - INFO - root - ['wmns-court-vision-low-leopard-swoosh-white-dd9665-100']
+Thu, 22 Feb 2024 19:37:16.786.0 - INFO - root - 符合条件 鞋号DD9665-100 价位：100.0USD => 719.0RMB - 得物价位：399RMB  SIZE: 39.0=>6.5
+Thu, 22 Feb 2024 19:37:16.926.0 - INFO - root - ['wmns-court-vision-low-leopard-swoosh-white-dd9665-100']
+Thu, 22 Feb 2024 19:37:17.47.0 - INFO - root - ['wmns-court-vision-low-leopard-swoosh-white-dd9665-100']
+Thu, 22 Feb 2024 19:37:17.687.0 - INFO - root - SKU: DD9665-100 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:37:17.863.0 - INFO - root - 符合条件 鞋号DD9665-100 价位：130.0USD => 934.7RMB - 得物价位：699RMB  SIZE: 40.0=>7
+Thu, 22 Feb 2024 19:37:19.501.0 - INFO - root - ['wmns-court-vision-low-leopard-swoosh-white-dd9665-100']
+Thu, 22 Feb 2024 19:37:20.514.0 - ERROR - root - coverSize 1 37.0 37.0
+Thu, 22 Feb 2024 19:37:20.514.0 - INFO - root - ['suede-skate-nitro-platinum-grey-parisian-night-386082-01']
+Thu, 22 Feb 2024 19:37:20.514.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:37:20.603.0 - INFO - root - SKU: DD9665-100 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:37:21.62.0 - INFO - root - ['suede-skate-nitro-platinum-grey-parisian-night-386082-01']
+Thu, 22 Feb 2024 19:37:21.543.0 - INFO - root - ['all-day-active-white-black-386269-04']
+Thu, 22 Feb 2024 19:37:21.591.0 - INFO - root - ['suede-skate-nitro-platinum-grey-parisian-night-386082-01']
+Thu, 22 Feb 2024 19:37:21.980.0 - INFO - root - 符合条件 鞋号386082-01 价位：2000.0USD => 14380.0RMB - 得物价位：459RMB  SIZE: 40.5=>9
+Thu, 22 Feb 2024 19:37:22.446.0 - INFO - root - SKU: 386269-04 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:37:22.602.0 - INFO - root - 符合条件 鞋号386082-01 价位：2000.0USD => 14380.0RMB - 得物价位：247RMB  SIZE: 35.5=>5
+Thu, 22 Feb 2024 19:37:23.212.0 - INFO - root - ['all-day-active-white-black-386269-04']
+Thu, 22 Feb 2024 19:37:23.423.0 - INFO - root - ['adversary-sb-premium-black-white-cw7456-001']
+Thu, 22 Feb 2024 19:37:24.85.0 - INFO - root - 符合条件 鞋号386269-04 价位：2000.0USD => 14380.0RMB - 得物价位：256RMB  SIZE: 41.0=>9.5
+Thu, 22 Feb 2024 19:37:24.287.0 - INFO - root - SKU: CW7456-001 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:37:25.834.0 - ERROR - root - coverSize 1 37.0 37.0
+Thu, 22 Feb 2024 19:37:25.834.0 - INFO - root - ['all-day-active-white-black-386269-04']
+Thu, 22 Feb 2024 19:37:25.834.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:37:25.976.0 - INFO - root - ['all-day-active-white-black-386269-04']
+Thu, 22 Feb 2024 19:37:26.802.0 - INFO - root - 符合条件 鞋号386269-04 价位：2000.0USD => 14380.0RMB - 得物价位：225RMB  SIZE: 42.0=>10
+Thu, 22 Feb 2024 19:37:27.752.0 - INFO - root - ['suede-skate-nitro-platinum-grey-parisian-night-386082-01']
+Thu, 22 Feb 2024 19:37:27.976.0 - INFO - root - ['suede-skate-nitro-platinum-grey-parisian-night-386082-01']
+Thu, 22 Feb 2024 19:37:28.595.0 - INFO - root - 符合条件 鞋号386082-01 价位：2000.0USD => 14380.0RMB - 得物价位：389RMB  SIZE: 39.0=>8
+Thu, 22 Feb 2024 19:37:28.719.0 - INFO - root - 符合条件 鞋号386082-01 价位：2000.0USD => 14380.0RMB - 得物价位：309RMB  SIZE: 40.0=>8.5
+Thu, 22 Feb 2024 19:37:29.581.0 - INFO - root - ['suede-skate-nitro-platinum-grey-parisian-night-386082-01']
+Thu, 22 Feb 2024 19:37:30.221.0 - INFO - root - ['suede-skate-nitro-platinum-grey-parisian-night-386082-01']
+Thu, 22 Feb 2024 19:37:30.379.0 - INFO - root - 符合条件 鞋号386082-01 价位：2000.0USD => 14380.0RMB - 得物价位：389RMB  SIZE: 41.0=>9.5
+Thu, 22 Feb 2024 19:37:31.89.0 - INFO - root - 符合条件 鞋号386082-01 价位：2000.0USD => 14380.0RMB - 得物价位：439RMB  SIZE: 42.5=>10.5
+Thu, 22 Feb 2024 19:37:31.503.0 - INFO - root - ['suede-skate-nitro-platinum-grey-parisian-night-386082-01']
+Thu, 22 Feb 2024 19:37:31.702.0 - INFO - root - ['suede-skate-nitro-platinum-grey-parisian-night-386082-01']
+Thu, 22 Feb 2024 19:37:32.330.0 - INFO - root - 符合条件 鞋号386082-01 价位：2000.0USD => 14380.0RMB - 得物价位：309RMB  SIZE: 37.5=>6.5
+Thu, 22 Feb 2024 19:37:32.537.0 - INFO - root - SKU: 386082-01 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:37:32.727.0 - INFO - root - ['suede-skate-nitro-platinum-grey-parisian-night-386082-01']
+Thu, 22 Feb 2024 19:37:33.585.0 - INFO - root - 符合条件 鞋号386082-01 价位：2000.0USD => 14380.0RMB - 得物价位：589RMB  SIZE: 44.0=>11.5
+Thu, 22 Feb 2024 19:37:35.472.0 - INFO - root - ['wmns-dunk-low-disrupt-white-gym-red-ck6654-101']
+Thu, 22 Feb 2024 19:37:36.304.0 - INFO - root - 符合条件 鞋号CK6654-101 价位：95.0USD => 683.0500000000001RMB - 得物价位：609RMB  SIZE: 37.5=>5
+Thu, 22 Feb 2024 19:37:36.724.0 - INFO - root - ['adversary-sb-premium-black-white-cw7456-001']
+Thu, 22 Feb 2024 19:37:36.957.0 - INFO - root - ['drop-type-lx-av6697-100']
+Thu, 22 Feb 2024 19:37:37.497.0 - INFO - root - ['wmns-dunk-low-disrupt-white-gym-red-ck6654-101']
+Thu, 22 Feb 2024 19:37:37.529.0 - INFO - root - 符合条件 鞋号CW7456-001 价位：2000.0USD => 14380.0RMB - 得物价位：789RMB  SIZE: 42.5=>10.5
+Thu, 22 Feb 2024 19:37:37.853.0 - INFO - root - 符合条件 鞋号AV6697-100 价位：750.0USD => 5392.5RMB - 得物价位：449RMB  SIZE: 40.5=>9
+Thu, 22 Feb 2024 19:37:38.178.0 - INFO - root - ['wmns-dunk-low-disrupt-white-gym-red-ck6654-101']
+Thu, 22 Feb 2024 19:37:38.388.0 - INFO - root - 符合条件 鞋号CK6654-101 价位：118.0USD => 848.4200000000001RMB - 得物价位：697RMB  SIZE: 41.0=>8
+Thu, 22 Feb 2024 19:37:38.533.0 - INFO - root - ['drop-type-lx-av6697-100']
+Thu, 22 Feb 2024 19:37:39.8.0 - INFO - root - 符合条件 鞋号CK6654-101 价位：139.0USD => 999.4100000000001RMB - 得物价位：759RMB  SIZE: 42.0=>8.5
+Thu, 22 Feb 2024 19:37:39.317.0 - INFO - root - 符合条件 鞋号AV6697-100 价位：2000.0USD => 14380.0RMB - 得物价位：349RMB  SIZE: 42.5=>10.5
+Thu, 22 Feb 2024 19:37:40.759.0 - INFO - root - ['wmns-dunk-low-disrupt-white-gym-red-ck6654-101']
+Thu, 22 Feb 2024 19:37:41.562.0 - INFO - root - 符合条件 鞋号CK6654-101 价位：90.0USD => 647.1RMB - 得物价位：569RMB  SIZE: 40.5=>7.5
+Thu, 22 Feb 2024 19:37:41.717.0 - INFO - root - ['adversary-sb-premium-black-white-cw7456-001']
+Thu, 22 Feb 2024 19:37:42.504.0 - INFO - root - SKU: CW7456-001 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:37:43.364.0 - INFO - root - ['drop-type-lx-av6697-100']
+Thu, 22 Feb 2024 19:37:44.161.0 - INFO - root - SKU: AV6697-100 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:37:45.20.0 - INFO - root - ['wmns-dunk-low-disrupt-white-gym-red-ck6654-101']
+Thu, 22 Feb 2024 19:37:45.409.0 - INFO - root - ['kyrie-5-ep-have-a-nike-day-ao2919-101']
+Thu, 22 Feb 2024 19:37:45.620.0 - INFO - root - ['wmns-dunk-low-disrupt-white-gym-red-ck6654-101']
+Thu, 22 Feb 2024 19:37:45.769.0 - INFO - root - SKU: CK6654-101 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:37:46.244.0 - INFO - root - SKU: AO2919-101 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:37:46.406.0 - INFO - root - ['kyrie-5-ep-have-a-nike-day-ao2919-101']
+Thu, 22 Feb 2024 19:37:46.483.0 - INFO - root - SKU: CK6654-101 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:37:46.951.0 - INFO - root - ['kyrie-5-ep-have-a-nike-day-ao2919-101']
+Thu, 22 Feb 2024 19:37:47.257.0 - INFO - root - SKU: AO2919-101 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:37:47.752.0 - INFO - root - SKU: AO2919-101 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:37:48.602.0 - INFO - root - ['air-jordan-3-retro-gs-chlorophyll-398614-006']
+Thu, 22 Feb 2024 19:37:49.553.0 - INFO - root - SKU: 398614-006 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:37:50.182.0 - INFO - root - ['air-jordan-3-retro-gs-chlorophyll-398614-006']
+Thu, 22 Feb 2024 19:37:51.16.0 - INFO - root - SKU: 398614-006 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:37:51.279.0 - ERROR - root - coverSize 1 44.5 44.5
+Thu, 22 Feb 2024 19:37:51.279.0 - INFO - root - ['concepts-x-kyrie-6-ep-khepri-cu8880-600']
+Thu, 22 Feb 2024 19:37:51.279.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:37:52.315.0 - INFO - root - ['kyrie-5-ep-have-a-nike-day-ao2919-101']
+Thu, 22 Feb 2024 19:37:53.120.0 - INFO - root - SKU: AO2919-101 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:37:53.344.0 - INFO - root - ['air-jordan-3-retro-gs-chlorophyll-398614-006']
+Thu, 22 Feb 2024 19:37:54.166.0 - INFO - root - SKU: 398614-006 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:37:54.458.0 - INFO - root - ['concepts-x-kyrie-6-ep-khepri-cu8880-600']
+Thu, 22 Feb 2024 19:37:54.500.0 - INFO - root - ['air-jordan-3-retro-gs-chlorophyll-398614-006']
+Thu, 22 Feb 2024 19:37:55.284.0 - INFO - root - 符合条件 鞋号CU8880-600 价位：2000.0USD => 14380.0RMB - 得物价位：1939RMB  SIZE: 42.0=>10
+Thu, 22 Feb 2024 19:37:55.468.0 - INFO - root - SKU: 398614-006 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:37:56.884.0 - INFO - root - ['kyrie-5-ep-have-a-nike-day-ao2919-101']
+Thu, 22 Feb 2024 19:37:57.355.0 - INFO - root - ['kyrie-5-ep-have-a-nike-day-ao2919-101']
+Thu, 22 Feb 2024 19:37:57.710.0 - INFO - root - SKU: AO2919-101 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:37:58.93.0 - INFO - root - SKU: AO2919-101 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:37:59.156.0 - INFO - root - ['concepts-x-kyrie-6-ep-khepri-cu8880-600']
+Thu, 22 Feb 2024 19:37:59.765.0 - INFO - root - SKU: 本地型号：112221101-4 alias未查到相应的型号
+Thu, 22 Feb 2024 19:37:59.780.0 - INFO - root - ['concepts-x-kyrie-6-ep-khepri-cu8880-600']
+Thu, 22 Feb 2024 19:37:59.993.0 - INFO - root - SKU: CU8880-600 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:38:00.484.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:38:00.615.0 - INFO - root - SKU: CU8880-600 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:38:00.952.0 - INFO - root - SKU: 本地型号：112221101-4 alias未查到相应的型号
+Thu, 22 Feb 2024 19:38:02.581.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:38:03.904.0 - INFO - root - SKU: 本地型号：112221101-4 alias未查到相应的型号
+Thu, 22 Feb 2024 19:38:04.456.0 - INFO - root - ['air-jordan-1-low-gs-court-purple-553560-125']
+Thu, 22 Feb 2024 19:38:04.659.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:38:05.136.0 - INFO - root - ['air-jordan-1-low-gs-court-purple-553560-125']
+Thu, 22 Feb 2024 19:38:05.276.0 - INFO - root - SKU: 553560-125 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:38:05.474.0 - INFO - root - SKU: 本地型号：112221101-4 alias未查到相应的型号
+Thu, 22 Feb 2024 19:38:06.26.0 - INFO - root - SKU: 本地型号：112221101-4 alias未查到相应的型号
+Thu, 22 Feb 2024 19:38:06.205.0 - INFO - root - SKU: 553560-125 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:38:06.728.0 - INFO - root - SKU: 本地型号：112221101-4 alias未查到相应的型号
+Thu, 22 Feb 2024 19:38:06.777.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:38:07.837.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:38:08.878.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:38:09.147.0 - INFO - root - SKU: 本地型号：112221101-4 alias未查到相应的型号
+Thu, 22 Feb 2024 19:38:09.903.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:38:12.57.0 - ERROR - root - 1 - could not convert string to float: '白色'
+Thu, 22 Feb 2024 19:38:12.66.0 - INFO - root - ['air-jordan-1-low-gs-court-purple-553560-125']
+Thu, 22 Feb 2024 19:38:12.213.0 - INFO - root - ['air-jordan-1-low-gs-court-purple-553560-125']
+Thu, 22 Feb 2024 19:38:12.333.0 - INFO - root - ['air-jordan-1-low-gs-court-purple-553560-125']
+Thu, 22 Feb 2024 19:38:12.673.0 - INFO - root - SKU: 本地型号：112221101-4 alias未查到相应的型号
+Thu, 22 Feb 2024 19:38:12.821.0 - INFO - root - 符合条件 鞋号553560-125 价位：2000.0USD => 14380.0RMB - 得物价位：2449RMB  SIZE: 37.5=>6.5
+Thu, 22 Feb 2024 19:38:12.999.0 - INFO - root - SKU: 553560-125 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:38:13.302.0 - INFO - root - SKU: 553560-125 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:38:13.585.0 - INFO - root - ['wmns-quest-2-black-ci3803-004']
+Thu, 22 Feb 2024 19:38:13.645.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:38:13.962.0 - INFO - root - ['wmns-quest-2-black-ci3803-004']
+Thu, 22 Feb 2024 19:38:14.406.0 - INFO - root - SKU: CI3803-004 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:38:14.776.0 - INFO - root - SKU: CI3803-004 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:38:16.48.0 - INFO - root - SKU: 本地型号：112221602-9 alias未查到相应的型号
+Thu, 22 Feb 2024 19:38:17.814.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:38:18.153.0 - INFO - root - ['air-zoom-tempo-next-flyknit-black-flash-crimson-ci9923-009']
+Thu, 22 Feb 2024 19:38:19.27.0 - INFO - root - 符合条件 鞋号CI9923-009 价位：257.0USD => 1847.8300000000002RMB - 得物价位：899RMB  SIZE: 41.0=>9.5
+Thu, 22 Feb 2024 19:38:19.508.0 - INFO - root - ['air-zoom-tempo-next-flyknit-black-flash-crimson-ci9923-009']
+Thu, 22 Feb 2024 19:38:20.25.0 - INFO - root - SKU: 本地型号：112221602-9 alias未查到相应的型号
+Thu, 22 Feb 2024 19:38:20.365.0 - INFO - root - 符合条件 鞋号CI9923-009 价位：2000.0USD => 14380.0RMB - 得物价位：879RMB  SIZE: 40.0=>8.5
+Thu, 22 Feb 2024 19:38:20.549.0 - INFO - root - SKU: 本地型号：112221602-9 alias未查到相应的型号
+Thu, 22 Feb 2024 19:38:20.969.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:38:21.282.0 - INFO - root - SKU: 本地型号：112221604Q-3 alias未查到相应的型号
+Thu, 22 Feb 2024 19:38:22.516.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:38:23.41.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:38:24.195.0 - INFO - root - SKU: 本地型号：112221604Q-3 alias未查到相应的型号
+Thu, 22 Feb 2024 19:38:24.564.0 - INFO - root - ['air-zoom-tempo-next-flyknit-black-flash-crimson-ci9923-009']
+Thu, 22 Feb 2024 19:38:24.929.0 - INFO - root - SKU: 本地型号：112221602-9 alias未查到相应的型号
+Thu, 22 Feb 2024 19:38:25.143.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:38:25.372.0 - INFO - root - SKU: CI9923-009 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:38:25.636.0 - INFO - root - SKU: 本地型号：112221602-9 alias未查到相应的型号
+Thu, 22 Feb 2024 19:38:26.180.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:38:26.797.0 - INFO - root - SKU: 本地型号：ABPQ033-2 alias未查到相应的型号
+Thu, 22 Feb 2024 19:38:27.217.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:38:28.258.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:38:28.867.0 - INFO - root - SKU: 本地型号：ABPQ033-2 alias未查到相应的型号
+Thu, 22 Feb 2024 19:38:29.833.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:38:29.916.0 - INFO - root - SKU: 本地型号：ABPQ033-2 alias未查到相应的型号
+Thu, 22 Feb 2024 19:38:30.128.0 - INFO - root - ['wmns-flex-experience-run-10-black-ci9964-002']
+Thu, 22 Feb 2024 19:38:30.863.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:38:30.982.0 - INFO - root - 符合条件 鞋号CI9964-002 价位：102.0USD => 733.38RMB - 得物价位：339RMB  SIZE: 37.5=>5
+Thu, 22 Feb 2024 19:38:31.174.0 - INFO - root - SKU: 本地型号：112221602-9 alias未查到相应的型号
+Thu, 22 Feb 2024 19:38:32.450.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:38:33.721.0 - INFO - root - ['wmns-flex-experience-run-10-black-ci9964-002']
+Thu, 22 Feb 2024 19:38:34.379.0 - INFO - root - ['wmns-flex-experience-run-10-black-ci9964-002']
+Thu, 22 Feb 2024 19:38:34.550.0 - INFO - root - SKU: CI9964-002 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:38:35.85.0 - INFO - root - ['wmns-flex-experience-run-10-black-ci9964-002']
+Thu, 22 Feb 2024 19:38:35.202.0 - INFO - root - 价钱不符合条件 4300 差价：-189.82999999999998
+Thu, 22 Feb 2024 19:38:35.526.0 - INFO - root - ['sb-alleyoop-royal-cj0882-004']
+Thu, 22 Feb 2024 19:38:35.903.0 - INFO - root - 符合条件 鞋号CI9964-002 价位：78.0USD => 560.82RMB - 得物价位：499RMB  SIZE: 40.0=>7
+Thu, 22 Feb 2024 19:38:36.9.0 - INFO - root - SKU: 本地型号：112221606-1 alias未查到相应的型号
+Thu, 22 Feb 2024 19:38:36.405.0 - INFO - root - SKU: CJ0882-004 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:38:37.815.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:38:37.961.0 - ERROR - root - coverSize 1 44.5 44.5
+Thu, 22 Feb 2024 19:38:37.961.0 - INFO - root - ['sb-alleyoop-royal-cj0882-004']
+Thu, 22 Feb 2024 19:38:37.961.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:38:38.461.0 - INFO - root - SKU: 本地型号：112221606-1 alias未查到相应的型号
+Thu, 22 Feb 2024 19:38:39.362.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:38:39.674.0 - INFO - root - SKU: 本地型号：112221606-1 alias未查到相应的型号
+Thu, 22 Feb 2024 19:38:40.388.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:38:40.713.0 - INFO - root - SKU: 本地型号：112221606-1 alias未查到相应的型号
+Thu, 22 Feb 2024 19:38:41.431.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:38:42.724.0 - INFO - root - ['sb-alleyoop-royal-cj0882-004']
+Thu, 22 Feb 2024 19:38:42.802.0 - INFO - root - ['sb-alleyoop-royal-cj0882-004']
+Thu, 22 Feb 2024 19:38:43.551.0 - INFO - root - 符合条件 鞋号CJ0882-004 价位：2000.0USD => 14380.0RMB - 得物价位：489RMB  SIZE: 42.0=>10
+Thu, 22 Feb 2024 19:38:44.193.0 - INFO - root - SKU: CJ0882-004 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:38:44.394.0 - INFO - root - ['sb-alleyoop-royal-cj0882-004']
+Thu, 22 Feb 2024 19:38:44.919.0 - INFO - root - SKU: 本地型号：ID6061 alias未查到相应的型号
+Thu, 22 Feb 2024 19:38:45.211.0 - INFO - root - SKU: 本地型号：112221606-1 alias未查到相应的型号
+Thu, 22 Feb 2024 19:38:45.505.0 - INFO - root - SKU: CJ0882-004 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:38:45.549.0 - INFO - root - ['sb-alleyoop-royal-cj0882-004']
+Thu, 22 Feb 2024 19:38:45.985.0 - INFO - root - SKU: 本地型号：ID6061 alias未查到相应的型号
+Thu, 22 Feb 2024 19:38:46.194.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:38:46.932.0 - INFO - root - 符合条件 鞋号CJ0882-004 价位：2000.0USD => 14380.0RMB - 得物价位：519RMB  SIZE: 42.5=>10.5
+Thu, 22 Feb 2024 19:38:47.251.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:38:48.119.0 - INFO - root - SKU: 本地型号：ID6061 alias未查到相应的型号
+Thu, 22 Feb 2024 19:38:48.318.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:38:49.873.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:38:49.957.0 - INFO - root - SKU: 本地型号：ID6061 alias未查到相应的型号
+Thu, 22 Feb 2024 19:38:50.913.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:38:52.593.0 - INFO - root - SKU: 本地型号：ID6061 alias未查到相应的型号
+Thu, 22 Feb 2024 19:38:52.755.0 - INFO - root - SKU: 本地型号：ID6061 alias未查到相应的型号
+Thu, 22 Feb 2024 19:38:53.534.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:38:53.588.0 - INFO - root - SKU: 本地型号：ID6061 alias未查到相应的型号
+Thu, 22 Feb 2024 19:38:53.618.0 - INFO - root - SKU: 本地型号：ID6061 alias未查到相应的型号
+Thu, 22 Feb 2024 19:38:53.842.0 - INFO - root - SKU: 本地型号：ID6061 alias未查到相应的型号
+Thu, 22 Feb 2024 19:38:54.66.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:38:55.122.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:38:55.696.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:38:56.259.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:38:56.596.0 - INFO - root - SKU: 本地型号：ID6061 alias未查到相应的型号
+Thu, 22 Feb 2024 19:38:57.312.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:38:59.175.0 - INFO - root - SKU: 本地型号：ID6061 alias未查到相应的型号
+Thu, 22 Feb 2024 19:38:59.903.0 - INFO - root - SKU: 本地型号：112221623S-3 alias未查到相应的型号
+Thu, 22 Feb 2024 19:38:59.942.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:00.552.0 - INFO - root - SKU: 本地型号：ID6061 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:00.982.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:01.335.0 - INFO - root - SKU: 本地型号：ID6061 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:01.463.0 - INFO - root - SKU: 本地型号：ID6061 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:01.955.0 - INFO - root - SKU: 本地型号：ID6061 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:02.35.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:02.510.0 - INFO - root - SKU: 本地型号：ID6061 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:02.557.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:03.84.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:04.122.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:04.412.0 - INFO - root - SKU: 本地型号：ID6061 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:04.634.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:05.692.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:06.163.0 - INFO - root - SKU: 本地型号：ID6061 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:06.730.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:07.28.0 - INFO - root - SKU: 本地型号：112221623S-3 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:07.786.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:10.89.0 - INFO - root - SKU: 本地型号：112221623-1 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:10.749.0 - INFO - root - SKU: 本地型号：112221623S-3 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:10.943.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:11.262.0 - INFO - root - SKU: 本地型号：112221623-1 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:11.669.0 - INFO - root - SKU: 本地型号：112225541-3 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:11.737.0 - INFO - root - SKU: 本地型号：112221623-1 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:11.972.0 - INFO - root - SKU: 本地型号：112221623S-3 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:11.990.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:12.460.0 - INFO - root - SKU: 本地型号：112221623-1 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:12.501.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:13.534.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:14.59.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:14.485.0 - INFO - root - SKU: 本地型号：112221623-1 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:14.583.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:15.114.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:16.153.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:16.986.0 - INFO - root - SKU: 本地型号：112221623-1 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:17.709.0 - INFO - root - ['wmns-suede-mayu-rainbow-whisper-white-387239-03']
+Thu, 22 Feb 2024 19:39:17.762.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:18.245.0 - INFO - root - SKU: 本地型号：112221623S-3 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:18.563.0 - INFO - root - SKU: 387239-03 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:39:18.906.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:19.291.0 - INFO - root - SKU: 本地型号：112221623-1 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:20.225.0 - INFO - root - SKU: 本地型号：112228060-2 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:20.467.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:21.530.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:23.55.0 - INFO - root - SKU: 本地型号：112228060-2 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:23.621.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:23.874.0 - INFO - root - SKU: 本地型号：112228060-2 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:23.926.0 - INFO - root - SKU: 本地型号：112225541-3 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:24.523.0 - INFO - root - ['wmns-suede-mayu-rainbow-whisper-white-387239-03']
+Thu, 22 Feb 2024 19:39:24.657.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:25.158.0 - INFO - root - SKU: 本地型号：112228060-2 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:25.188.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:25.549.0 - INFO - root - 符合条件 鞋号387239-03 价位：75.0USD => 539.25RMB - 得物价位：419RMB  SIZE: 38.5=>6
+Thu, 22 Feb 2024 19:39:26.223.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:26.880.0 - INFO - root - ['wmns-suede-mayu-rainbow-whisper-white-387239-03']
+Thu, 22 Feb 2024 19:39:27.730.0 - INFO - root - 符合条件 鞋号387239-03 价位：83.0USD => 596.77RMB - 得物价位：369RMB  SIZE: 38.0=>5.5
+Thu, 22 Feb 2024 19:39:28.300.0 - INFO - root - SKU: 本地型号：112228060-2 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:29.440.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:29.774.0 - ERROR - root - coverSize 0 37.0 37.0
+Thu, 22 Feb 2024 19:39:29.774.0 - INFO - root - ['wmns-suede-mayu-rainbow-whisper-white-387239-03']
+Thu, 22 Feb 2024 19:39:29.774.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:30.79.0 - INFO - root - SKU: 本地型号：IH3360 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:31.14.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:31.304.0 - INFO - root - SKU: 本地型号：IH3360 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:31.464.0 - INFO - root - SKU: 本地型号：IH3360 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:32.59.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:32.610.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:32.688.0 - INFO - root - SKU: 本地型号：112225585-6 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:33.646.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:35.339.0 - INFO - root - SKU: 本地型号：IH3360 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:35.558.0 - INFO - root - SKU: 本地型号：IH3360 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:36.256.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:36.528.0 - INFO - root - SKU: 本地型号：112228015-8 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:36.786.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:36.966.0 - INFO - root - SKU: 本地型号：112225585-6 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:37.134.0 - INFO - root - ['wmns-suede-mayu-rainbow-whisper-white-387239-03']
+Thu, 22 Feb 2024 19:39:37.863.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:37.940.0 - INFO - root - SKU: 387239-03 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:39:38.341.0 - INFO - root - SKU: 本地型号：112225585-6 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:38.395.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:39.970.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:41.477.0 - INFO - root - SKU: 本地型号：112228015-8 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:42.172.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:42.571.0 - INFO - root - SKU: 本地型号：IH3360 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:42.597.0 - INFO - root - SKU: 本地型号：112228015-8 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:43.205.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:43.452.0 - INFO - root - SKU: 本地型号：112228080-1 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:43.723.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:44.762.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:44.935.0 - INFO - root - SKU: 本地型号：112228080-1 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:45.234.0 - INFO - root - SKU: 本地型号：112228080-1 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:45.809.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:46.332.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:47.523.0 - INFO - root - SKU: 本地型号：112228080-1 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:47.839.0 - INFO - root - SKU: 本地型号：112228080-1 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:48.384.0 - INFO - root - SKU: 本地型号：112228080-1 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:48.453.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:48.921.0 - INFO - root - SKU: 本地型号：IG7652 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:48.972.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:50.12.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:50.480.0 - INFO - root - SKU: 本地型号：GX4583 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:50.561.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:51.603.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:51.914.0 - INFO - root - SKU: 本地型号：ID6071 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:52.699.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:52.995.0 - INFO - root - SKU: 本地型号：GX4583 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:53.741.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:55.117.0 - INFO - root - SKU: 本地型号：GX4583 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:55.277.0 - INFO - root - SKU: 本地型号：GX4583 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:55.639.0 - INFO - root - SKU: 本地型号：GX4583 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:55.851.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:56.370.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:56.499.0 - INFO - root - SKU: 本地型号：GX4583 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:57.411.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:57.926.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:58.305.0 - INFO - root - SKU: 本地型号：GX4583 alias未查到相应的型号
+Thu, 22 Feb 2024 19:39:58.956.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:39:59.578.0 - INFO - root - SKU: 本地型号：ID6071 alias未查到相应的型号
+Thu, 22 Feb 2024 19:40:00.300.0 - INFO - root - SKU: 本地型号：GX4583 alias未查到相应的型号
+Thu, 22 Feb 2024 19:40:00.499.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:40:00.805.0 - INFO - root - SKU: 本地型号：GX4583 alias未查到相应的型号
+Thu, 22 Feb 2024 19:40:01.561.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:40:02.85.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:40:02.749.0 - INFO - root - SKU: 本地型号：ID6071 alias未查到相应的型号
+Thu, 22 Feb 2024 19:40:03.408.0 - INFO - root - SKU: 本地型号：GX4583 alias未查到相应的型号
+Thu, 22 Feb 2024 19:40:03.655.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:40:04.307.0 - INFO - root - SKU: 本地型号：GX4583 alias未查到相应的型号
+Thu, 22 Feb 2024 19:40:04.758.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:40:05.170.0 - INFO - root - SKU: 本地型号：ID6071 alias未查到相应的型号
+Thu, 22 Feb 2024 19:40:05.852.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:40:06.365.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:40:06.492.0 - INFO - root - SKU: 本地型号：GX4583 alias未查到相应的型号
+Thu, 22 Feb 2024 19:40:07.414.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:40:08.108.0 - INFO - root - SKU: 本地型号：ID6071 alias未查到相应的型号
+Thu, 22 Feb 2024 19:40:08.993.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:40:09.34.0 - INFO - root - SKU: 本地型号：ID6071 alias未查到相应的型号
+Thu, 22 Feb 2024 19:40:10.23.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:40:10.355.0 - INFO - root - SKU: 本地型号：ID6071 alias未查到相应的型号
+Thu, 22 Feb 2024 19:40:10.510.0 - INFO - root - SKU: 本地型号：ID6071 alias未查到相应的型号
+Thu, 22 Feb 2024 19:40:11.83.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:40:11.624.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:40:11.944.0 - INFO - root - SKU: 本地型号：ID6071 alias未查到相应的型号
+Thu, 22 Feb 2024 19:40:12.672.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:40:12.958.0 - INFO - root - SKU: 本地型号：GX4583 alias未查到相应的型号
+Thu, 22 Feb 2024 19:40:13.707.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:40:14.177.0 - INFO - root - SKU: 本地型号：ID6071 alias未查到相应的型号
+Thu, 22 Feb 2024 19:40:14.756.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:40:15.84.0 - INFO - root - SKU: 本地型号：ID6071 alias未查到相应的型号
+Thu, 22 Feb 2024 19:40:15.804.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:40:17.470.0 - INFO - root - SKU: 本地型号：ID6071 alias未查到相应的型号
+Thu, 22 Feb 2024 19:40:17.530.0 - INFO - root - SKU: 本地型号：GX4583 alias未查到相应的型号
+Thu, 22 Feb 2024 19:40:17.984.0 - INFO - root - SKU: 本地型号：ID6071 alias未查到相应的型号
+Thu, 22 Feb 2024 19:40:18.422.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:40:18.907.0 - INFO - root - SKU: 本地型号：GX4583 alias未查到相应的型号
+Thu, 22 Feb 2024 19:40:18.940.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:40:19.787.0 - INFO - root - SKU: 本地型号：ID6071 alias未查到相应的型号
+Thu, 22 Feb 2024 19:40:19.981.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:40:20.501.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:40:20.907.0 - INFO - root - SKU: 本地型号：GX4583 alias未查到相应的型号
+Thu, 22 Feb 2024 19:40:21.534.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:40:22.56.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:40:22.431.0 - INFO - root - SKU: 本地型号：ID6071 alias未查到相应的型号
+Thu, 22 Feb 2024 19:40:23.111.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:40:23.737.0 - INFO - root - SKU: 本地型号：ID6071 alias未查到相应的型号
+Thu, 22 Feb 2024 19:40:24.470.0 - INFO - root - SKU: 本地型号：ID6071 alias未查到相应的型号
+Thu, 22 Feb 2024 19:40:24.666.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:40:25.129.0 - INFO - root - SKU: 本地型号：ID6071 alias未查到相应的型号
+Thu, 22 Feb 2024 19:40:25.706.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:40:26.21.0 - INFO - root - SKU: 本地型号：ID6071 alias未查到相应的型号
+Thu, 22 Feb 2024 19:40:26.227.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:40:27.309.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:40:29.10.0 - INFO - root - SKU: 本地型号：IG7652 alias未查到相应的型号
+Thu, 22 Feb 2024 19:40:29.279.0 - INFO - root - SKU: 本地型号：IG7652 alias未查到相应的型号
+Thu, 22 Feb 2024 19:40:29.802.0 - INFO - root - ['spiritain-2000-silver-metallic-ih9979']
+Thu, 22 Feb 2024 19:40:30.19.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:40:30.541.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:40:30.745.0 - INFO - root - 符合条件 鞋号IH9979 价位：2000.0USD => 14380.0RMB - 得物价位：359RMB  SIZE: 39.0=>8
+Thu, 22 Feb 2024 19:40:30.779.0 - INFO - root - SKU: 本地型号：IG7652 alias未查到相应的型号
+Thu, 22 Feb 2024 19:40:30.893.0 - INFO - root - SKU: 本地型号：112228050S-1 alias未查到相应的型号
+Thu, 22 Feb 2024 19:40:31.906.0 - INFO - root - SKU: 本地型号：IG7652 alias未查到相应的型号
+Thu, 22 Feb 2024 19:40:32.102.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:40:32.623.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:40:33.676.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:40:35.331.0 - INFO - root - SKU: 本地型号：IG7652 alias未查到相应的型号
+Thu, 22 Feb 2024 19:40:36.134.0 - INFO - root - SKU: 本地型号：IG7652 alias未查到相应的型号
+Thu, 22 Feb 2024 19:40:36.299.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:40:37.185.0 - INFO - root - SKU: 本地型号：IG7652 alias未查到相应的型号
+Thu, 22 Feb 2024 19:40:37.253.0 - INFO - root - SKU: 本地型号：IG7652 alias未查到相应的型号
+Thu, 22 Feb 2024 19:40:37.354.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:40:37.636.0 - INFO - root - SKU: 本地型号：IG7652 alias未查到相应的型号
+Thu, 22 Feb 2024 19:40:38.386.0 - INFO - root - SKU: 本地型号：IG7652 alias未查到相应的型号
+Thu, 22 Feb 2024 19:40:38.467.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:40:38.918.0 - INFO - root - SKU: 本地型号：IG7652 alias未查到相应的型号
+Thu, 22 Feb 2024 19:40:38.980.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:40:39.496.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:40:40.533.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:40:40.851.0 - INFO - root - SKU: 本地型号：IG7652 alias未查到相应的型号
+Thu, 22 Feb 2024 19:40:41.65.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:40:42.112.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:40:42.774.0 - ERROR - root - coverSize 1 37.0 37.0
+Thu, 22 Feb 2024 19:40:42.774.0 - INFO - root - ['spiritain-2000-silver-metallic-ih9979']
+Thu, 22 Feb 2024 19:40:42.774.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:40:44.9.0 - INFO - root - SKU: 本地型号：IG7652 alias未查到相应的型号
+Thu, 22 Feb 2024 19:40:44.523.0 - INFO - root - SKU: 本地型号：IG7652 alias未查到相应的型号
+Thu, 22 Feb 2024 19:40:44.736.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:40:45.68.0 - INFO - root - SKU: 本地型号：IG7652 alias未查到相应的型号
+Thu, 22 Feb 2024 19:40:45.285.0 - INFO - root - ['spiritain-2000-silver-metallic-ih9979']
+Thu, 22 Feb 2024 19:40:45.779.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:40:46.295.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:40:47.331.0 - INFO - root - 符合条件 鞋号IH9979 价位：2000.0USD => 14380.0RMB - 得物价位：499RMB  SIZE: 46.0=>13
+Thu, 22 Feb 2024 19:40:47.818.0 - INFO - root - ['spiritain-2000-silver-metallic-ih9979']
+Thu, 22 Feb 2024 19:40:48.171.0 - INFO - root - ['spiritain-2000-silver-metallic-ih9979']
+Thu, 22 Feb 2024 19:40:49.598.0 - INFO - root - ['spiritain-2000-silver-metallic-ih9979']
+Thu, 22 Feb 2024 19:40:49.995.0 - INFO - root - 符合条件 鞋号IH9979 价位：2000.0USD => 14380.0RMB - 得物价位：329RMB  SIZE: 40.0=>8.5
+Thu, 22 Feb 2024 19:40:50.352.0 - INFO - root - SKU: 本地型号：112228050S-1 alias未查到相应的型号
+Thu, 22 Feb 2024 19:40:50.426.0 - INFO - root - 符合条件 鞋号IH9979 价位：2000.0USD => 14380.0RMB - 得物价位：319RMB  SIZE: 42.5=>10.5
+Thu, 22 Feb 2024 19:40:50.453.0 - INFO - root - SKU: 本地型号：IG4494 alias未查到相应的型号
+Thu, 22 Feb 2024 19:40:50.737.0 - INFO - root - 符合条件 鞋号IH9979 价位：2000.0USD => 14380.0RMB - 得物价位：329RMB  SIZE: 43.0=>11
+Thu, 22 Feb 2024 19:40:51.167.0 - INFO - root - SKU: 本地型号：IG4494 alias未查到相应的型号
+Thu, 22 Feb 2024 19:40:51.699.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:40:52.281.0 - INFO - root - ['spiritain-2000-silver-metallic-ih9979']
+Thu, 22 Feb 2024 19:40:52.758.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:40:53.226.0 - INFO - root - 符合条件 鞋号IH9979 价位：2000.0USD => 14380.0RMB - 得物价位：319RMB  SIZE: 41.0=>9.5
+Thu, 22 Feb 2024 19:40:53.811.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:40:54.927.0 - INFO - root - ['spiritain-2000-silver-metallic-ih9979']
+Thu, 22 Feb 2024 19:40:55.156.0 - INFO - root - ['spiritain-2000-silver-metallic-ih9979']
+Thu, 22 Feb 2024 19:40:55.776.0 - INFO - root - 符合条件 鞋号IH9979 价位：2000.0USD => 14380.0RMB - 得物价位：439RMB  SIZE: 36.0=>5.5
+Thu, 22 Feb 2024 19:40:55.942.0 - INFO - root - 符合条件 鞋号IH9979 价位：2000.0USD => 14380.0RMB - 得物价位：329RMB  SIZE: 36.5=>6
+Thu, 22 Feb 2024 19:40:56.819.0 - INFO - root - ['spiritain-2000-silver-metallic-ih9979']
+Thu, 22 Feb 2024 19:40:56.926.0 - INFO - root - ['spiritain-2000-silver-metallic-ih9979']
+Thu, 22 Feb 2024 19:40:58.461.0 - INFO - root - 符合条件 鞋号IH9979 价位：2000.0USD => 14380.0RMB - 得物价位：349RMB  SIZE: 38.0=>7
+Thu, 22 Feb 2024 19:40:58.786.0 - INFO - root - 符合条件 鞋号IH9979 价位：2000.0USD => 14380.0RMB - 得物价位：349RMB  SIZE: 44.0=>11.5
+Thu, 22 Feb 2024 19:40:58.797.0 - INFO - root - SKU: 本地型号：IG4494 alias未查到相应的型号
+Thu, 22 Feb 2024 19:40:58.827.0 - INFO - root - SKU: 本地型号：112228050S-1 alias未查到相应的型号
+Thu, 22 Feb 2024 19:41:00.202.0 - INFO - root - SKU: 本地型号：112228050S-1 alias未查到相应的型号
+Thu, 22 Feb 2024 19:41:00.601.0 - INFO - root - SKU: 本地型号：112228050S-1 alias未查到相应的型号
+Thu, 22 Feb 2024 19:41:00.641.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:41:01.171.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:41:02.264.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:41:02.799.0 - INFO - root - SKU: 本地型号：IG4494 alias未查到相应的型号
+Thu, 22 Feb 2024 19:41:02.852.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:41:03.914.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:41:04.530.0 - INFO - root - SKU: 本地型号：IG4494 alias未查到相应的型号
+Thu, 22 Feb 2024 19:41:05.279.0 - INFO - root - ['spiritain-2000-silver-metallic-ih9979']
+Thu, 22 Feb 2024 19:41:05.519.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:41:06.104.0 - INFO - root - 符合条件 鞋号IH9979 价位：2000.0USD => 14380.0RMB - 得物价位：309RMB  SIZE: 42.0=>10
+Thu, 22 Feb 2024 19:41:06.148.0 - INFO - root - ['spiritain-2000-silver-metallic-ih9979']
+Thu, 22 Feb 2024 19:41:06.880.0 - INFO - root - ['spiritain-2000-silver-metallic-ih9979']
+Thu, 22 Feb 2024 19:41:07.216.0 - INFO - root - 符合条件 鞋号IH9979 价位：106.0USD => 762.14RMB - 得物价位：599RMB  SIZE: 45.0=>12
+Thu, 22 Feb 2024 19:41:07.760.0 - INFO - root - SKU: 本地型号：IG4494 alias未查到相应的型号
+Thu, 22 Feb 2024 19:41:07.804.0 - INFO - root - 符合条件 鞋号IH9979 价位：2000.0USD => 14380.0RMB - 得物价位：329RMB  SIZE: 38.5=>7.5
+Thu, 22 Feb 2024 19:41:09.60.0 - INFO - root - SKU: 本地型号：IG4494 alias未查到相应的型号
+Thu, 22 Feb 2024 19:41:09.231.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:41:09.690.0 - INFO - root - SKU: 本地型号：IG4494 alias未查到相应的型号
+Thu, 22 Feb 2024 19:41:10.804.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:41:11.108.0 - INFO - root - SKU: 本地型号：IG4494 alias未查到相应的型号
+Thu, 22 Feb 2024 19:41:11.330.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:41:12.370.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:41:12.696.0 - INFO - root - SKU: 本地型号：IG4494 alias未查到相应的型号
+Thu, 22 Feb 2024 19:41:13.414.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:41:14.74.0 - INFO - root - ['spiritain-2000-silver-metallic-ih9979']
+Thu, 22 Feb 2024 19:41:14.776.0 - ERROR - root - coverSize 1 44.5 44.5
+Thu, 22 Feb 2024 19:41:14.776.0 - INFO - root - ['spiritain-2000-silver-metallic-ih9979']
+Thu, 22 Feb 2024 19:41:14.776.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:41:14.840.0 - INFO - root - 符合条件 鞋号IH9979 价位：2000.0USD => 14380.0RMB - 得物价位：349RMB  SIZE: 40.5=>9
+Thu, 22 Feb 2024 19:41:15.374.0 - INFO - root - SKU: 本地型号：HP2328 alias未查到相应的型号
+Thu, 22 Feb 2024 19:41:16.152.0 - INFO - root - SKU: 本地型号：DM0826-100 alias未查到相应的型号
+Thu, 22 Feb 2024 19:41:16.748.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:41:17.8.0 - INFO - root - SKU: 本地型号：HP2328 alias未查到相应的型号
+Thu, 22 Feb 2024 19:41:17.277.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:41:18.331.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:41:18.791.0 - INFO - root - SKU: 本地型号：IG4494 alias未查到相应的型号
+Thu, 22 Feb 2024 19:41:19.357.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:41:19.851.0 - INFO - root - SKU: 本地型号：HP2328 alias未查到相应的型号
+Thu, 22 Feb 2024 19:41:20.401.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:41:20.916.0 - INFO - root - SKU: 本地型号：112228050S-1 alias未查到相应的型号
+Thu, 22 Feb 2024 19:41:21.459.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:41:21.784.0 - INFO - root - SKU: 本地型号：IG4494 alias未查到相应的型号
+Thu, 22 Feb 2024 19:41:22.496.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:41:22.982.0 - INFO - root - SKU: 本地型号：112228050S-1 alias未查到相应的型号
+Thu, 22 Feb 2024 19:41:23.531.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:41:24.238.0 - INFO - root - SKU: 本地型号：112228050S-1 alias未查到相应的型号
+Thu, 22 Feb 2024 19:41:24.851.0 - INFO - root - SKU: 本地型号：IG4494 alias未查到相应的型号
+Thu, 22 Feb 2024 19:41:25.104.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:41:25.579.0 - INFO - root - ['campus-00s-carbon-lucid-blue-id2064']
+Thu, 22 Feb 2024 19:41:26.136.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:41:26.445.0 - INFO - root - SKU: 本地型号：HP2328 alias未查到相应的型号
+Thu, 22 Feb 2024 19:41:27.184.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:41:27.190.0 - INFO - root - 符合条件 鞋号ID2064 价位：89.0USD => 639.9100000000001RMB - 得物价位：619RMB  SIZE: 38.0=>7
+Thu, 22 Feb 2024 19:41:28.708.0 - INFO - root - SKU: 本地型号：DM0826-100 alias未查到相应的型号
+Thu, 22 Feb 2024 19:41:28.801.0 - INFO - root - SKU: 本地型号：HP2328 alias未查到相应的型号
+Thu, 22 Feb 2024 19:41:29.271.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:41:29.577.0 - INFO - root - SKU: 本地型号：DM0826-100 alias未查到相应的型号
+Thu, 22 Feb 2024 19:41:30.305.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:41:30.635.0 - INFO - root - SKU: 本地型号：DM0826-100 alias未查到相应的型号
+Thu, 22 Feb 2024 19:41:30.824.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:41:31.892.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:41:32.381.0 - INFO - root - SKU: 本地型号：DM0826-100 alias未查到相应的型号
+Thu, 22 Feb 2024 19:41:32.962.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:41:33.251.0 - INFO - root - SKU: 本地型号：DM0826-100 alias未查到相应的型号
+Thu, 22 Feb 2024 19:41:34.43.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:41:34.635.0 - INFO - root - ['campus-00s-carbon-lucid-blue-id2064']
+Thu, 22 Feb 2024 19:41:35.381.0 - INFO - root - SKU: 本地型号：DM0826-100 alias未查到相应的型号
+Thu, 22 Feb 2024 19:41:35.535.0 - INFO - root - 价钱不符合条件 8400 差价：-45.039999999999964
+Thu, 22 Feb 2024 19:41:36.144.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:41:37.3.0 - INFO - root - SKU: 本地型号：DM0826-100 alias未查到相应的型号
+Thu, 22 Feb 2024 19:41:37.785.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:41:38.25.0 - INFO - root - SKU: 本地型号：DM0826-100 alias未查到相应的型号
+Thu, 22 Feb 2024 19:41:38.714.0 - INFO - root - ['campus-00s-carbon-lucid-blue-id2064']
+Thu, 22 Feb 2024 19:41:38.826.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:41:39.127.0 - INFO - root - ['campus-00s-carbon-lucid-blue-id2064']
+Thu, 22 Feb 2024 19:41:39.977.0 - INFO - root - 符合条件 鞋号ID2064 价位：84.0USD => 603.96RMB - 得物价位：569RMB  SIZE: 40.0=>8.5
+Thu, 22 Feb 2024 19:41:40.275.0 - INFO - root - 符合条件 鞋号ID2064 价位：2000.0USD => 14380.0RMB - 得物价位：499RMB  SIZE: 43.0=>11
+Thu, 22 Feb 2024 19:41:40.348.0 - INFO - root - ['campus-00s-carbon-lucid-blue-id2064']
+Thu, 22 Feb 2024 19:41:40.721.0 - INFO - root - ['campus-00s-carbon-lucid-blue-id2064']
+Thu, 22 Feb 2024 19:41:41.155.0 - INFO - root - 符合条件 鞋号ID2064 价位：104.0USD => 747.76RMB - 得物价位：469RMB  SIZE: 36.0=>5.5
+Thu, 22 Feb 2024 19:41:41.525.0 - INFO - root - 符合条件 鞋号ID2064 价位：2000.0USD => 14380.0RMB - 得物价位：708RMB  SIZE: 45.0=>12
+Thu, 22 Feb 2024 19:41:42.323.0 - ERROR - root - coverSize 1 37.0 37.0
+Thu, 22 Feb 2024 19:41:42.323.0 - INFO - root - ['campus-00s-carbon-lucid-blue-id2064']
+Thu, 22 Feb 2024 19:41:42.323.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:41:42.836.0 - INFO - root - SKU: 本地型号：DM0826-100 alias未查到相应的型号
+Thu, 22 Feb 2024 19:41:44.71.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:41:44.528.0 - INFO - root - SKU: 本地型号：DM0826-100 alias未查到相应的型号
+Thu, 22 Feb 2024 19:41:45.106.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:41:45.596.0 - INFO - root - ['campus-00s-carbon-lucid-blue-id2064']
+Thu, 22 Feb 2024 19:41:46.444.0 - INFO - root - 符合条件 鞋号ID2064 价位：2000.0USD => 14380.0RMB - 得物价位：539RMB  SIZE: 44.0=>11.5
+Thu, 22 Feb 2024 19:41:46.975.0 - INFO - root - ['campus-00s-carbon-lucid-blue-id2064']
+Thu, 22 Feb 2024 19:41:47.129.0 - INFO - root - ['campus-00s-carbon-lucid-blue-id2064']
+Thu, 22 Feb 2024 19:41:47.485.0 - INFO - root - SKU: 本地型号：IG5990 alias未查到相应的型号
+Thu, 22 Feb 2024 19:41:47.786.0 - INFO - root - 符合条件 鞋号ID2064 价位：94.0USD => 675.86RMB - 得物价位：579RMB  SIZE: 39.0=>8
+Thu, 22 Feb 2024 19:41:47.985.0 - INFO - root - 符合条件 鞋号ID2064 价位：84.0USD => 603.96RMB - 得物价位：499RMB  SIZE: 41.0=>9.5
+Thu, 22 Feb 2024 19:41:48.268.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:41:48.565.0 - ERROR - root - coverSize 1 44.5 44.5
+Thu, 22 Feb 2024 19:41:48.565.0 - INFO - root - ['campus-00s-carbon-lucid-blue-id2064']
+Thu, 22 Feb 2024 19:41:48.565.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:41:50.697.0 - INFO - root - ['campus-00s-carbon-lucid-blue-id2064']
+Thu, 22 Feb 2024 19:41:51.355.0 - INFO - root - ['wmns-entrap-white-glory-purple-eh1298']
+Thu, 22 Feb 2024 19:41:51.543.0 - INFO - root - 符合条件 鞋号ID2064 价位：91.0USD => 654.2900000000001RMB - 得物价位：509RMB  SIZE: 42.5=>10.5
+Thu, 22 Feb 2024 19:41:52.226.0 - INFO - root - 符合条件 鞋号EH1298 价位：90.0USD => 647.1RMB - 得物价位：369RMB  SIZE: 38.0=>5.5
+Thu, 22 Feb 2024 19:41:52.781.0 - INFO - root - ['wmns-entrap-white-glory-purple-eh1298']
+Thu, 22 Feb 2024 19:41:53.539.0 - INFO - root - 符合条件 鞋号EH1298 价位：82.0USD => 589.58RMB - 得物价位：369RMB  SIZE: 38.5=>6
+Thu, 22 Feb 2024 19:41:53.653.0 - INFO - root - ['wmns-entrap-white-glory-purple-eh1298']
+Thu, 22 Feb 2024 19:41:53.978.0 - INFO - root - ['wmns-entrap-white-glory-purple-eh1298']
+Thu, 22 Feb 2024 19:41:54.420.0 - INFO - root - SKU: EH1298 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:41:54.755.0 - INFO - root - SKU: EH1298 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:41:54.987.0 - INFO - root - ['campus-00s-carbon-lucid-blue-id2064']
+Thu, 22 Feb 2024 19:41:55.826.0 - INFO - root - 符合条件 鞋号ID2064 价位：87.0USD => 625.5300000000001RMB - 得物价位：519RMB  SIZE: 42.0=>10
+Thu, 22 Feb 2024 19:41:56.11.0 - INFO - root - ['campus-00s-carbon-lucid-blue-id2064']
+Thu, 22 Feb 2024 19:41:56.839.0 - INFO - root - 符合条件 鞋号ID2064 价位：84.0USD => 603.96RMB - 得物价位：489RMB  SIZE: 40.5=>9
+Thu, 22 Feb 2024 19:41:58.31.0 - INFO - root - ['campus-00s-carbon-lucid-blue-id2064']
+Thu, 22 Feb 2024 19:41:58.652.0 - ERROR - root - coverSize 0 37.0 37.0
+Thu, 22 Feb 2024 19:41:58.652.0 - INFO - root - ['wmns-entrap-white-glory-purple-eh1298']
+Thu, 22 Feb 2024 19:41:58.652.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:41:59.75.0 - INFO - root - 符合条件 鞋号ID2064 价位：107.0USD => 769.33RMB - 得物价位：459RMB  SIZE: 36.5=>6
+Thu, 22 Feb 2024 19:41:59.647.0 - INFO - root - ['wmns-entrap-white-glory-purple-eh1298']
+Thu, 22 Feb 2024 19:42:00.29.0 - INFO - root - ['wmns-entrap-white-glory-purple-eh1298']
+Thu, 22 Feb 2024 19:42:00.425.0 - INFO - root - 符合条件 鞋号EH1298 价位：85.0USD => 611.15RMB - 得物价位：349RMB  SIZE: 40.0=>7
+Thu, 22 Feb 2024 19:42:00.709.0 - INFO - root - 符合条件 鞋号EH1298 价位：86.0USD => 618.34RMB - 得物价位：369RMB  SIZE: 39.0=>6.5
+Thu, 22 Feb 2024 19:42:01.530.0 - INFO - root - ['wmns-entrap-white-glory-purple-eh1298']
+Thu, 22 Feb 2024 19:42:02.380.0 - INFO - root - 符合条件 鞋号EH1298 价位：2000.0USD => 14380.0RMB - 得物价位：379RMB  SIZE: 36.5=>4.5
+Thu, 22 Feb 2024 19:42:02.429.0 - INFO - root - SKU: 本地型号：IG5990 alias未查到相应的型号
+Thu, 22 Feb 2024 19:42:03.398.0 - INFO - root - ['wmns-entrap-white-glory-purple-eh1298']
+Thu, 22 Feb 2024 19:42:03.491.0 - INFO - root - SKU: 本地型号：IG5990 alias未查到相应的型号
+Thu, 22 Feb 2024 19:42:03.722.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:42:04.201.0 - INFO - root - 符合条件 鞋号EH1298 价位：89.0USD => 639.9100000000001RMB - 得物价位：409RMB  SIZE: 40.5=>7.5
+Thu, 22 Feb 2024 19:42:04.770.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:42:06.108.0 - INFO - root - SKU: 本地型号：IG5990 alias未查到相应的型号
+Thu, 22 Feb 2024 19:42:06.649.0 - INFO - root - SKU: 本地型号：IG5990 alias未查到相应的型号
+Thu, 22 Feb 2024 19:42:06.869.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:42:07.518.0 - INFO - root - SKU: 本地型号：IG5990 alias未查到相应的型号
+Thu, 22 Feb 2024 19:42:07.908.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:42:08.355.0 - ERROR - root - coverSize 1 44.5 44.5
+Thu, 22 Feb 2024 19:42:08.355.0 - INFO - root - ['vl-court-2-0-cream-brown-gum-id6016']
+Thu, 22 Feb 2024 19:42:08.355.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:42:08.939.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:42:09.412.0 - INFO - root - SKU: 本地型号：IG5990 alias未查到相应的型号
+Thu, 22 Feb 2024 19:42:09.988.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:42:10.469.0 - INFO - root - SKU: 本地型号：IG5990 alias未查到相应的型号
+Thu, 22 Feb 2024 19:42:11.41.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:42:11.909.0 - INFO - root - SKU: 本地型号：IG5990 alias未查到相应的型号
+Thu, 22 Feb 2024 19:42:12.542.0 - INFO - root - SKU: 本地型号：IG5990 alias未查到相应的型号
+Thu, 22 Feb 2024 19:42:12.612.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:42:12.926.0 - INFO - root - SKU: 本地型号：IG5990 alias未查到相应的型号
+Thu, 22 Feb 2024 19:42:13.644.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:42:14.169.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:42:14.572.0 - INFO - root - SKU: 本地型号：IG5990 alias未查到相应的型号
+Thu, 22 Feb 2024 19:42:15.216.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:42:15.792.0 - INFO - root - SKU: 本地型号：JI2689 alias未查到相应的型号
+Thu, 22 Feb 2024 19:42:16.550.0 - INFO - root - ['vl-court-2-0-cream-brown-gum-id6016']
+Thu, 22 Feb 2024 19:42:16.803.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:42:17.93.0 - INFO - root - ['vl-court-2-0-cream-brown-gum-id6016']
+Thu, 22 Feb 2024 19:42:17.328.0 - INFO - root - 符合条件 鞋号ID6016 价位：2000.0USD => 14380.0RMB - 得物价位：319RMB  SIZE: 46.0=>13
+Thu, 22 Feb 2024 19:42:18.0.0 - INFO - root - 符合条件 鞋号ID6016 价位：2000.0USD => 14380.0RMB - 得物价位：319RMB  SIZE: 41.0=>9.5
+Thu, 22 Feb 2024 19:42:18.172.0 - INFO - root - ['vl-court-2-0-cream-brown-gum-id6016']
+Thu, 22 Feb 2024 19:42:18.993.0 - INFO - root - 符合条件 鞋号ID6016 价位：2000.0USD => 14380.0RMB - 得物价位：319RMB  SIZE: 42.0=>10
+Thu, 22 Feb 2024 19:42:19.299.0 - ERROR - root - coverSize 1 47.0 47.0
+Thu, 22 Feb 2024 19:42:19.300.0 - INFO - root - ['vl-court-2-0-cream-brown-gum-id6016']
+Thu, 22 Feb 2024 19:42:19.300.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:42:20.358.0 - INFO - root - ['vl-court-2-0-cream-brown-gum-id6016']
+Thu, 22 Feb 2024 19:42:21.191.0 - INFO - root - 符合条件 鞋号ID6016 价位：2000.0USD => 14380.0RMB - 得物价位：339RMB  SIZE: 39.0=>8
+Thu, 22 Feb 2024 19:42:21.400.0 - INFO - root - ['leadcat-2-0-shower-slide-allover-print-388284-01']
+Thu, 22 Feb 2024 19:42:22.217.0 - INFO - root - ['vl-court-2-0-cream-brown-gum-id6016']
+Thu, 22 Feb 2024 19:42:22.234.0 - INFO - root - 符合条件 鞋号388284-01 价位：46.0USD => 330.74RMB - 得物价位：129RMB  SIZE: 39.0=>8
+Thu, 22 Feb 2024 19:42:22.443.0 - ERROR - root - coverSize 1 44.5 44.5
+Thu, 22 Feb 2024 19:42:22.443.0 - INFO - root - ['leadcat-2-0-shower-slide-allover-print-388284-01']
+Thu, 22 Feb 2024 19:42:22.443.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:42:23.57.0 - INFO - root - 符合条件 鞋号ID6016 价位：2000.0USD => 14380.0RMB - 得物价位：349RMB  SIZE: 38.5=>7.5
+Thu, 22 Feb 2024 19:42:25.224.0 - INFO - root - ['leadcat-2-0-shower-slide-allover-print-388284-01']
+Thu, 22 Feb 2024 19:42:25.864.0 - INFO - root - SKU: 本地型号：JI2689 alias未查到相应的型号
+Thu, 22 Feb 2024 19:42:26.104.0 - INFO - root - 符合条件 鞋号388284-01 价位：2000.0USD => 14380.0RMB - 得物价位：168RMB  SIZE: 42.0=>10
+Thu, 22 Feb 2024 19:42:26.471.0 - INFO - root - SKU: 本地型号：JI2689 alias未查到相应的型号
+Thu, 22 Feb 2024 19:42:26.674.0 - INFO - root - ['vl-court-2-0-cream-brown-gum-id6016']
+Thu, 22 Feb 2024 19:42:26.705.0 - INFO - root - ['vl-court-2-0-cream-brown-gum-id6016']
+Thu, 22 Feb 2024 19:42:26.913.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:42:27.162.0 - ERROR - root - coverSize 1 37.0 37.0
+Thu, 22 Feb 2024 19:42:27.162.0 - INFO - root - ['vl-court-2-0-cream-brown-gum-id6016']
+Thu, 22 Feb 2024 19:42:27.162.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:42:27.668.0 - INFO - root - 符合条件 鞋号ID6016 价位：2000.0USD => 14380.0RMB - 得物价位：349RMB  SIZE: 40.0=>8.5
+Thu, 22 Feb 2024 19:42:27.678.0 - INFO - root - 符合条件 鞋号ID6016 价位：2000.0USD => 14380.0RMB - 得物价位：399RMB  SIZE: 36.0=>5.5
+Thu, 22 Feb 2024 19:42:28.479.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:42:28.795.0 - INFO - root - ['vl-court-2-0-cream-brown-gum-id6016']
+Thu, 22 Feb 2024 19:42:29.591.0 - INFO - root - 符合条件 鞋号ID6016 价位：2000.0USD => 14380.0RMB - 得物价位：329RMB  SIZE: 42.5=>10.5
+Thu, 22 Feb 2024 19:42:30.906.0 - INFO - root - ['vl-court-2-0-cream-brown-gum-id6016']
+Thu, 22 Feb 2024 19:42:31.749.0 - INFO - root - 符合条件 鞋号ID6016 价位：2000.0USD => 14380.0RMB - 得物价位：379RMB  SIZE: 35.5=>5
+Thu, 22 Feb 2024 19:42:32.530.0 - INFO - root - ['leadcat-2-0-shower-slide-allover-print-388284-01']
+Thu, 22 Feb 2024 19:42:32.586.0 - ERROR - root - coverSize 1 46.5 46.5
+Thu, 22 Feb 2024 19:42:32.586.0 - INFO - root - ['vl-court-2-0-cream-brown-gum-id6016']
+Thu, 22 Feb 2024 19:42:32.586.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:42:33.317.0 - INFO - root - 符合条件 鞋号388284-01 价位：44.0USD => 316.36RMB - 得物价位：129RMB  SIZE: 38.0=>7
+Thu, 22 Feb 2024 19:42:34.97.0 - INFO - root - ['vl-court-2-0-cream-brown-gum-id6016']
+Thu, 22 Feb 2024 19:42:34.156.0 - INFO - root - SKU: 本地型号：JI2689 alias未查到相应的型号
+Thu, 22 Feb 2024 19:42:34.621.0 - INFO - root - ['vl-court-2-0-cream-brown-gum-id6016']
+Thu, 22 Feb 2024 19:42:34.940.0 - INFO - root - 符合条件 鞋号ID6016 价位：2000.0USD => 14380.0RMB - 得物价位：339RMB  SIZE: 38.0=>7
+Thu, 22 Feb 2024 19:42:35.384.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:42:35.455.0 - INFO - root - 符合条件 鞋号ID6016 价位：2000.0USD => 14380.0RMB - 得物价位：329RMB  SIZE: 40.5=>9
+Thu, 22 Feb 2024 19:42:36.211.0 - INFO - root - ['vl-court-2-0-cream-brown-gum-id6016']
+Thu, 22 Feb 2024 19:42:36.756.0 - INFO - root - ['vl-court-2-0-cream-brown-gum-id6016']
+Thu, 22 Feb 2024 19:42:37.103.0 - INFO - root - 符合条件 鞋号ID6016 价位：2000.0USD => 14380.0RMB - 得物价位：339RMB  SIZE: 36.5=>6
+Thu, 22 Feb 2024 19:42:37.554.0 - INFO - root - 符合条件 鞋号ID6016 价位：2000.0USD => 14380.0RMB - 得物价位：379RMB  SIZE: 44.0=>11.5
+Thu, 22 Feb 2024 19:42:38.349.0 - INFO - root - ['vl-court-2-0-cream-brown-gum-id6016']
+Thu, 22 Feb 2024 19:42:39.158.0 - INFO - root - 符合条件 鞋号ID6016 价位：2000.0USD => 14380.0RMB - 得物价位：499RMB  SIZE: 45.0=>12
+Thu, 22 Feb 2024 19:42:39.380.0 - INFO - root - SKU: 本地型号：JI2689 alias未查到相应的型号
+Thu, 22 Feb 2024 19:42:40.608.0 - INFO - root - SKU: 本地型号：JI2689 alias未查到相应的型号
+Thu, 22 Feb 2024 19:42:40.657.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:42:41.685.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:42:42.7.0 - INFO - root - SKU: 本地型号：JI2689 alias未查到相应的型号
+Thu, 22 Feb 2024 19:42:42.724.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:42:44.276.0 - INFO - root - ['vl-court-2-0-cream-brown-gum-id6016']
+Thu, 22 Feb 2024 19:42:44.587.0 - INFO - root - SKU: 本地型号：ID1132 alias未查到相应的型号
+Thu, 22 Feb 2024 19:42:45.271.0 - INFO - root - 符合条件 鞋号ID6016 价位：2000.0USD => 14380.0RMB - 得物价位：329RMB  SIZE: 43.0=>11
+Thu, 22 Feb 2024 19:42:45.413.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:42:45.525.0 - INFO - root - SKU: 本地型号：JI2689 alias未查到相应的型号
+Thu, 22 Feb 2024 19:42:45.848.0 - INFO - root - SKU: 本地型号：ID1132 alias未查到相应的型号
+Thu, 22 Feb 2024 19:42:46.980.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:42:47.457.0 - INFO - root - ['puffylette-samba-hp6700']
+Thu, 22 Feb 2024 19:42:47.495.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:42:48.542.0 - INFO - root - 符合条件 鞋号HP6700 价位：2000.0USD => 14380.0RMB - 得物价位：399RMB  SIZE: 43.0=>11
+Thu, 22 Feb 2024 19:42:49.220.0 - INFO - root - SKU: 本地型号：ID1132 alias未查到相应的型号
+Thu, 22 Feb 2024 19:42:49.360.0 - INFO - root - SKU: 本地型号：ID1132 alias未查到相应的型号
+Thu, 22 Feb 2024 19:42:49.546.0 - INFO - root - SKU: 本地型号：ID1132 alias未查到相应的型号
+Thu, 22 Feb 2024 19:42:50.233.0 - INFO - root - ['puffylette-samba-hp6700']
+Thu, 22 Feb 2024 19:42:50.605.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:42:50.923.0 - INFO - root - ['puffylette-samba-hp6700']
+Thu, 22 Feb 2024 19:42:51.131.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:42:51.257.0 - INFO - root - SKU: HP6700 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:42:51.640.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:42:51.844.0 - INFO - root - 符合条件 鞋号HP6700 价位：73.0USD => 524.87RMB - 得物价位：439RMB  SIZE: 42.0=>10
+Thu, 22 Feb 2024 19:42:53.158.0 - ERROR - root - coverSize 1 47.0 47.0
+Thu, 22 Feb 2024 19:42:53.159.0 - INFO - root - ['puffylette-samba-hp6700']
+Thu, 22 Feb 2024 19:42:53.159.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:42:54.554.0 - INFO - root - SKU: 本地型号：ID6068 alias未查到相应的型号
+Thu, 22 Feb 2024 19:42:55.110.0 - INFO - root - SKU: 本地型号：ID1132 alias未查到相应的型号
+Thu, 22 Feb 2024 19:42:55.304.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:42:55.794.0 - INFO - root - SKU: 本地型号：ID1132 alias未查到相应的型号
+Thu, 22 Feb 2024 19:42:56.334.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:42:56.905.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:42:58.1.0 - INFO - root - SKU: 本地型号：ID1132 alias未查到相应的型号
+Thu, 22 Feb 2024 19:42:58.425.0 - INFO - root - SKU: 本地型号：ID1132 alias未查到相应的型号
+Thu, 22 Feb 2024 19:42:59.7.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:42:59.314.0 - INFO - root - SKU: 本地型号：ID1132 alias未查到相应的型号
+Thu, 22 Feb 2024 19:42:59.529.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:42:59.754.0 - INFO - root - SKU: 本地型号：ID1132 alias未查到相应的型号
+Thu, 22 Feb 2024 19:43:00.582.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:43:00.907.0 - INFO - root - ['puffylette-samba-hp6700']
+Thu, 22 Feb 2024 19:43:01.110.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:43:01.765.0 - INFO - root - 符合条件 鞋号HP6700 价位：75.0USD => 539.25RMB - 得物价位：419RMB  SIZE: 38.0=>7
+Thu, 22 Feb 2024 19:43:03.581.0 - INFO - root - ['puffylette-samba-hp6700']
+Thu, 22 Feb 2024 19:43:04.386.0 - INFO - root - 符合条件 鞋号HP6700 价位：2000.0USD => 14380.0RMB - 得物价位：449RMB  SIZE: 39.0=>8
+Thu, 22 Feb 2024 19:43:04.655.0 - INFO - root - ['puffylette-samba-hp6700']
+Thu, 22 Feb 2024 19:43:04.861.0 - INFO - root - SKU: 本地型号：ID6068 alias未查到相应的型号
+Thu, 22 Feb 2024 19:43:05.86.0 - INFO - root - SKU: 本地型号：ID6068 alias未查到相应的型号
+Thu, 22 Feb 2024 19:43:05.439.0 - INFO - root - 符合条件 鞋号HP6700 价位：2000.0USD => 14380.0RMB - 得物价位：439RMB  SIZE: 40.5=>9
+Thu, 22 Feb 2024 19:43:05.577.0 - ERROR - root - coverSize 1 44.5 44.5
+Thu, 22 Feb 2024 19:43:05.577.0 - INFO - root - ['puffylette-samba-hp6700']
+Thu, 22 Feb 2024 19:43:05.577.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:43:05.583.0 - INFO - root - SKU: 本地型号：ID1132 alias未查到相应的型号
+Thu, 22 Feb 2024 19:43:06.344.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:43:06.637.0 - INFO - root - SKU: 本地型号：ID6068 alias未查到相应的型号
+Thu, 22 Feb 2024 19:43:06.949.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:43:07.997.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:43:09.61.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:43:09.608.0 - INFO - root - SKU: 本地型号：ID1132 alias未查到相应的型号
+Thu, 22 Feb 2024 19:43:10.637.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:43:11.556.0 - INFO - root - SKU: 本地型号：ID6068 alias未查到相应的型号
+Thu, 22 Feb 2024 19:43:12.0.0 - INFO - root - SKU: 本地型号：ID6068 alias未查到相应的型号
+Thu, 22 Feb 2024 19:43:12.102.0 - INFO - root - SKU: 本地型号：ID6068 alias未查到相应的型号
+Thu, 22 Feb 2024 19:43:12.192.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:43:12.663.0 - INFO - root - ['puffylette-samba-hp6700']
+Thu, 22 Feb 2024 19:43:13.232.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:43:13.547.0 - INFO - root - 价钱不符合条件 6100 差价：9.590000000000032
+Thu, 22 Feb 2024 19:43:13.729.0 - INFO - root - SKU: 本地型号：ID6068 alias未查到相应的型号
+Thu, 22 Feb 2024 19:43:13.746.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:43:15.106.0 - INFO - root - SKU: 本地型号：ID6068 alias未查到相应的型号
+Thu, 22 Feb 2024 19:43:15.306.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:43:16.347.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:43:16.831.0 - INFO - root - SKU: 本地型号：ID6068 alias未查到相应的型号
+Thu, 22 Feb 2024 19:43:17.391.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:43:17.883.0 - INFO - root - SKU: 本地型号：ID6068 alias未查到相应的型号
+Thu, 22 Feb 2024 19:43:18.466.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:43:19.752.0 - INFO - root - SKU: 本地型号：ID6068 alias未查到相应的型号
+Thu, 22 Feb 2024 19:43:20.7.0 - INFO - root - SKU: 本地型号：ID6068 alias未查到相应的型号
+Thu, 22 Feb 2024 19:43:20.585.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:43:20.868.0 - INFO - root - SKU: 本地型号：ID6068 alias未查到相应的型号
+Thu, 22 Feb 2024 19:43:21.110.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:43:21.400.0 - INFO - root - SKU: 本地型号：ID6068 alias未查到相应的型号
+Thu, 22 Feb 2024 19:43:22.181.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:43:22.484.0 - INFO - root - ['wmns-ozgaia-core-black-ig6045']
+Thu, 22 Feb 2024 19:43:22.707.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:43:23.248.0 - INFO - root - SKU: IG6045 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:43:25.86.0 - INFO - root - ['wmns-ozgaia-core-black-ig6045']
+Thu, 22 Feb 2024 19:43:25.923.0 - INFO - root - SKU: IG6045 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:43:26.218.0 - INFO - root - ['wmns-ozgaia-core-black-ig6045']
+Thu, 22 Feb 2024 19:43:26.516.0 - INFO - root - ['wmns-ozgaia-core-black-ig6045']
+Thu, 22 Feb 2024 19:43:26.981.0 - INFO - root - SKU: IG6045 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:43:27.1.0 - INFO - root - ['wmns-ozgaia-core-black-ig6045']
+Thu, 22 Feb 2024 19:43:27.181.0 - INFO - root - SKU: 本地型号：ID6068 alias未查到相应的型号
+Thu, 22 Feb 2024 19:43:27.284.0 - INFO - root - SKU: IG6045 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:43:27.421.0 - INFO - root - SKU: 本地型号：H01120 alias未查到相应的型号
+Thu, 22 Feb 2024 19:43:27.876.0 - INFO - root - SKU: IG6045 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:43:28.271.0 - ERROR - root - coverSize 0 37.0 37.0
+Thu, 22 Feb 2024 19:43:28.271.0 - INFO - root - ['wmns-ozgaia-core-black-ig6045']
+Thu, 22 Feb 2024 19:43:28.271.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:43:28.497.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:43:29.523.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:43:31.831.0 - INFO - root - ['wmns-ozgaia-core-black-ig6045']
+Thu, 22 Feb 2024 19:43:32.620.0 - INFO - root - SKU: IG6045 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:43:33.425.0 - INFO - root - ['wmns-ozgaia-core-black-ig6045']
+Thu, 22 Feb 2024 19:43:34.124.0 - INFO - root - 符合条件 鞋号IG6045 价位：205.0USD => 1473.95RMB - 得物价位：689RMB  SIZE: 43.0=>9.5
+Thu, 22 Feb 2024 19:43:34.207.0 - INFO - root - SKU: 本地型号：H01120 alias未查到相应的型号
+Thu, 22 Feb 2024 19:43:34.648.0 - INFO - root - SKU: 本地型号：H01120 alias未查到相应的型号
+Thu, 22 Feb 2024 19:43:34.797.0 - INFO - root - ['wmns-ozgaia-core-black-ig6045']
+Thu, 22 Feb 2024 19:43:35.404.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:43:35.607.0 - INFO - root - SKU: IG6045 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:43:35.903.0 - INFO - root - ['wmns-ozgaia-core-black-ig6045']
+Thu, 22 Feb 2024 19:43:36.246.0 - INFO - root - ['wmns-ozgaia-core-black-ig6045']
+Thu, 22 Feb 2024 19:43:36.458.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:43:36.725.0 - INFO - root - SKU: IG6045 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:43:37.33.0 - INFO - root - 符合条件 鞋号IG6045 价位：201.0USD => 1445.19RMB - 得物价位：699RMB  SIZE: 44.0=>10
+Thu, 22 Feb 2024 19:43:37.44.0 - INFO - root - ['wmns-ozgaia-core-black-ig6045']
+Thu, 22 Feb 2024 19:43:37.855.0 - INFO - root - 符合条件 鞋号IG6045 价位：2000.0USD => 14380.0RMB - 得物价位：499RMB  SIZE: 36.5=>4.5
+Thu, 22 Feb 2024 19:43:38.543.0 - INFO - root - ['wmns-ozgaia-core-black-ig6045']
+Thu, 22 Feb 2024 19:43:39.291.0 - INFO - root - SKU: IG6045 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:43:39.909.0 - INFO - root - SKU: 本地型号：H01120 alias未查到相应的型号
+Thu, 22 Feb 2024 19:43:40.979.0 - INFO - root - SKU: 本地型号：H01120 alias未查到相应的型号
+Thu, 22 Feb 2024 19:43:41.196.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:43:42.269.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:43:42.735.0 - INFO - root - ['wmns-ozgaia-core-black-ig6045']
+Thu, 22 Feb 2024 19:43:43.470.0 - INFO - root - 符合条件 鞋号IG6045 价位：206.0USD => 1481.14RMB - 得物价位：759RMB  SIZE: 42.5=>9
+Thu, 22 Feb 2024 19:43:43.635.0 - INFO - root - SKU: 本地型号：H01120 alias未查到相应的型号
+Thu, 22 Feb 2024 19:43:44.487.0 - INFO - root - SKU: 本地型号：H01120 alias未查到相应的型号
+Thu, 22 Feb 2024 19:43:44.899.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:43:45.944.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:43:46.227.0 - INFO - root - SKU: 本地型号：H01120 alias未查到相应的型号
+Thu, 22 Feb 2024 19:43:47.2.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:43:47.17.0 - INFO - root - SKU: 本地型号：H01120 alias未查到相应的型号
+Thu, 22 Feb 2024 19:43:47.553.0 - ERROR - root - coverSize 1 47.0 47.0
+Thu, 22 Feb 2024 19:43:47.553.0 - INFO - root - ['adizero-adios-pro-3-lucid-cyan-id8468']
+Thu, 22 Feb 2024 19:43:47.553.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:43:48.37.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:43:49.302.0 - INFO - root - SKU: 本地型号：H01120 alias未查到相应的型号
+Thu, 22 Feb 2024 19:43:50.116.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:43:50.195.0 - INFO - root - ['adizero-adios-pro-3-lucid-cyan-id8468']
+Thu, 22 Feb 2024 19:43:50.569.0 - INFO - root - ['adizero-adios-pro-3-lucid-cyan-id8468']
+Thu, 22 Feb 2024 19:43:51.119.0 - INFO - root - 符合条件 鞋号ID8468 价位：209.0USD => 1502.71RMB - 得物价位：1199RMB  SIZE: 42.0=>10
+Thu, 22 Feb 2024 19:43:51.363.0 - INFO - root - 符合条件 鞋号ID8468 价位：209.0USD => 1502.71RMB - 得物价位：1239RMB  SIZE: 40.0=>8.5
+Thu, 22 Feb 2024 19:43:51.466.0 - INFO - root - SKU: 本地型号：H01120 alias未查到相应的型号
+Thu, 22 Feb 2024 19:43:51.496.0 - INFO - root - ['adizero-adios-pro-3-lucid-cyan-id8468']
+Thu, 22 Feb 2024 19:43:52.18.0 - INFO - root - ['adizero-adios-pro-3-lucid-cyan-id8468']
+Thu, 22 Feb 2024 19:43:52.267.0 - INFO - root - 价钱不符合条件 27100 差价：-570.51
+Thu, 22 Feb 2024 19:43:52.854.0 - INFO - root - 符合条件 鞋号ID8468 价位：209.0USD => 1502.71RMB - 得物价位：1169RMB  SIZE: 40.5=>9
+Thu, 22 Feb 2024 19:43:53.348.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:43:54.88.0 - INFO - root - ['adizero-adios-pro-3-lucid-cyan-id8468']
+Thu, 22 Feb 2024 19:43:55.168.0 - INFO - root - 符合条件 鞋号ID8468 价位：209.0USD => 1502.71RMB - 得物价位：1449RMB  SIZE: 38.5=>7.5
+Thu, 22 Feb 2024 19:43:55.283.0 - INFO - root - SKU: 本地型号：ID0999 alias未查到相应的型号
+Thu, 22 Feb 2024 19:43:56.464.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:43:57.836.0 - INFO - root - ['adizero-adios-pro-3-lucid-cyan-id8468']
+Thu, 22 Feb 2024 19:43:58.355.0 - INFO - root - ['adizero-adios-pro-3-lucid-cyan-id8468']
+Thu, 22 Feb 2024 19:43:58.671.0 - INFO - root - 符合条件 鞋号ID8468 价位：209.0USD => 1502.71RMB - 得物价位：1340RMB  SIZE: 45.0=>12
+Thu, 22 Feb 2024 19:43:59.73.0 - INFO - root - ['adizero-adios-pro-3-lucid-cyan-id8468']
+Thu, 22 Feb 2024 19:43:59.296.0 - INFO - root - 符合条件 鞋号ID8468 价位：209.0USD => 1502.71RMB - 得物价位：1279RMB  SIZE: 43.0=>11
+Thu, 22 Feb 2024 19:43:59.408.0 - INFO - root - ['adizero-adios-pro-3-lucid-cyan-id8468']
+Thu, 22 Feb 2024 19:43:59.862.0 - INFO - root - ['adizero-adios-pro-3-lucid-cyan-id8468']
+Thu, 22 Feb 2024 19:43:59.918.0 - ERROR - root - coverSize 1 44.5 44.5
+Thu, 22 Feb 2024 19:43:59.918.0 - INFO - root - ['adizero-adios-pro-3-lucid-cyan-id8468']
+Thu, 22 Feb 2024 19:43:59.918.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:44:00.36.0 - INFO - root - SKU: ID8468 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:44:00.419.0 - INFO - root - 符合条件 鞋号ID8468 价位：209.0USD => 1502.71RMB - 得物价位：1409RMB  SIZE: 42.5=>10.5
+Thu, 22 Feb 2024 19:44:00.674.0 - INFO - root - 符合条件 鞋号ID8468 价位：209.0USD => 1502.71RMB - 得物价位：1349RMB  SIZE: 39.0=>8
+Thu, 22 Feb 2024 19:44:01.218.0 - INFO - root - ['adizero-adios-pro-3-lucid-cyan-id8468']
+Thu, 22 Feb 2024 19:44:02.52.0 - INFO - root - 符合条件 鞋号ID8468 价位：209.0USD => 1502.71RMB - 得物价位：1039RMB  SIZE: 41.0=>9.5
+Thu, 22 Feb 2024 19:44:03.633.0 - INFO - root - ['adizero-adios-pro-3-lucid-cyan-id8468']
+Thu, 22 Feb 2024 19:44:04.174.0 - INFO - root - SKU: 本地型号：IF4230 alias未查到相应的型号
+Thu, 22 Feb 2024 19:44:04.558.0 - INFO - root - 符合条件 鞋号ID8468 价位：209.0USD => 1502.71RMB - 得物价位：1264RMB  SIZE: 44.0=>11.5
+Thu, 22 Feb 2024 19:44:04.938.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:44:05.406.0 - INFO - root - SKU: 本地型号：ID0999 alias未查到相应的型号
+Thu, 22 Feb 2024 19:44:06.492.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:44:06.491.0 - INFO - root - SKU: 本地型号：ID0999 alias未查到相应的型号
+Thu, 22 Feb 2024 19:44:07.541.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:44:08.97.0 - INFO - root - SKU: 本地型号：ID0999 alias未查到相应的型号
+Thu, 22 Feb 2024 19:44:08.889.0 - INFO - root - ['adizero-adios-pro-3-lucid-cyan-id8468']
+Thu, 22 Feb 2024 19:44:09.109.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:44:09.407.0 - INFO - root - SKU: 本地型号：IF4230 alias未查到相应的型号
+Thu, 22 Feb 2024 19:44:09.741.0 - INFO - root - 符合条件 鞋号ID8468 价位：336.0USD => 2415.84RMB - 得物价位：1249RMB  SIZE: 36.5=>6
+Thu, 22 Feb 2024 19:44:10.159.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:44:10.486.0 - INFO - root - SKU: 本地型号：IF4230 alias未查到相应的型号
+Thu, 22 Feb 2024 19:44:11.752.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:44:13.59.0 - INFO - root - SKU: 本地型号：IF4230 alias未查到相应的型号
+Thu, 22 Feb 2024 19:44:13.289.0 - INFO - root - SKU: 本地型号：ID0999 alias未查到相应的型号
+Thu, 22 Feb 2024 19:44:13.821.0 - INFO - root - SKU: 本地型号：ID0999 alias未查到相应的型号
+Thu, 22 Feb 2024 19:44:13.856.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:44:14.142.0 - INFO - root - SKU: 本地型号：ID0999 alias未查到相应的型号
+Thu, 22 Feb 2024 19:44:14.372.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:44:15.421.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:44:16.17.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:44:16.575.0 - INFO - root - SKU: 本地型号：ID0999 alias未查到相应的型号
+Thu, 22 Feb 2024 19:44:17.358.0 - INFO - root - SKU: 本地型号：ID0999 alias未查到相应的型号
+Thu, 22 Feb 2024 19:44:17.583.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:44:18.50.0 - INFO - root - ['puffylette-aluminium-hr1481']
+Thu, 22 Feb 2024 19:44:18.668.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:44:18.950.0 - INFO - root - 符合条件 鞋号HR1481 价位：80.0USD => 575.2RMB - 得物价位：339RMB  SIZE: 39.0=>8
+Thu, 22 Feb 2024 19:44:19.468.0 - INFO - root - ['puffylette-aluminium-hr1481']
+Thu, 22 Feb 2024 19:44:20.349.0 - INFO - root - SKU: 本地型号：IF4230 alias未查到相应的型号
+Thu, 22 Feb 2024 19:44:20.895.0 - INFO - root - 符合条件 鞋号HR1481 价位：2000.0USD => 14380.0RMB - 得物价位：339RMB  SIZE: 43.0=>11
+Thu, 22 Feb 2024 19:44:21.294.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:44:21.387.0 - INFO - root - ['puffylette-aluminium-hr1481']
+Thu, 22 Feb 2024 19:44:21.588.0 - INFO - root - SKU: 本地型号：IF4230 alias未查到相应的型号
+Thu, 22 Feb 2024 19:44:22.322.0 - INFO - root - 符合条件 鞋号HR1481 价位：79.0USD => 568.01RMB - 得物价位：339RMB  SIZE: 42.0=>10
+Thu, 22 Feb 2024 19:44:22.821.0 - INFO - root - SKU: 本地型号：ID0999 alias未查到相应的型号
+Thu, 22 Feb 2024 19:44:22.893.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:44:24.455.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:44:25.638.0 - INFO - root - SKU: 本地型号：ID0999 alias未查到相应的型号
+Thu, 22 Feb 2024 19:44:26.568.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:44:26.663.0 - INFO - root - SKU: 本地型号：ID0999 alias未查到相应的型号
+Thu, 22 Feb 2024 19:44:26.878.0 - INFO - root - SKU: 本地型号：IF3885 alias未查到相应的型号
+Thu, 22 Feb 2024 19:44:27.614.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:44:28.137.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:44:28.403.0 - ERROR - root - coverSize 1 44.5 44.5
+Thu, 22 Feb 2024 19:44:28.403.0 - INFO - root - ['puffylette-aluminium-hr1481']
+Thu, 22 Feb 2024 19:44:28.404.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:44:29.627.0 - INFO - root - SKU: 本地型号：ID0999 alias未查到相应的型号
+Thu, 22 Feb 2024 19:44:29.842.0 - INFO - root - ['puffylette-aluminium-hr1481']
+Thu, 22 Feb 2024 19:44:30.239.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:44:30.935.0 - INFO - root - SKU: HR1481 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:44:31.977.0 - INFO - root - ['puffylette-aluminium-hr1481']
+Thu, 22 Feb 2024 19:44:32.82.0 - INFO - root - SKU: 本地型号：HP2848 alias未查到相应的型号
+Thu, 22 Feb 2024 19:44:32.642.0 - INFO - root - SKU: 本地型号：HP2848 alias未查到相应的型号
+Thu, 22 Feb 2024 19:44:32.739.0 - INFO - root - 符合条件 鞋号HR1481 价位：2000.0USD => 14380.0RMB - 得物价位：424RMB  SIZE: 38.0=>7
+Thu, 22 Feb 2024 19:44:32.782.0 - INFO - root - SKU: 本地型号：IF4230 alias未查到相应的型号
+Thu, 22 Feb 2024 19:44:32.866.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:44:33.361.0 - INFO - root - SKU: 本地型号：IF4230 alias未查到相应的型号
+Thu, 22 Feb 2024 19:44:33.981.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:44:35.26.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:44:35.413.0 - INFO - root - SKU: 本地型号：IF4230 alias未查到相应的型号
+Thu, 22 Feb 2024 19:44:35.548.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:44:36.583.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:44:36.926.0 - INFO - root - ['puffylette-aluminium-hr1481']
+Thu, 22 Feb 2024 19:44:37.803.0 - INFO - root - 价钱不符合条件 4500 差价：-34.44999999999999
+Thu, 22 Feb 2024 19:44:38.88.0 - INFO - root - SKU: 本地型号：IF4230 alias未查到相应的型号
+Thu, 22 Feb 2024 19:44:38.775.0 - INFO - root - ['puffylette-aluminium-hr1481']
+Thu, 22 Feb 2024 19:44:39.19.0 - INFO - root - SKU: 本地型号：ID0999 alias未查到相应的型号
+Thu, 22 Feb 2024 19:44:39.359.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:44:39.550.0 - INFO - root - 符合条件 鞋号HR1481 价位：2000.0USD => 14380.0RMB - 得物价位：429RMB  SIZE: 40.5=>9
+Thu, 22 Feb 2024 19:44:40.406.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:44:42.110.0 - INFO - root - SKU: 本地型号：IF3885 alias未查到相应的型号
+Thu, 22 Feb 2024 19:44:42.310.0 - INFO - root - SKU: 本地型号：HP2848 alias未查到相应的型号
+Thu, 22 Feb 2024 19:44:42.856.0 - INFO - root - SKU: 本地型号：HP2848 alias未查到相应的型号
+Thu, 22 Feb 2024 19:44:43.20.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:44:43.534.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:44:43.599.0 - INFO - root - SKU: 本地型号：IF3885 alias未查到相应的型号
+Thu, 22 Feb 2024 19:44:44.578.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:44:44.892.0 - INFO - root - SKU: 本地型号：IF3885 alias未查到相应的型号
+Thu, 22 Feb 2024 19:44:45.93.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:44:46.138.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:44:46.951.0 - INFO - root - ['forum-low-cl-wonder-white-black-ig3901']
+Thu, 22 Feb 2024 19:44:47.463.0 - INFO - root - ['forum-low-cl-wonder-white-black-ig3901']
+Thu, 22 Feb 2024 19:44:47.951.0 - INFO - root - 符合条件 鞋号IG3901 价位：2000.0USD => 14380.0RMB - 得物价位：579RMB  SIZE: 44.0=>11.5
+Thu, 22 Feb 2024 19:44:48.536.0 - INFO - root - SKU: 本地型号：HP2848 alias未查到相应的型号
+Thu, 22 Feb 2024 19:44:49.791.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:44:50.113.0 - INFO - root - ['forum-low-cl-wonder-white-black-ig3901']
+Thu, 22 Feb 2024 19:44:50.182.0 - INFO - root - ['forum-low-cl-wonder-white-black-ig3901']
+Thu, 22 Feb 2024 19:44:50.572.0 - INFO - root - ['forum-low-cl-wonder-white-black-ig3901']
+Thu, 22 Feb 2024 19:44:51.324.0 - INFO - root - 符合条件 鞋号IG3901 价位：114.0USD => 819.6600000000001RMB - 得物价位：689RMB  SIZE: 36.0=>5.5
+Thu, 22 Feb 2024 19:44:51.435.0 - INFO - root - 符合条件 鞋号IG3901 价位：2000.0USD => 14380.0RMB - 得物价位：689RMB  SIZE: 39.0=>8
+Thu, 22 Feb 2024 19:44:51.490.0 - INFO - root - 符合条件 鞋号IG3901 价位：103.0USD => 740.57RMB - 得物价位：669RMB  SIZE: 42.5=>10.5
+Thu, 22 Feb 2024 19:44:51.788.0 - ERROR - root - coverSize 1 37.0 37.0
+Thu, 22 Feb 2024 19:44:51.788.0 - INFO - root - ['forum-low-cl-wonder-white-black-ig3901']
+Thu, 22 Feb 2024 19:44:51.788.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:44:52.808.0 - INFO - root - ['forum-low-cl-wonder-white-black-ig3901']
+Thu, 22 Feb 2024 19:44:53.300.0 - INFO - root - SKU: 本地型号：HP2848 alias未查到相应的型号
+Thu, 22 Feb 2024 19:44:53.517.0 - INFO - root - ['forum-low-cl-wonder-white-black-ig3901']
+Thu, 22 Feb 2024 19:44:53.633.0 - INFO - root - 符合条件 鞋号IG3901 价位：101.0USD => 726.19RMB - 得物价位：654RMB  SIZE: 38.5=>7.5
+Thu, 22 Feb 2024 19:44:54.516.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:44:54.581.0 - INFO - root - 符合条件 鞋号IG3901 价位：2000.0USD => 14380.0RMB - 得物价位：799RMB  SIZE: 45.0=>12
+Thu, 22 Feb 2024 19:44:54.982.0 - INFO - root - SKU: 本地型号：HP2848 alias未查到相应的型号
+Thu, 22 Feb 2024 19:44:56.391.0 - INFO - root - SKU: 本地型号：HP2848 alias未查到相应的型号
+Thu, 22 Feb 2024 19:44:56.602.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:44:57.660.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:44:57.948.0 - INFO - root - SKU: 本地型号：HP2848 alias未查到相应的型号
+Thu, 22 Feb 2024 19:44:58.693.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:44:58.998.0 - INFO - root - SKU: 本地型号：HP2848 alias未查到相应的型号
+Thu, 22 Feb 2024 19:44:59.317.0 - INFO - root - 符合条件 鞋号IG3901 价位：113.0USD => 812.47RMB - 得物价位：689RMB  SIZE: 38.0=>7
+Thu, 22 Feb 2024 19:44:59.735.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:45:00.41.0 - INFO - root - SKU: 本地型号：HP2848 alias未查到相应的型号
+Thu, 22 Feb 2024 19:45:01.66.0 - INFO - root - SKU: 本地型号：HP2848 alias未查到相应的型号
+Thu, 22 Feb 2024 19:45:01.386.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:45:02.473.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:45:02.910.0 - INFO - root - SKU: 本地型号：IF3885 alias未查到相应的型号
+Thu, 22 Feb 2024 19:45:03.540.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:45:03.830.0 - INFO - root - ['forum-low-cl-wonder-white-black-ig3901']
+Thu, 22 Feb 2024 19:45:04.626.0 - INFO - root - 价钱不符合条件 10000 差价：10.0
+Thu, 22 Feb 2024 19:45:04.906.0 - INFO - root - SKU: 本地型号：IF3885 alias未查到相应的型号
+Thu, 22 Feb 2024 19:45:05.744.0 - INFO - root - SKU: 本地型号：IF3885 alias未查到相应的型号
+Thu, 22 Feb 2024 19:45:06.135.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:45:06.305.0 - INFO - root - ['forum-low-cl-wonder-white-black-ig3901']
+Thu, 22 Feb 2024 19:45:07.126.0 - INFO - root - 符合条件 鞋号IG3901 价位：110.0USD => 790.9000000000001RMB - 得物价位：699RMB  SIZE: 36.5=>6
+Thu, 22 Feb 2024 19:45:07.188.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:45:08.52.0 - INFO - root - SKU: 本地型号：HP2848 alias未查到相应的型号
+Thu, 22 Feb 2024 19:45:08.545.0 - INFO - root - SKU: 本地型号：HP2848 alias未查到相应的型号
+Thu, 22 Feb 2024 19:45:09.306.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:45:09.631.0 - INFO - root - SKU: 本地型号：HP2848 alias未查到相应的型号
+Thu, 22 Feb 2024 19:45:09.822.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:45:10.856.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:45:12.197.0 - INFO - root - SKU: 本地型号：IF3885 alias未查到相应的型号
+Thu, 22 Feb 2024 19:45:12.246.0 - INFO - root - ['forum-low-cl-wonder-white-black-ig3901']
+Thu, 22 Feb 2024 19:45:12.735.0 - INFO - root - ['forum-low-cl-wonder-white-black-ig3901']
+Thu, 22 Feb 2024 19:45:12.957.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:45:13.3.0 - INFO - root - 符合条件 鞋号IG3901 价位：99.0USD => 711.8100000000001RMB - 得物价位：679RMB  SIZE: 42.0=>10
+Thu, 22 Feb 2024 19:45:13.426.0 - INFO - root - ['forum-low-cl-wonder-white-black-ig3901']
+Thu, 22 Feb 2024 19:45:13.516.0 - INFO - root - 符合条件 鞋号IG3901 价位：112.0USD => 805.2800000000001RMB - 得物价位：749RMB  SIZE: 35.5=>5
+Thu, 22 Feb 2024 19:45:14.299.0 - INFO - root - SKU: IG3901 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:45:14.607.0 - INFO - root - ['forum-low-cl-wonder-white-black-ig3901']
+Thu, 22 Feb 2024 19:45:15.362.0 - ERROR - root - coverSize 1 44.5 44.5
+Thu, 22 Feb 2024 19:45:15.362.0 - INFO - root - ['forum-low-cl-wonder-white-black-ig3901']
+Thu, 22 Feb 2024 19:45:15.362.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:45:15.409.0 - INFO - root - 符合条件 鞋号IG3901 价位：2000.0USD => 14380.0RMB - 得物价位：579RMB  SIZE: 43.0=>11
+Thu, 22 Feb 2024 19:45:17.548.0 - INFO - root - SKU: 本地型号：HP2848 alias未查到相应的型号
+Thu, 22 Feb 2024 19:45:18.180.0 - INFO - root - SKU: 本地型号：IE6870 alias未查到相应的型号
+Thu, 22 Feb 2024 19:45:18.255.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:45:18.574.0 - INFO - root - SKU: 本地型号：IE6870 alias未查到相应的型号
+Thu, 22 Feb 2024 19:45:19.314.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:45:19.795.0 - INFO - root - SKU: 本地型号：IF3885 alias未查到相应的型号
+Thu, 22 Feb 2024 19:45:19.830.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:45:20.894.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:45:21.202.0 - INFO - root - ['forum-low-cl-wonder-white-black-ig3901']
+Thu, 22 Feb 2024 19:45:22.32.0 - INFO - root - 符合条件 鞋号IG3901 价位：2000.0USD => 14380.0RMB - 得物价位：679RMB  SIZE: 40.5=>9
+Thu, 22 Feb 2024 19:45:22.238.0 - INFO - root - ['forum-low-cl-wonder-white-black-ig3901']
+Thu, 22 Feb 2024 19:45:23.66.0 - INFO - root - 符合条件 鞋号IG3901 价位：115.0USD => 826.85RMB - 得物价位：679RMB  SIZE: 40.0=>8.5
+Thu, 22 Feb 2024 19:45:23.100.0 - INFO - root - SKU: 本地型号：IE6870 alias未查到相应的型号
+Thu, 22 Feb 2024 19:45:23.309.0 - INFO - root - SKU: 本地型号：IE6870 alias未查到相应的型号
+Thu, 22 Feb 2024 19:45:24.383.0 - INFO - root - SKU: 本地型号：IE6870 alias未查到相应的型号
+Thu, 22 Feb 2024 19:45:24.665.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:45:25.191.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:45:26.266.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:45:26.555.0 - INFO - root - ['vl-court-2-0-black-white-gum-id6017']
+Thu, 22 Feb 2024 19:45:27.360.0 - INFO - root - 符合条件 鞋号ID6017 价位：2000.0USD => 14380.0RMB - 得物价位：337RMB  SIZE: 45.0=>12
+Thu, 22 Feb 2024 19:45:28.214.0 - INFO - root - ['vl-court-2-0-black-white-gum-id6017']
+Thu, 22 Feb 2024 19:45:28.884.0 - INFO - root - ['vl-court-2-0-black-white-gum-id6017']
+Thu, 22 Feb 2024 19:45:29.99.0 - INFO - root - 符合条件 鞋号ID6017 价位：2000.0USD => 14380.0RMB - 得物价位：285RMB  SIZE: 42.0=>10
+Thu, 22 Feb 2024 19:45:29.113.0 - INFO - root - ['vl-court-2-0-black-white-gum-id6017']
+Thu, 22 Feb 2024 19:45:29.746.0 - INFO - root - ['vl-court-2-0-black-white-gum-id6017']
+Thu, 22 Feb 2024 19:45:29.880.0 - INFO - root - 符合条件 鞋号ID6017 价位：2000.0USD => 14380.0RMB - 得物价位：295RMB  SIZE: 39.0=>8
+Thu, 22 Feb 2024 19:45:30.250.0 - INFO - root - 符合条件 鞋号ID6017 价位：2000.0USD => 14380.0RMB - 得物价位：329RMB  SIZE: 38.5=>7.5
+Thu, 22 Feb 2024 19:45:30.286.0 - INFO - root - ['vl-court-2-0-black-white-gum-id6017']
+Thu, 22 Feb 2024 19:45:30.560.0 - INFO - root - 符合条件 鞋号ID6017 价位：2000.0USD => 14380.0RMB - 得物价位：264RMB  SIZE: 44.0=>11.5
+Thu, 22 Feb 2024 19:45:31.109.0 - INFO - root - 符合条件 鞋号ID6017 价位：2000.0USD => 14380.0RMB - 得物价位：309RMB  SIZE: 40.0=>8.5
+Thu, 22 Feb 2024 19:45:31.495.0 - INFO - root - ['vl-court-2-0-black-white-gum-id6017']
+Thu, 22 Feb 2024 19:45:32.267.0 - INFO - root - 符合条件 鞋号ID6017 价位：2000.0USD => 14380.0RMB - 得物价位：259RMB  SIZE: 36.0=>5.5
+Thu, 22 Feb 2024 19:45:34.475.0 - ERROR - root - coverSize 1 46.5 46.5
+Thu, 22 Feb 2024 19:45:34.476.0 - INFO - root - ['vl-court-2-0-black-white-gum-id6017']
+Thu, 22 Feb 2024 19:45:34.476.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:45:35.774.0 - INFO - root - SKU: 本地型号：IE6870 alias未查到相应的型号
+Thu, 22 Feb 2024 19:45:36.57.0 - ERROR - root - coverSize 1 44.5 44.5
+Thu, 22 Feb 2024 19:45:36.57.0 - INFO - root - ['vl-court-2-0-black-white-gum-id6017']
+Thu, 22 Feb 2024 19:45:36.57.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:45:36.809.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:45:37.65.0 - INFO - root - ['vl-court-2-0-black-white-gum-id6017']
+Thu, 22 Feb 2024 19:45:37.119.0 - INFO - root - ['foot-industry-x-gazelle-cream-dark-brown-ig1895']
+Thu, 22 Feb 2024 19:45:37.412.0 - INFO - root - ['vl-court-2-0-black-white-gum-id6017']
+Thu, 22 Feb 2024 19:45:37.915.0 - INFO - root - 符合条件 鞋号ID6017 价位：2000.0USD => 14380.0RMB - 得物价位：459RMB  SIZE: 35.5=>5
+Thu, 22 Feb 2024 19:45:37.936.0 - INFO - root - 符合条件 鞋号IG1895 价位：129.0USD => 927.5100000000001RMB - 得物价位：729RMB  SIZE: 39.0=>8
+Thu, 22 Feb 2024 19:45:38.156.0 - INFO - root - SKU: 本地型号：IE6870 alias未查到相应的型号
+Thu, 22 Feb 2024 19:45:38.353.0 - INFO - root - 符合条件 鞋号ID6017 价位：2000.0USD => 14380.0RMB - 得物价位：268RMB  SIZE: 43.0=>11
+Thu, 22 Feb 2024 19:45:39.21.0 - INFO - root - SKU: 本地型号：IE6870 alias未查到相应的型号
+Thu, 22 Feb 2024 19:45:39.379.0 - INFO - root - ['vl-court-2-0-black-white-gum-id6017']
+Thu, 22 Feb 2024 19:45:39.950.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:45:40.212.0 - INFO - root - 符合条件 鞋号ID6017 价位：2000.0USD => 14380.0RMB - 得物价位：258RMB  SIZE: 42.5=>10.5
+Thu, 22 Feb 2024 19:45:41.512.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:45:42.191.0 - ERROR - root - coverSize 1 47.0 47.0
+Thu, 22 Feb 2024 19:45:42.191.0 - INFO - root - ['vl-court-2-0-black-white-gum-id6017']
+Thu, 22 Feb 2024 19:45:42.191.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:45:43.900.0 - INFO - root - ['vl-court-2-0-black-white-gum-id6017']
+Thu, 22 Feb 2024 19:45:43.980.0 - INFO - root - ['vl-court-2-0-black-white-gum-id6017']
+Thu, 22 Feb 2024 19:45:44.461.0 - ERROR - root - coverSize 0 37.0 37.0
+Thu, 22 Feb 2024 19:45:44.461.0 - INFO - root - ['wmns-vl-court-3-0-black-white-gum-id8796']
+Thu, 22 Feb 2024 19:45:44.461.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:45:44.721.0 - INFO - root - 符合条件 鞋号ID6017 价位：2000.0USD => 14380.0RMB - 得物价位：274RMB  SIZE: 38.0=>7
+Thu, 22 Feb 2024 19:45:44.835.0 - INFO - root - 符合条件 鞋号ID6017 价位：2000.0USD => 14380.0RMB - 得物价位：459RMB  SIZE: 36.5=>6
+Thu, 22 Feb 2024 19:45:44.957.0 - ERROR - root - coverSize 1 37.0 37.0
+Thu, 22 Feb 2024 19:45:44.957.0 - INFO - root - ['vl-court-2-0-black-white-gum-id6017']
+Thu, 22 Feb 2024 19:45:44.957.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:45:45.661.0 - INFO - root - ['vl-court-2-0-black-white-gum-id6017']
+Thu, 22 Feb 2024 19:45:46.408.0 - INFO - root - ['vl-court-2-0-black-white-gum-id6017']
+Thu, 22 Feb 2024 19:45:46.432.0 - INFO - root - 符合条件 鞋号ID6017 价位：2000.0USD => 14380.0RMB - 得物价位：279RMB  SIZE: 41.0=>9.5
+Thu, 22 Feb 2024 19:45:47.199.0 - INFO - root - 符合条件 鞋号ID6017 价位：2000.0USD => 14380.0RMB - 得物价位：279RMB  SIZE: 40.5=>9
+Thu, 22 Feb 2024 19:45:48.386.0 - INFO - root - ['foot-industry-x-gazelle-cream-dark-brown-ig1895']
+Thu, 22 Feb 2024 19:45:48.795.0 - INFO - root - ['wmns-vl-court-3-0-black-white-gum-id8796']
+Thu, 22 Feb 2024 19:45:49.232.0 - INFO - root - 符合条件 鞋号IG1895 价位：2000.0USD => 14380.0RMB - 得物价位：1999RMB  SIZE: 45.0=>12
+Thu, 22 Feb 2024 19:45:49.842.0 - INFO - root - 符合条件 鞋号ID8796 价位：2000.0USD => 14380.0RMB - 得物价位：309RMB  SIZE: 41.0=>8
+Thu, 22 Feb 2024 19:45:51.522.0 - INFO - root - ['wmns-vl-court-3-0-black-white-gum-id8796']
+Thu, 22 Feb 2024 19:45:52.358.0 - INFO - root - 符合条件 鞋号ID8796 价位：56.0USD => 402.64000000000004RMB - 得物价位：309RMB  SIZE: 39.0=>6.5
+Thu, 22 Feb 2024 19:45:52.608.0 - INFO - root - ['foot-industry-x-gazelle-cream-dark-brown-ig1895']
+Thu, 22 Feb 2024 19:45:52.856.0 - INFO - root - ['wmns-vl-court-3-0-black-white-gum-id8796']
+Thu, 22 Feb 2024 19:45:52.972.0 - INFO - root - ['foot-industry-x-gazelle-cream-dark-brown-ig1895']
+Thu, 22 Feb 2024 19:45:53.226.0 - INFO - root - ['foot-industry-x-gazelle-cream-dark-brown-ig1895']
+Thu, 22 Feb 2024 19:45:53.555.0 - INFO - root - 符合条件 鞋号IG1895 价位：148.0USD => 1064.1200000000001RMB - 得物价位：749RMB  SIZE: 43.0=>11
+Thu, 22 Feb 2024 19:45:53.700.0 - INFO - root - 符合条件 鞋号ID8796 价位：2000.0USD => 14380.0RMB - 得物价位：339RMB  SIZE: 42.5=>9
+Thu, 22 Feb 2024 19:45:53.875.0 - INFO - root - 符合条件 鞋号IG1895 价位：119.0USD => 855.61RMB - 得物价位：689RMB  SIZE: 36.0=>5.5
+Thu, 22 Feb 2024 19:45:53.914.0 - INFO - root - ['foot-industry-x-gazelle-cream-dark-brown-ig1895']
+Thu, 22 Feb 2024 19:45:54.29.0 - INFO - root - 符合条件 鞋号IG1895 价位：126.0USD => 905.94RMB - 得物价位：689RMB  SIZE: 36.5=>6
+Thu, 22 Feb 2024 19:45:54.668.0 - ERROR - root - coverSize 1 44.5 44.5
+Thu, 22 Feb 2024 19:45:54.668.0 - INFO - root - ['foot-industry-x-gazelle-cream-dark-brown-ig1895']
+Thu, 22 Feb 2024 19:45:54.668.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:45:54.820.0 - INFO - root - 符合条件 鞋号IG1895 价位：126.0USD => 905.94RMB - 得物价位：749RMB  SIZE: 40.0=>8.5
+Thu, 22 Feb 2024 19:45:56.402.0 - INFO - root - ['wmns-vl-court-3-0-black-white-gum-id8796']
+Thu, 22 Feb 2024 19:45:57.182.0 - INFO - root - SKU: ID8796 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:46:00.43.0 - INFO - root - ['wmns-vl-court-3-0-black-white-gum-id8796']
+Thu, 22 Feb 2024 19:46:00.385.0 - INFO - root - ['wmns-vl-court-3-0-black-white-gum-id8796']
+Thu, 22 Feb 2024 19:46:00.888.0 - INFO - root - ['wmns-vl-court-3-0-black-white-gum-id8796']
+Thu, 22 Feb 2024 19:46:00.929.0 - INFO - root - 符合条件 鞋号ID8796 价位：2000.0USD => 14380.0RMB - 得物价位：339RMB  SIZE: 40.5=>7.5
+Thu, 22 Feb 2024 19:46:00.983.0 - INFO - root - ['wmns-vl-court-3-0-black-white-gum-id8796']
+Thu, 22 Feb 2024 19:46:01.235.0 - INFO - root - 符合条件 鞋号ID8796 价位：2000.0USD => 14380.0RMB - 得物价位：349RMB  SIZE: 42.0=>8.5
+Thu, 22 Feb 2024 19:46:01.367.0 - INFO - root - ['foot-industry-x-gazelle-cream-dark-brown-ig1895']
+Thu, 22 Feb 2024 19:46:01.452.0 - INFO - root - ['foot-industry-x-gazelle-cream-dark-brown-ig1895']
+Thu, 22 Feb 2024 19:46:01.832.0 - INFO - root - 符合条件 鞋号ID8796 价位：2000.0USD => 14380.0RMB - 得物价位：359RMB  SIZE: 43.0=>9.5
+Thu, 22 Feb 2024 19:46:01.901.0 - INFO - root - 符合条件 鞋号ID8796 价位：2000.0USD => 14380.0RMB - 得物价位：419RMB  SIZE: 44.0=>10
+Thu, 22 Feb 2024 19:46:02.200.0 - INFO - root - 符合条件 鞋号IG1895 价位：128.0USD => 920.32RMB - 得物价位：799RMB  SIZE: 40.5=>9
+Thu, 22 Feb 2024 19:46:02.304.0 - ERROR - root - coverSize 1 37.0 37.0
+Thu, 22 Feb 2024 19:46:02.304.0 - INFO - root - ['foot-industry-x-gazelle-cream-dark-brown-ig1895']
+Thu, 22 Feb 2024 19:46:02.304.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:46:02.316.0 - INFO - root - 符合条件 鞋号IG1895 价位：2000.0USD => 14380.0RMB - 得物价位：739RMB  SIZE: 44.0=>11.5
+Thu, 22 Feb 2024 19:46:03.95.0 - INFO - root - ['adizero-rc-4-white-halo-silver-gx8152']
+Thu, 22 Feb 2024 19:46:03.938.0 - INFO - root - 符合条件 鞋号GX8152 价位：99.0USD => 711.8100000000001RMB - 得物价位：469RMB  SIZE: 42.0=>10
+Thu, 22 Feb 2024 19:46:05.751.0 - INFO - root - ['wmns-vl-court-3-0-black-white-gum-id8796']
+Thu, 22 Feb 2024 19:46:06.447.0 - INFO - root - 符合条件 鞋号ID8796 价位：71.0USD => 510.49RMB - 得物价位：329RMB  SIZE: 38.0=>5.5
+Thu, 22 Feb 2024 19:46:07.268.0 - INFO - root - ['adizero-boston-12-white-green-spark-ig3321']
+Thu, 22 Feb 2024 19:46:08.150.0 - INFO - root - 符合条件 鞋号IG3321 价位：122.0USD => 877.1800000000001RMB - 得物价位：839RMB  SIZE: 42.5=>10.5
+Thu, 22 Feb 2024 19:46:08.575.0 - INFO - root - ['wmns-vl-court-3-0-black-white-gum-id8796']
+Thu, 22 Feb 2024 19:46:08.930.0 - INFO - root - ['foot-industry-x-gazelle-cream-dark-brown-ig1895']
+Thu, 22 Feb 2024 19:46:09.300.0 - INFO - root - 符合条件 鞋号ID8796 价位：76.0USD => 546.44RMB - 得物价位：349RMB  SIZE: 38.5=>6
+Thu, 22 Feb 2024 19:46:09.748.0 - INFO - root - ['foot-industry-x-gazelle-cream-dark-brown-ig1895']
+Thu, 22 Feb 2024 19:46:09.798.0 - INFO - root - 符合条件 鞋号IG1895 价位：2000.0USD => 14380.0RMB - 得物价位：729RMB  SIZE: 42.5=>10.5
+Thu, 22 Feb 2024 19:46:10.538.0 - INFO - root - ['wmns-vl-court-3-0-black-white-gum-id8796']
+Thu, 22 Feb 2024 19:46:10.651.0 - INFO - root - 符合条件 鞋号IG1895 价位：131.0USD => 941.8900000000001RMB - 得物价位：689RMB  SIZE: 38.5=>7.5
+Thu, 22 Feb 2024 19:46:11.328.0 - INFO - root - 符合条件 鞋号ID8796 价位：2000.0USD => 14380.0RMB - 得物价位：339RMB  SIZE: 40.0=>7
+Thu, 22 Feb 2024 19:46:11.829.0 - INFO - root - ['foot-industry-x-gazelle-cream-dark-brown-ig1895']
+Thu, 22 Feb 2024 19:46:12.646.0 - INFO - root - 符合条件 鞋号IG1895 价位：2000.0USD => 14380.0RMB - 得物价位：739RMB  SIZE: 42.0=>10
+Thu, 22 Feb 2024 19:46:13.699.0 - INFO - root - ['foot-industry-x-gazelle-cream-dark-brown-ig1895']
+Thu, 22 Feb 2024 19:46:14.155.0 - INFO - root - ['foot-industry-x-gazelle-cream-dark-brown-ig1895']
+Thu, 22 Feb 2024 19:46:14.543.0 - INFO - root - 符合条件 鞋号IG1895 价位：2000.0USD => 14380.0RMB - 得物价位：689RMB  SIZE: 38.0=>7
+Thu, 22 Feb 2024 19:46:15.315.0 - INFO - root - 符合条件 鞋号IG1895 价位：133.0USD => 956.2700000000001RMB - 得物价位：719RMB  SIZE: 41.0=>9.5
+Thu, 22 Feb 2024 19:46:15.396.0 - INFO - root - ['adizero-rc-4-white-halo-silver-gx8152']
+Thu, 22 Feb 2024 19:46:16.190.0 - INFO - root - 符合条件 鞋号GX8152 价位：2000.0USD => 14380.0RMB - 得物价位：379RMB  SIZE: 40.5=>9
+Thu, 22 Feb 2024 19:46:16.786.0 - INFO - root - ['adizero-rc-4-white-halo-silver-gx8152']
+Thu, 22 Feb 2024 19:46:16.793.0 - INFO - root - ['adizero-rc-4-white-halo-silver-gx8152']
+Thu, 22 Feb 2024 19:46:17.565.0 - INFO - root - 符合条件 鞋号GX8152 价位：196.0USD => 1409.24RMB - 得物价位：379RMB  SIZE: 39.0=>8
+Thu, 22 Feb 2024 19:46:17.664.0 - INFO - root - 符合条件 鞋号GX8152 价位：2000.0USD => 14380.0RMB - 得物价位：419RMB  SIZE: 45.0=>12
+Thu, 22 Feb 2024 19:46:18.360.0 - INFO - root - ['adizero-rc-4-white-halo-silver-gx8152']
+Thu, 22 Feb 2024 19:46:18.906.0 - INFO - root - ['adizero-boston-12-white-green-spark-ig3321']
+Thu, 22 Feb 2024 19:46:19.218.0 - INFO - root - 符合条件 鞋号GX8152 价位：2000.0USD => 14380.0RMB - 得物价位：489RMB  SIZE: 42.5=>10.5
+Thu, 22 Feb 2024 19:46:19.951.0 - INFO - root - 符合条件 鞋号IG3321 价位：122.0USD => 877.1800000000001RMB - 得物价位：789RMB  SIZE: 43.0=>11
+Thu, 22 Feb 2024 19:46:20.625.0 - INFO - root - ['adizero-boston-12-white-green-spark-ig3321']
+Thu, 22 Feb 2024 19:46:21.416.0 - INFO - root - 符合条件 鞋号IG3321 价位：122.0USD => 877.1800000000001RMB - 得物价位：759RMB  SIZE: 44.0=>11.5
+Thu, 22 Feb 2024 19:46:21.757.0 - INFO - root - ['wmns-vl-court-3-0-black-white-gum-id8796']
+Thu, 22 Feb 2024 19:46:22.548.0 - INFO - root - SKU: ID8796 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:46:23.628.0 - INFO - root - ['adizero-rc-4-white-halo-silver-gx8152']
+Thu, 22 Feb 2024 19:46:23.806.0 - INFO - root - ['adizero-rc-4-white-halo-silver-gx8152']
+Thu, 22 Feb 2024 19:46:24.452.0 - INFO - root - 符合条件 鞋号GX8152 价位：2000.0USD => 14380.0RMB - 得物价位：429RMB  SIZE: 44.0=>11.5
+Thu, 22 Feb 2024 19:46:24.601.0 - INFO - root - 符合条件 鞋号GX8152 价位：2000.0USD => 14380.0RMB - 得物价位：449RMB  SIZE: 41.0=>9.5
+Thu, 22 Feb 2024 19:46:25.730.0 - INFO - root - ['adizero-boston-12-white-green-spark-ig3321']
+Thu, 22 Feb 2024 19:46:25.801.0 - INFO - root - ['adizero-rc-4-white-halo-silver-gx8152']
+Thu, 22 Feb 2024 19:46:26.64.0 - ERROR - root - coverSize 1 44.5 44.5
+Thu, 22 Feb 2024 19:46:26.65.0 - INFO - root - ['adizero-rc-4-white-halo-silver-gx8152']
+Thu, 22 Feb 2024 19:46:26.65.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:46:26.595.0 - INFO - root - 符合条件 鞋号IG3321 价位：122.0USD => 877.1800000000001RMB - 得物价位：739RMB  SIZE: 39.0=>8
+Thu, 22 Feb 2024 19:46:26.665.0 - INFO - root - 符合条件 鞋号GX8152 价位：2000.0USD => 14380.0RMB - 得物价位：409RMB  SIZE: 40.0=>8.5
+Thu, 22 Feb 2024 19:46:28.13.0 - INFO - root - ['adizero-boston-12-white-green-spark-ig3321']
+Thu, 22 Feb 2024 19:46:28.789.0 - INFO - root - 符合条件 鞋号IG3321 价位：122.0USD => 877.1800000000001RMB - 得物价位：740RMB  SIZE: 41.0=>9.5
+Thu, 22 Feb 2024 19:46:29.396.0 - INFO - root - ['adizero-boston-12-white-green-spark-ig3321']
+Thu, 22 Feb 2024 19:46:30.206.0 - INFO - root - 价钱不符合条件 12200 差价：-4.819999999999936
+Thu, 22 Feb 2024 19:46:30.350.0 - INFO - root - ['adizero-boston-12-white-green-spark-ig3321']
+Thu, 22 Feb 2024 19:46:31.519.0 - INFO - root - 符合条件 鞋号IG3321 价位：2000.0USD => 14380.0RMB - 得物价位：1099RMB  SIZE: 46.0=>13
+Thu, 22 Feb 2024 19:46:31.643.0 - INFO - root - ['adizero-boston-12-white-green-spark-ig3321']
+Thu, 22 Feb 2024 19:46:32.99.0 - ERROR - root - coverSize 1 44.5 44.5
+Thu, 22 Feb 2024 19:46:32.100.0 - INFO - root - ['adizero-boston-12-white-green-spark-ig3321']
+Thu, 22 Feb 2024 19:46:32.100.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:46:32.414.0 - INFO - root - 符合条件 鞋号IG3321 价位：122.0USD => 877.1800000000001RMB - 得物价位：729RMB  SIZE: 40.0=>8.5
+Thu, 22 Feb 2024 19:46:32.978.0 - INFO - root - ['adizero-boston-12-white-green-spark-ig3321']
+Thu, 22 Feb 2024 19:46:33.630.0 - INFO - root - ['adizero-rc-4-white-halo-silver-gx8152']
+Thu, 22 Feb 2024 19:46:33.810.0 - INFO - root - 符合条件 鞋号IG3321 价位：122.0USD => 877.1800000000001RMB - 得物价位：739RMB  SIZE: 40.5=>9
+Thu, 22 Feb 2024 19:46:34.212.0 - ERROR - root - coverSize 1 47.0 47.0
+Thu, 22 Feb 2024 19:46:34.212.0 - INFO - root - ['adizero-rc-4-white-halo-silver-gx8152']
+Thu, 22 Feb 2024 19:46:34.212.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:46:34.690.0 - INFO - root - 符合条件 鞋号GX8152 价位：2000.0USD => 14380.0RMB - 得物价位：403RMB  SIZE: 46.0=>13
+Thu, 22 Feb 2024 19:46:34.867.0 - INFO - root - ['adizero-rc-4-white-halo-silver-gx8152']
+Thu, 22 Feb 2024 19:46:35.776.0 - ERROR - root - coverSize 1 46.5 46.5
+Thu, 22 Feb 2024 19:46:35.776.0 - INFO - root - ['adizero-rc-4-white-halo-silver-gx8152']
+Thu, 22 Feb 2024 19:46:35.776.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:46:35.864.0 - INFO - root - 符合条件 鞋号GX8152 价位：2000.0USD => 14380.0RMB - 得物价位：459RMB  SIZE: 43.0=>11
+Thu, 22 Feb 2024 19:46:36.807.0 - INFO - root - SKU: 本地型号：ID4080 alias未查到相应的型号
+Thu, 22 Feb 2024 19:46:37.570.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:46:38.40.0 - INFO - root - SKU: 本地型号：ID4080 alias未查到相应的型号
+Thu, 22 Feb 2024 19:46:38.606.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:46:39.413.0 - INFO - root - ['adizero-boston-12-white-green-spark-ig3321']
+Thu, 22 Feb 2024 19:46:40.154.0 - INFO - root - SKU: 本地型号：ID3425 alias未查到相应的型号
+Thu, 22 Feb 2024 19:46:40.205.0 - INFO - root - 符合条件 鞋号IG3321 价位：122.0USD => 877.1800000000001RMB - 得物价位：769RMB  SIZE: 42.0=>10
+Thu, 22 Feb 2024 19:46:40.464.0 - INFO - root - SKU: 本地型号：ID3425 alias未查到相应的型号
+Thu, 22 Feb 2024 19:46:40.702.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:46:41.552.0 - INFO - root - SKU: 本地型号：ID4080 alias未查到相应的型号
+Thu, 22 Feb 2024 19:46:42.58.0 - INFO - root - SKU: 本地型号：ID4080 alias未查到相应的型号
+Thu, 22 Feb 2024 19:46:42.278.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:46:43.305.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:46:43.618.0 - INFO - root - SKU: 本地型号：ID4080 alias未查到相应的型号
+Thu, 22 Feb 2024 19:46:43.819.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:46:44.859.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:46:45.542.0 - INFO - root - SKU: 本地型号：ID3425 alias未查到相应的型号
+Thu, 22 Feb 2024 19:46:46.430.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:46:46.838.0 - INFO - root - SKU: 本地型号：ID3425 alias未查到相应的型号
+Thu, 22 Feb 2024 19:46:46.924.0 - INFO - root - SKU: 本地型号：ID3425 alias未查到相应的型号
+Thu, 22 Feb 2024 19:46:47.470.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:46:47.979.0 - INFO - root - SKU: 本地型号：ID3425 alias未查到相应的型号
+Thu, 22 Feb 2024 19:46:48.1.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:46:49.55.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:46:49.353.0 - INFO - root - SKU: 本地型号：ID3425 alias未查到相应的型号
+Thu, 22 Feb 2024 19:46:50.104.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:46:50.553.0 - INFO - root - SKU: 本地型号：ID3425 alias未查到相应的型号
+Thu, 22 Feb 2024 19:46:51.139.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:46:52.449.0 - INFO - root - SKU: 本地型号：ID4080 alias未查到相应的型号
+Thu, 22 Feb 2024 19:46:52.836.0 - INFO - root - SKU: 本地型号：ID4080 alias未查到相应的型号
+Thu, 22 Feb 2024 19:46:53.45.0 - INFO - root - SKU: 本地型号：ID4080 alias未查到相应的型号
+Thu, 22 Feb 2024 19:46:53.241.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:46:53.570.0 - INFO - root - SKU: 本地型号：ID4080 alias未查到相应的型号
+Thu, 22 Feb 2024 19:46:54.329.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:46:54.842.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:46:54.938.0 - INFO - root - SKU: 本地型号：ID4080 alias未查到相应的型号
+Thu, 22 Feb 2024 19:46:55.367.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:46:56.407.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:46:57.81.0 - INFO - root - SKU: 本地型号：ID3425 alias未查到相应的型号
+Thu, 22 Feb 2024 19:46:57.750.0 - INFO - root - SKU: 本地型号：ID3425 alias未查到相应的型号
+Thu, 22 Feb 2024 19:46:57.968.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:46:58.308.0 - INFO - root - SKU: 本地型号：ID3425 alias未查到相应的型号
+Thu, 22 Feb 2024 19:46:59.36.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:46:59.369.0 - INFO - root - SKU: 本地型号：ID3425 alias未查到相应的型号
+Thu, 22 Feb 2024 19:46:59.551.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:47:00.597.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:47:00.904.0 - INFO - root - SKU: 本地型号：IF4228 alias未查到相应的型号
+Thu, 22 Feb 2024 19:47:01.648.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:47:02.803.0 - INFO - root - SKU: 本地型号：ID3425 alias未查到相应的型号
+Thu, 22 Feb 2024 19:47:03.760.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:47:04.231.0 - ERROR - root - coverSize 1 44.5 44.5
+Thu, 22 Feb 2024 19:47:04.231.0 - INFO - root - ['usa-84-crystal-white-mustard-gy2009']
+Thu, 22 Feb 2024 19:47:04.231.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:47:04.358.0 - INFO - root - SKU: 本地型号：ID3425 alias未查到相应的型号
+Thu, 22 Feb 2024 19:47:04.518.0 - INFO - root - SKU: 本地型号：ID4080 alias未查到相应的型号
+Thu, 22 Feb 2024 19:47:05.311.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:47:05.640.0 - INFO - root - SKU: 本地型号：IF4228 alias未查到相应的型号
+Thu, 22 Feb 2024 19:47:05.825.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:47:06.113.0 - INFO - root - SKU: 本地型号：ID3425 alias未查到相应的型号
+Thu, 22 Feb 2024 19:47:06.873.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:47:07.401.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:47:07.446.0 - INFO - root - SKU: 本地型号：ID3425 alias未查到相应的型号
+Thu, 22 Feb 2024 19:47:08.443.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:47:10.181.0 - ERROR - root - coverSize 1 46.5 46.5
+Thu, 22 Feb 2024 19:47:10.182.0 - INFO - root - ['usa-84-crystal-white-mustard-gy2009']
+Thu, 22 Feb 2024 19:47:10.182.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:47:10.472.0 - INFO - root - SKU: 本地型号：ID4080 alias未查到相应的型号
+Thu, 22 Feb 2024 19:47:10.708.0 - INFO - root - SKU: 本地型号：ID4080 alias未查到相应的型号
+Thu, 22 Feb 2024 19:47:11.48.0 - INFO - root - ['usa-84-crystal-white-mustard-gy2009']
+Thu, 22 Feb 2024 19:47:11.89.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:47:11.729.0 - INFO - root - SKU: 本地型号：ID4080 alias未查到相应的型号
+Thu, 22 Feb 2024 19:47:11.827.0 - INFO - root - 符合条件 鞋号GY2009 价位：2000.0USD => 14380.0RMB - 得物价位：273RMB  SIZE: 44.0=>11.5
+Thu, 22 Feb 2024 19:47:12.142.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:47:12.407.0 - ERROR - root - coverSize 1 37.0 37.0
+Thu, 22 Feb 2024 19:47:12.407.0 - INFO - root - ['usa-84-crystal-white-mustard-gy2009']
+Thu, 22 Feb 2024 19:47:12.407.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:47:13.196.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:47:13.650.0 - INFO - root - ['usa-84-crystal-white-mustard-gy2009']
+Thu, 22 Feb 2024 19:47:14.471.0 - INFO - root - 符合条件 鞋号GY2009 价位：2000.0USD => 14380.0RMB - 得物价位：296RMB  SIZE: 43.0=>11
+Thu, 22 Feb 2024 19:47:15.98.0 - INFO - root - SKU: 本地型号：ID4080 alias未查到相应的型号
+Thu, 22 Feb 2024 19:47:16.165.0 - INFO - root - SKU: 本地型号：IF4228 alias未查到相应的型号
+Thu, 22 Feb 2024 19:47:16.451.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:47:16.765.0 - INFO - root - SKU: 本地型号：IF4228 alias未查到相应的型号
+Thu, 22 Feb 2024 19:47:17.520.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:47:17.989.0 - INFO - root - SKU: 本地型号：ID4080 alias未查到相应的型号
+Thu, 22 Feb 2024 19:47:18.48.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:47:19.94.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:47:21.126.0 - INFO - root - SKU: 本地型号：ID4080 alias未查到相应的型号
+Thu, 22 Feb 2024 19:47:21.339.0 - INFO - root - ['usa-84-crystal-white-mustard-gy2009']
+Thu, 22 Feb 2024 19:47:21.478.0 - INFO - root - ['usa-84-crystal-white-mustard-gy2009']
+Thu, 22 Feb 2024 19:47:21.555.0 - INFO - root - ['usa-84-crystal-white-mustard-gy2009']
+Thu, 22 Feb 2024 19:47:21.699.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:47:22.27.0 - INFO - root - SKU: 本地型号：IF4228 alias未查到相应的型号
+Thu, 22 Feb 2024 19:47:22.162.0 - INFO - root - 符合条件 鞋号GY2009 价位：2000.0USD => 14380.0RMB - 得物价位：309RMB  SIZE: 38.0=>7
+Thu, 22 Feb 2024 19:47:22.253.0 - INFO - root - 符合条件 鞋号GY2009 价位：2000.0USD => 14380.0RMB - 得物价位：309RMB  SIZE: 40.0=>8.5
+Thu, 22 Feb 2024 19:47:22.459.0 - INFO - root - SKU: GY2009 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:47:22.733.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:47:24.946.0 - INFO - root - SKU: 本地型号：IF4228 alias未查到相应的型号
+Thu, 22 Feb 2024 19:47:24.977.0 - INFO - root - SKU: 本地型号：IF4228 alias未查到相应的型号
+Thu, 22 Feb 2024 19:47:25.896.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:47:26.171.0 - INFO - root - SKU: 本地型号：IF4228 alias未查到相应的型号
+Thu, 22 Feb 2024 19:47:26.409.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:47:27.446.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:47:27.926.0 - INFO - root - SKU: 本地型号：IF4228 alias未查到相应的型号
+Thu, 22 Feb 2024 19:47:28.491.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:47:28.819.0 - INFO - root - ['usa-84-crystal-white-mustard-gy2009']
+Thu, 22 Feb 2024 19:47:29.680.0 - INFO - root - 符合条件 鞋号GY2009 价位：2000.0USD => 14380.0RMB - 得物价位：409RMB  SIZE: 38.5=>7.5
+Thu, 22 Feb 2024 19:47:30.505.0 - INFO - root - ['usa-84-crystal-white-mustard-gy2009']
+Thu, 22 Feb 2024 19:47:30.627.0 - INFO - root - ['usa-84-crystal-white-mustard-gy2009']
+Thu, 22 Feb 2024 19:47:30.908.0 - INFO - root - ['usa-84-crystal-white-mustard-gy2009']
+Thu, 22 Feb 2024 19:47:31.263.0 - INFO - root - 符合条件 鞋号GY2009 价位：2000.0USD => 14380.0RMB - 得物价位：509RMB  SIZE: 39.0=>8
+Thu, 22 Feb 2024 19:47:31.428.0 - INFO - root - 符合条件 鞋号GY2009 价位：2000.0USD => 14380.0RMB - 得物价位：329RMB  SIZE: 41.0=>9.5
+Thu, 22 Feb 2024 19:47:31.759.0 - INFO - root - 符合条件 鞋号GY2009 价位：2000.0USD => 14380.0RMB - 得物价位：339RMB  SIZE: 45.0=>12
+Thu, 22 Feb 2024 19:47:32.548.0 - INFO - root - ['usa-84-crystal-white-mustard-gy2009']
+Thu, 22 Feb 2024 19:47:33.443.0 - INFO - root - 符合条件 鞋号GY2009 价位：2000.0USD => 14380.0RMB - 得物价位：309RMB  SIZE: 40.5=>9
+Thu, 22 Feb 2024 19:47:33.833.0 - INFO - root - ['usa-84-crystal-white-mustard-gy2009']
+Thu, 22 Feb 2024 19:47:34.75.0 - INFO - root - SKU: 本地型号：ID3424 alias未查到相应的型号
+Thu, 22 Feb 2024 19:47:34.754.0 - INFO - root - 符合条件 鞋号GY2009 价位：2000.0USD => 14380.0RMB - 得物价位：298RMB  SIZE: 42.5=>10.5
+Thu, 22 Feb 2024 19:47:35.148.0 - INFO - root - ['entrap-mid-white-collegiate-green-eg4308']
+Thu, 22 Feb 2024 19:47:35.372.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:47:36.30.0 - INFO - root - 符合条件 鞋号EG4308 价位：2000.0USD => 14380.0RMB - 得物价位：230RMB  SIZE: 40.0=>8.5
+Thu, 22 Feb 2024 19:47:36.755.0 - INFO - root - ['entrap-mid-white-collegiate-green-eg4308']
+Thu, 22 Feb 2024 19:47:37.613.0 - INFO - root - 符合条件 鞋号EG4308 价位：2000.0USD => 14380.0RMB - 得物价位：218RMB  SIZE: 42.5=>10.5
+Thu, 22 Feb 2024 19:47:38.849.0 - INFO - root - ['entrap-mid-white-collegiate-green-eg4308']
+Thu, 22 Feb 2024 19:47:39.661.0 - INFO - root - 符合条件 鞋号EG4308 价位：2000.0USD => 14380.0RMB - 得物价位：259RMB  SIZE: 45.0=>12
+Thu, 22 Feb 2024 19:47:40.195.0 - INFO - root - ['usa-84-crystal-white-mustard-gy2009']
+Thu, 22 Feb 2024 19:47:40.548.0 - INFO - root - SKU: 本地型号：ID3424 alias未查到相应的型号
+Thu, 22 Feb 2024 19:47:41.82.0 - INFO - root - 符合条件 鞋号GY2009 价位：2000.0USD => 14380.0RMB - 得物价位：309RMB  SIZE: 42.0=>10
+Thu, 22 Feb 2024 19:47:41.298.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:47:41.562.0 - INFO - root - ['usa-84-crystal-white-mustard-gy2009']
+Thu, 22 Feb 2024 19:47:41.962.0 - INFO - root - SKU: 本地型号：ID3424 alias未查到相应的型号
+Thu, 22 Feb 2024 19:47:42.353.0 - INFO - root - 符合条件 鞋号GY2009 价位：2000.0USD => 14380.0RMB - 得物价位：253RMB  SIZE: 36.0=>5.5
+Thu, 22 Feb 2024 19:47:43.282.0 - INFO - root - SKU: 本地型号：ID3424 alias未查到相应的型号
+Thu, 22 Feb 2024 19:47:43.395.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:47:44.61.0 - INFO - root - ['entrap-mid-white-collegiate-green-eg4308']
+Thu, 22 Feb 2024 19:47:44.815.0 - INFO - root - 符合条件 鞋号EG4308 价位：2000.0USD => 14380.0RMB - 得物价位：212RMB  SIZE: 42.0=>10
+Thu, 22 Feb 2024 19:47:44.974.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:47:45.304.0 - ERROR - root - coverSize 1 47.0 47.0
+Thu, 22 Feb 2024 19:47:45.304.0 - INFO - root - ['entrap-mid-white-collegiate-green-eg4308']
+Thu, 22 Feb 2024 19:47:45.304.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:47:46.343.0 - ERROR - root - coverSize 1 46.5 46.5
+Thu, 22 Feb 2024 19:47:46.344.0 - INFO - root - ['entrap-mid-white-collegiate-green-eg4308']
+Thu, 22 Feb 2024 19:47:46.344.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:47:47.622.0 - INFO - root - ['entrap-mid-white-collegiate-green-eg4308']
+Thu, 22 Feb 2024 19:47:48.430.0 - INFO - root - 符合条件 鞋号EG4308 价位：2000.0USD => 14380.0RMB - 得物价位：230RMB  SIZE: 44.0=>11.5
+Thu, 22 Feb 2024 19:47:48.627.0 - INFO - root - SKU: 本地型号：ID3424 alias未查到相应的型号
+Thu, 22 Feb 2024 19:47:49.305.0 - INFO - root - ['entrap-mid-white-collegiate-green-eg4308']
+Thu, 22 Feb 2024 19:47:49.738.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:47:50.113.0 - INFO - root - 符合条件 鞋号EG4308 价位：44.0USD => 316.36RMB - 得物价位：213RMB  SIZE: 40.5=>9
+Thu, 22 Feb 2024 19:47:50.357.0 - INFO - root - SKU: 本地型号：ID3424 alias未查到相应的型号
+Thu, 22 Feb 2024 19:47:50.570.0 - INFO - root - SKU: 本地型号：ID3424 alias未查到相应的型号
+Thu, 22 Feb 2024 19:47:51.69.0 - ERROR - root - coverSize 1 48.0 48.0
+Thu, 22 Feb 2024 19:47:51.70.0 - INFO - root - ['entrap-mid-white-collegiate-green-eg4308']
+Thu, 22 Feb 2024 19:47:51.70.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:47:51.835.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:47:52.316.0 - INFO - root - ['entrap-mid-white-collegiate-green-eg4308']
+Thu, 22 Feb 2024 19:47:52.364.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:47:53.126.0 - INFO - root - 符合条件 鞋号EG4308 价位：2000.0USD => 14380.0RMB - 得物价位：240RMB  SIZE: 46.0=>13
+Thu, 22 Feb 2024 19:47:53.971.0 - INFO - root - ['entrap-mid-white-collegiate-green-eg4308']
+Thu, 22 Feb 2024 19:47:54.259.0 - INFO - root - ['entrap-mid-white-collegiate-green-eg4308']
+Thu, 22 Feb 2024 19:47:54.774.0 - INFO - root - 符合条件 鞋号EG4308 价位：2000.0USD => 14380.0RMB - 得物价位：217RMB  SIZE: 41.0=>9.5
+Thu, 22 Feb 2024 19:47:55.124.0 - INFO - root - 符合条件 鞋号EG4308 价位：46.0USD => 330.74RMB - 得物价位：239RMB  SIZE: 39.0=>8
+Thu, 22 Feb 2024 19:47:56.314.0 - INFO - root - SKU: 本地型号：ID3424 alias未查到相应的型号
+Thu, 22 Feb 2024 19:47:56.884.0 - INFO - root - SKU: 本地型号：ID3424 alias未查到相应的型号
+Thu, 22 Feb 2024 19:47:57.639.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:47:57.982.0 - INFO - root - SKU: 本地型号：ID3424 alias未查到相应的型号
+Thu, 22 Feb 2024 19:47:58.181.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:47:58.271.0 - INFO - root - SKU: 本地型号：ID3424 alias未查到相应的型号
+Thu, 22 Feb 2024 19:47:59.279.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:47:59.551.0 - INFO - root - SKU: 本地型号：GX4587 alias未查到相应的型号
+Thu, 22 Feb 2024 19:47:59.854.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:48:00.946.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:48:01.720.0 - INFO - root - SKU: 本地型号：GX4587 alias未查到相应的型号
+Thu, 22 Feb 2024 19:48:02.516.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:48:02.657.0 - INFO - root - ['entrap-mid-white-collegiate-green-eg4308']
+Thu, 22 Feb 2024 19:48:02.835.0 - ERROR - root - coverSize 1 44.5 44.5
+Thu, 22 Feb 2024 19:48:02.835.0 - INFO - root - ['entrap-mid-white-collegiate-green-eg4308']
+Thu, 22 Feb 2024 19:48:02.836.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:48:03.413.0 - INFO - root - 符合条件 鞋号EG4308 价位：56.0USD => 402.64000000000004RMB - 得物价位：219RMB  SIZE: 43.0=>11
+Thu, 22 Feb 2024 19:48:03.885.0 - ERROR - root - coverSize 1 44.5 44.5
+Thu, 22 Feb 2024 19:48:03.886.0 - INFO - root - ['adipuff-magic-beige-carbon-orange-if4227']
+Thu, 22 Feb 2024 19:48:03.886.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:48:05.453.0 - INFO - root - SKU: 本地型号：ID3424 alias未查到相应的型号
+Thu, 22 Feb 2024 19:48:05.455.0 - INFO - root - SKU: 本地型号：ID3424 alias未查到相应的型号
+Thu, 22 Feb 2024 19:48:06.5.0 - INFO - root - SKU: 本地型号：ID3424 alias未查到相应的型号
+Thu, 22 Feb 2024 19:48:06.213.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:48:06.740.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:48:06.926.0 - INFO - root - SKU: 本地型号：ID3424 alias未查到相应的型号
+Thu, 22 Feb 2024 19:48:07.782.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:48:08.301.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:48:08.433.0 - INFO - root - SKU: 本地型号：GX4587 alias未查到相应的型号
+Thu, 22 Feb 2024 19:48:09.342.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:48:09.680.0 - INFO - root - SKU: 本地型号：GX4587 alias未查到相应的型号
+Thu, 22 Feb 2024 19:48:10.372.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:48:10.684.0 - INFO - root - SKU: 本地型号：GX4587 alias未查到相应的型号
+Thu, 22 Feb 2024 19:48:11.412.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:48:11.771.0 - INFO - root - ['adipuff-magic-beige-carbon-orange-if4227']
+Thu, 22 Feb 2024 19:48:12.557.0 - INFO - root - SKU: IF4227 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:48:12.833.0 - INFO - root - ['adipuff-magic-beige-carbon-orange-if4227']
+Thu, 22 Feb 2024 19:48:13.329.0 - ERROR - root - coverSize 1 47.0 47.0
+Thu, 22 Feb 2024 19:48:13.330.0 - INFO - root - ['adipuff-magic-beige-carbon-orange-if4227']
+Thu, 22 Feb 2024 19:48:13.330.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:48:13.727.0 - INFO - root - 符合条件 鞋号IF4227 价位：2000.0USD => 14380.0RMB - 得物价位：287RMB  SIZE: 40.5=>9
+Thu, 22 Feb 2024 19:48:14.860.0 - INFO - root - ['adipuff-magic-beige-carbon-orange-if4227']
+Thu, 22 Feb 2024 19:48:15.59.0 - INFO - root - SKU: 本地型号：GX4587 alias未查到相应的型号
+Thu, 22 Feb 2024 19:48:15.664.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:48:15.715.0 - INFO - root - SKU: IF4227 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:48:17.10.0 - INFO - root - SKU: 本地型号：GX4587 alias未查到相应的型号
+Thu, 22 Feb 2024 19:48:17.19.0 - INFO - root - SKU: 本地型号：GX4587 alias未查到相应的型号
+Thu, 22 Feb 2024 19:48:17.754.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:48:18.83.0 - INFO - root - SKU: 本地型号：GX4587 alias未查到相应的型号
+Thu, 22 Feb 2024 19:48:18.274.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:48:19.305.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:48:20.177.0 - INFO - root - SKU: 本地型号：GX4587 alias未查到相应的型号
+Thu, 22 Feb 2024 19:48:20.638.0 - INFO - root - ['adipuff-magic-beige-carbon-orange-if4227']
+Thu, 22 Feb 2024 19:48:20.881.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:48:21.401.0 - INFO - root - 符合条件 鞋号IF4227 价位：2000.0USD => 14380.0RMB - 得物价位：282RMB  SIZE: 43.0=>11
+Thu, 22 Feb 2024 19:48:22.500.0 - INFO - root - SKU: 本地型号：GX4587 alias未查到相应的型号
+Thu, 22 Feb 2024 19:48:22.603.0 - INFO - root - SKU: 本地型号：GX4587 alias未查到相应的型号
+Thu, 22 Feb 2024 19:48:23.61.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:48:23.357.0 - INFO - root - SKU: 本地型号：GX4587 alias未查到相应的型号
+Thu, 22 Feb 2024 19:48:24.105.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:48:24.596.0 - INFO - root - SKU: 本地型号：GX4587 alias未查到相应的型号
+Thu, 22 Feb 2024 19:48:24.625.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:48:25.666.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:48:26.168.0 - INFO - root - ['adipuff-magic-beige-carbon-orange-if4227']
+Thu, 22 Feb 2024 19:48:27.34.0 - INFO - root - 符合条件 鞋号IF4227 价位：2000.0USD => 14380.0RMB - 得物价位：299RMB  SIZE: 39.0=>8
+Thu, 22 Feb 2024 19:48:27.351.0 - INFO - root - ['adipuff-magic-beige-carbon-orange-if4227']
+Thu, 22 Feb 2024 19:48:27.570.0 - INFO - root - ['adipuff-magic-beige-carbon-orange-if4227']
+Thu, 22 Feb 2024 19:48:28.100.0 - INFO - root - SKU: 本地型号：GX4587 alias未查到相应的型号
+Thu, 22 Feb 2024 19:48:28.374.0 - INFO - root - SKU: IF4227 不符合条件，价格获取为空
+Thu, 22 Feb 2024 19:48:28.824.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:48:29.426.0 - INFO - root - 符合条件 鞋号IF4227 价位：2000.0USD => 14380.0RMB - 得物价位：265RMB  SIZE: 42.0=>10
+Thu, 22 Feb 2024 19:48:31.254.0 - ERROR - root - coverSize 1 48.5 48.5
+Thu, 22 Feb 2024 19:48:31.254.0 - INFO - root - ['ae-1-with-love-if1859']
+Thu, 22 Feb 2024 19:48:31.254.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:48:31.363.0 - ERROR - root - coverSize 1 47.0 47.0
+Thu, 22 Feb 2024 19:48:31.363.0 - INFO - root - ['ae-1-with-love-if1859']
+Thu, 22 Feb 2024 19:48:31.363.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:48:32.87.0 - ERROR - root - coverSize 1 37.0 37.0
+Thu, 22 Feb 2024 19:48:32.87.0 - INFO - root - ['ae-1-with-love-if1859']
+Thu, 22 Feb 2024 19:48:32.87.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:48:32.601.0 - INFO - root - ['ae-1-with-love-if1859']
+Thu, 22 Feb 2024 19:48:32.892.0 - ERROR - root - coverSize 1 46.5 46.5
+Thu, 22 Feb 2024 19:48:32.892.0 - INFO - root - ['ae-1-with-love-if1859']
+Thu, 22 Feb 2024 19:48:32.892.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:48:33.374.0 - INFO - root - ['ae-1-with-love-if1859']
+Thu, 22 Feb 2024 19:48:33.441.0 - INFO - root - 符合条件 鞋号IF1859 价位：154.0USD => 1107.26RMB - 得物价位：799RMB  SIZE: 40.5=>9
+Thu, 22 Feb 2024 19:48:33.870.0 - ERROR - root - coverSize 1 44.5 44.5
+Thu, 22 Feb 2024 19:48:33.870.0 - INFO - root - ['ae-1-with-love-if1859']
+Thu, 22 Feb 2024 19:48:33.870.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:48:34.198.0 - INFO - root - 符合条件 鞋号IF1859 价位：160.0USD => 1150.4RMB - 得物价位：819RMB  SIZE: 40.0=>8.5
+Thu, 22 Feb 2024 19:48:34.811.0 - INFO - root - SKU: 本地型号：GX4587 alias未查到相应的型号
+Thu, 22 Feb 2024 19:48:36.105.0 - INFO - root - ['ae-1-with-love-if1859']
+Thu, 22 Feb 2024 19:48:36.238.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:48:36.797.0 - INFO - root - ['ae-1-with-love-if1859']
+Thu, 22 Feb 2024 19:48:36.941.0 - INFO - root - 价钱不符合条件 13200 差价：-9.919999999999959
+Thu, 22 Feb 2024 19:48:37.588.0 - INFO - root - ['ae-1-with-love-if1859']
+Thu, 22 Feb 2024 19:48:37.651.0 - INFO - root - 符合条件 鞋号IF1859 价位：162.0USD => 1164.78RMB - 得物价位：879RMB  SIZE: 42.0=>10
+Thu, 22 Feb 2024 19:48:38.118.0 - INFO - root - ['ae-1-with-love-if1859']
+Thu, 22 Feb 2024 19:48:38.425.0 - INFO - root - 符合条件 鞋号IF1859 价位：169.0USD => 1215.1100000000001RMB - 得物价位：849RMB  SIZE: 41.0=>9.5
+Thu, 22 Feb 2024 19:48:38.907.0 - INFO - root - 符合条件 鞋号IF1859 价位：2000.0USD => 14380.0RMB - 得物价位：1049RMB  SIZE: 45.0=>12
+Thu, 22 Feb 2024 19:48:39.147.0 - INFO - root - ['ae-1-with-love-if1859']
+Thu, 22 Feb 2024 19:48:39.967.0 - INFO - root - 符合条件 鞋号IF1859 价位：178.0USD => 1279.8200000000002RMB - 得物价位：959RMB  SIZE: 36.0=>5.5
+Thu, 22 Feb 2024 19:48:41.408.0 - INFO - root - ['ae-1-with-love-if1859']
+Thu, 22 Feb 2024 19:48:41.976.0 - INFO - root - ['ae-1-with-love-if1859']
+Thu, 22 Feb 2024 19:48:42.744.0 - INFO - root - 符合条件 鞋号IF1859 价位：2000.0USD => 14380.0RMB - 得物价位：959RMB  SIZE: 44.0=>11.5
+Thu, 22 Feb 2024 19:48:43.1.0 - ERROR - root - coverSize 1 48.0 48.0
+Thu, 22 Feb 2024 19:48:43.2.0 - INFO - root - ['ae-1-with-love-if1859']
+Thu, 22 Feb 2024 19:48:43.2.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:48:43.227.0 - INFO - root - 符合条件 鞋号IF1859 价位：173.0USD => 1243.8700000000001RMB - 得物价位：909RMB  SIZE: 43.0=>11
+Thu, 22 Feb 2024 19:48:43.712.0 - INFO - root - ['ae-1-with-love-if1859']
+Thu, 22 Feb 2024 19:48:44.497.0 - INFO - root - ['ae-1-with-love-if1859']
+Thu, 22 Feb 2024 19:48:45.28.0 - INFO - root - 符合条件 鞋号IF1859 价位：173.0USD => 1243.8700000000001RMB - 得物价位：989RMB  SIZE: 42.5=>10.5
+Thu, 22 Feb 2024 19:48:45.293.0 - INFO - root - ['ae-1-with-love-if1859']
+Thu, 22 Feb 2024 19:48:45.846.0 - INFO - root - 符合条件 鞋号IF1859 价位：2000.0USD => 14380.0RMB - 得物价位：1013RMB  SIZE: 46.0=>13
+Thu, 22 Feb 2024 19:48:46.103.0 - INFO - root - ['ae-1-with-love-if1859']
+Thu, 22 Feb 2024 19:48:46.269.0 - INFO - root - 价钱不符合条件 12900 差价：18.510000000000105
+Thu, 22 Feb 2024 19:48:46.971.0 - INFO - root - 符合条件 鞋号IF1859 价位：136.0USD => 977.84RMB - 得物价位：869RMB  SIZE: 39.0=>8
+Thu, 22 Feb 2024 19:48:47.520.0 - INFO - root - SKU: 本地型号：GX4367 alias未查到相应的型号
+Thu, 22 Feb 2024 19:48:48.927.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:48:50.445.0 - INFO - root - SKU: 本地型号：GX4367 alias未查到相应的型号
+Thu, 22 Feb 2024 19:48:50.940.0 - INFO - root - SKU: 本地型号：GX4367 alias未查到相应的型号
+Thu, 22 Feb 2024 19:48:51.52.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:48:51.371.0 - INFO - root - SKU: 本地型号：GX4367 alias未查到相应的型号
+Thu, 22 Feb 2024 19:48:52.113.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:48:52.368.0 - INFO - root - SKU: 本地型号：GX4367 alias未查到相应的型号
+Thu, 22 Feb 2024 19:48:52.617.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:48:53.660.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:48:53.954.0 - INFO - root - SKU: 本地型号：GX4367 alias未查到相应的型号
+Thu, 22 Feb 2024 19:48:54.224.0 - INFO - root - SKU: 本地型号：GX4367 alias未查到相应的型号
+Thu, 22 Feb 2024 19:48:54.732.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:48:55.48.0 - INFO - root - SKU: 本地型号：GX4367 alias未查到相应的型号
+Thu, 22 Feb 2024 19:48:55.767.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:48:56.288.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:48:56.371.0 - INFO - root - SKU: 本地型号：GX4367 alias未查到相应的型号
+Thu, 22 Feb 2024 19:48:57.350.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:48:57.810.0 - INFO - root - SKU: 本地型号：GX4367 alias未查到相应的型号
+Thu, 22 Feb 2024 19:48:58.401.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:48:59.57.0 - INFO - root - SKU: 本地型号：GX4367 alias未查到相应的型号
+Thu, 22 Feb 2024 19:48:59.977.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:49:00.98.0 - INFO - root - SKU: 本地型号：GX4367 alias未查到相应的型号
+Thu, 22 Feb 2024 19:49:01.22.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:49:01.145.0 - INFO - root - SKU: 本地型号：GX4367 alias未查到相应的型号
+Thu, 22 Feb 2024 19:49:01.332.0 - INFO - root - SKU: 本地型号：GX4367 alias未查到相应的型号
+Thu, 22 Feb 2024 19:49:02.69.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:49:02.371.0 - INFO - root - SKU: 本地型号：GX4367 alias未查到相应的型号
+Thu, 22 Feb 2024 19:49:02.590.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:49:03.621.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:49:04.266.0 - INFO - root - ['bermuda-collegiate-burgundy-ie7426']
+Thu, 22 Feb 2024 19:49:05.201.0 - INFO - root - 符合条件 鞋号IE7426 价位：2000.0USD => 14380.0RMB - 得物价位：1389RMB  SIZE: 36.5=>6
+Thu, 22 Feb 2024 19:49:05.502.0 - INFO - root - ['bermuda-collegiate-burgundy-ie7426']
+Thu, 22 Feb 2024 19:49:06.184.0 - INFO - root - SKU: 本地型号：GX4367 alias未查到相应的型号
+Thu, 22 Feb 2024 19:49:06.241.0 - INFO - root - ['bermuda-collegiate-burgundy-ie7426']
+Thu, 22 Feb 2024 19:49:06.439.0 - INFO - root - 符合条件 鞋号IE7426 价位：2000.0USD => 14380.0RMB - 得物价位：899RMB  SIZE: 45.0=>12
+Thu, 22 Feb 2024 19:49:07.66.0 - INFO - root - 符合条件 鞋号IE7426 价位：2000.0USD => 14380.0RMB - 得物价位：749RMB  SIZE: 42.5=>10.5
+Thu, 22 Feb 2024 19:49:07.331.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:49:08.923.0 - INFO - root - ['bermuda-collegiate-burgundy-ie7426']
+Thu, 22 Feb 2024 19:49:09.284.0 - INFO - root - SKU: 本地型号：GX4367 alias未查到相应的型号
+Thu, 22 Feb 2024 19:49:09.559.0 - INFO - root - ['bermuda-collegiate-burgundy-ie7426']
+Thu, 22 Feb 2024 19:49:09.772.0 - INFO - root - 符合条件 鞋号IE7426 价位：237.0USD => 1704.0300000000002RMB - 得物价位：1679RMB  SIZE: 38.0=>7
+Thu, 22 Feb 2024 19:49:09.808.0 - ERROR - root - 2 - 
+Thu, 22 Feb 2024 19:49:10.546.0 - INFO - root - 价钱不符合条件 12900 差价：-451.4899999999999
